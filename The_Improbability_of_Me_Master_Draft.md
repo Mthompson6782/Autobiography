@@ -79,29 +79,31 @@ But the systems thinking didn't start in a university lecture hall or a corporat
 
 If you want to understand the machine, you have to look at the factory where it was built.
 
-My factory was a row house with a basement on Williams Street, right in the Federal Hill neighborhood of Baltimore. My grandfather, Jim, bought the place with a GI loan for three thousand dollars. Today, Federal Hill is gentrified and expensive—a playground of high-end bistros and young professionals. Back then, it was just Baltimore—working-class, gritty, and smelling faintly of McCormick’s spices drifting off the harbor. On humid days, the air was heavy with the sweet, sharp scent of cinnamon and nutmeg, a bizarre, pleasant mask over the city's harder realities.
+My factory was a row house on Williams Street, right in the Federal Hill neighborhood of Baltimore. My grandfather, Jim, a career railroad man and Air Force Veteran from WW2, bought the place with a GI loan for three thousand dollars. Jim was a physically large man. 6'2" with a thick frame. Even into his 80s he was hunting and pulling deer out of the woods in West Virginia. Jim would go to sleep at sundown or 7 o'clock. Whichever came first. Then he would be up the next morning at 4:30 a.m. He was a man of incredible routine. He walked or rode the train everywhere. I don't think he ever actually got a driver's license. 
+
+Today, Federal Hill is gentrified and expensive—a playground of high-end bistros and young professionals. Back then, it was just Baltimore—working-class, gritty, and smelling faintly of McCormick’s spices drifting off the harbor. On humid days, the air was heavy with the sweet, sharp scent of cinnamon and nutmeg, a bizarre, pleasant mask over the city's harder realities.
 
 But inside that house, the smell of McCormick’s was always overpowered by the smell of bleach and the occasional ammonia—my grandmother’s preferred cleaning products.
 
 That was Pauline.
 
-Pauline Sutherland was my maternal grandmother. She was a tiny, dark-skinned woman with high cheekbones and thick lips—my mother and I both look like her—and a presence that demanded absolute respect. She suffered no fools and took no bullshit. When you saw her ball up her fist, bite her tongue, and draw in a slow, silent breath, you knew what time it was. Someone was about to get an ass-whipping, and you just prayed it wasn't you.
+Pauline Sutherland was my maternal grandmother. She was a tiny, dark-skinned woman with high cheekbones and thick lips—my mother and I both look like her—and a presence that demanded absolute respect. She suffered no fools and took no bullshit. When you saw her ball up her fist, bite her tongue, and draw in a slow, silent breath, you knew what time it was. Someone was about to get an ass-whipping, and you just prayed it wasn't you. I was mostly good but caught the occasional ass-whipping. She had a little plastic chandelier in her living room. I found out the individual ornaments looked like little swords. I sat there throwing a pillow up in the air knocking them off. Needless to say, when she found me it wasn't an 'oh that's so sweet,' it was 'I'm gonna beat your little ass!'
 
-She kept that massive house incredibly clean. The kitchen had black and white linoleum tiles, polished until they shone like glass. In the winter, when the old radiators clanked and shivered, the natural gas stove was always left on, its pale blue flames hissing quietly to provide auxiliary heat. It was a house defined by its rules, its cleanliness, and the undeniable gravity of my grandmother.
+She kept that house incredibly clean. The kitchen had black and white linoleum tiles, polished until they shone like glass. In the winter, when the old radiators clanked and shivered, the natural gas stove was always left on, its pale blue flames hissing quietly to provide auxiliary heat. It was a house defined by its rules, its cleanliness, and the undeniable gravity of my grandmother.
 
 I spent a lot of time with Pauline because my own mother wasn't cut out for the job.
 
-My mother was young, and she simply lacked those natural maternal instincts. Our relationship was complicated, mostly because it barely existed. I never felt like she actually wanted to be in my life. When she looked at me, I didn't see warmth or connection; I saw the cold, flat gaze of a woman who viewed my existence as a mechanical inconvenience she hadn't planned for.
+My mother was young, and she simply lacked those natural maternal instincts at that stage of life. Our relationship was complicated, mostly because it barely existed. I never felt like she actually wanted to be in my life. When she looked at me, I didn't see warmth or connection; I saw the cold, flat gaze of a woman who viewed my existence as a mechanical inconvenience she hadn't planned for.
 
 When you are a kid, realizing your mother doesn't want you can break you. It leaves a hollow space in your core, a systemic deficit that most people spend their entire lives trying to fill with alcohol, drugs, or toxic relationships. But for me, the deficit did something else. Looking back, that absence became a strange kind of superpower. Because I didn't have a mother looking out for me at home, I sought out motherly love from the women I encountered in the world—mostly my teachers.
 
-I figured out the transaction early. It was a simple, elegant math problem: if I was smart, if I performed, they would care about me. 
+I figured out the transaction early. It was a simple, elegant math problem: if I was smart, if I performed, they would care about me.
 
-I remember a specific substitute teacher in the third grade, Mrs. Hendershot. She had soft eyes, smelled faintly of lavender, and wore a silver locket around her neck. She stood at the chalkboard, writing out a long-division problem that had the rest of the class staring blankly at their desks. I didn't just want to solve the problem; I wanted to buy her approval. My hand shot into the air, my chest straining forward off the wooden chair. 
+I remember a specific substitute teacher in the third grade, Mrs. Hendershot. She had soft eyes, smelled faintly of lavender, and wore a silver locket around her neck. She stood at the chalkboard, writing out a long-division problem that had the rest of the class staring blankly at their desks. I didn't just want to solve the problem; I wanted to buy her approval. My hand shot into the air, my chest straining forward off the wooden chair.
 
 "Michael," she said, pointing a chalk-dusted finger at me.
 
-I stood up and delivered the answer, step by step, with clinical precision. Mrs. Hendershot beamed. "Excellent, Michael! You are so incredibly smart," she said, her voice dripping with the warm, unconditional praise I had never once heard inside the walls of my own home. 
+I stood up and delivered the answer, step by step, with clinical precision. Mrs. Hendershot beamed. "Excellent, Michael! You are so incredibly smart," she said, her voice dripping with the warm, unconditional praise I had never once heard inside the walls of my own home.
 
 That was the spark. I felt an addictive, intoxicating rush of validation surge through my system. I realized that while my mother’s affection was an empty drawer, I could purchase attention and care from the world with sheer academic compliance. I became the ultimate teacher’s pet. I always raised my hand. I always knew the answer. I didn't just want good grades; I wanted the teacher to love me. I would stay after class to clean the erasers, clapping the felt blocks together in the alley until the white chalk dust choked the air, just to spend five more minutes in the warmth of their approval. It drove an obsession with learning and data consumption that never stopped.
 
@@ -125,7 +127,7 @@ Pauline, the tough, no-bullshit woman who ruled the house with an iron fist and 
 
 I survived the TB, obviously. The fever eventually broke, the little chickens disappeared back into the broth, and the Williams Street factory resumed its normal operations.
 
-But I never forgot the lesson. The mind is a powerful machine, capable of absorbing encyclopedias and building complex realities. But it is housed in a physical chassis that can fail. 
+But I never forgot the lesson. The mind is a powerful machine, capable of absorbing encyclopedias and building complex realities. But it is housed in a physical chassis that can fail.
 
 I learned how to read systems from those books. I learned how to survive from Pauline. And I learned that, eventually, you have to build your own armor, because the people who are supposed to protect you aren't always going to be there. And when the chassis starts to fail, no one is going to fix it but you.
 
