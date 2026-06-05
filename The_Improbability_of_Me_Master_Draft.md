@@ -167,7 +167,7 @@ Then there were the Heberles. They were poor, but they were good, solid people. 
 
 Timmy had taken an interest in me and decided he was going to teach me how to use nunchucks. I was obsessed with the idea. I scraped together some money, walked down to the local hardware store, and bought a wooden dowel so we could build a pair. My dad picked me up on his motorcycle, and I hopped on the back, clutching that dowel. We were driving home when some bitch wasn't paying attention and ran us completely over. We went down hard on the asphalt.
 
-I survived the crash, but the real tragedy hit a week later. Timmy shot himself. The truth was, he was gay, and in that neighborhood, in that era, he just couldn't deal with the reality of it. The pressure broke him. I remember seeing the blood and the splatter left behind. To this day, it absolutely tears me up to think about it. Just like that, the sentinel of the block was gone. 
+I survived the crash with a ruptured eardrum and a seven-inch scar running down my leg, but the real tragedy hit a week later. Timmy shot himself. The truth was, he was gay, and in that neighborhood, in that era, he just couldn't deal with the reality of it. The pressure broke him. I remember seeing the blood and the splatter left behind. To this day, it absolutely tears me up to think about it. Just like that, the sentinel of the block was gone. 
 
 The trauma rippled right through the remaining family. A few days after the suicide, John, completely unmoored by the loss of his brother, caught their house on fire. It was a fast, brutal lesson in how quickly things could be violently taken away from you in that environment, and how destruction breeds destruction.
 
