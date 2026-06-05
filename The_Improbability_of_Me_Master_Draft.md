@@ -141,25 +141,27 @@ I learned how to read systems from those books. I learned how to survive from Pa
 
 ---
 
-Before the Paratrooper, before Johnson Street, and before the knives came out on Greenmount Avenue, there was Audrey Avenue.
+Before the Paratrooper, before Johnson Street, and before the knife came out on North Avenue, there was Audrey Avenue.
 
 Audrey Avenue was in Brooklyn, a neighborhood in South Baltimore. In the geography of the city, Brooklyn is where you go when you slide. It’s a purgatory of low-cost apartments, chemical tank farms, and a shittier class of people. When you end up in Brooklyn, you are there for one of two reasons: you are there to completely give up and let the city dissolve you, or you are there to get your shit together.
 
 My dad was trying to get his shit together.
 
-Just like my mother lacked maternal instincts, my dad was young and figuring out the father thing as we went. He did his best, but times were incredibly tough. He was working exhausting double shifts as a heavy diesel mechanic down at a commercial garage near the harbor. He would come home late at night, his steel-toed boots making a heavy, tired thud on the linoleum floor. I remember the smell that followed him into the apartment—a thick, industrial cocktail of carbon soot, WD-40, and old engine oil that had soaked deep into the fabric of his dark blue work shirts. His hands were mapped with black grease that never fully washed out, his fingernails permanently stained with the soot of diesel engines. He was running himself into the ground, trading his physical joints for the cash we needed to survive.
+Just like my mother lacked maternal instincts, my dad was young and figuring out the father thing as we went. He did his best, but times were incredibly tough. He was working piecemeal work at Locke Insulators. Locke Insulators was probably one of the biggest polluters of the harbor. He used to tell me how they would just throw shit into the harbor. Everybody threw shit into the harbor; it's almost like that's what it's for. It takes shit you no longer want or no longer want to be found. Now, that could be cracked insulators, chemical waste, guns, or bodies. Locke Insulators was adjacent to Cherry Hill; it was an even shittier place.
+
+He would come home late at night, his steel-toed boots making a heavy, tired thud on the floor. He was a kind of skilled laborer, crafting the big industrial insulators you see on electrical distribution lines. My father was actually a fairly intelligent man. He knew those streets, but he took a couple of college classes. He never graduated, but I always remember him having a sharp mind for math. My father has a thick old-school Baltimore City accent. My wife, a native of Detroit, cannot understand him. She's not sure it's actually English.
 
 We lived in old, World War II-era housing—brick rowhouses that had been chopped up and converted into cheap, run-down apartments. Our place was small, cramped, and entirely stripped of anything resembling luxury. The walls were stark white, and they always smelled faintly of fresh, cheap paint. The landlords didn't actually clean anything between tenants; whenever a new person came along, they would just roll a fresh coat of cheap latex white paint directly over whatever grime, grease, or dead bugs were left behind by the last people. If you looked closely at the walls, you could see the raised outlines of dirt clods and hair permanently sealed under the gloss.
 
-I didn't even have a bed. I slept on a squeaking metal military cot in the corner of the small room, the canvas stretched tight and thin over the frame. 
+I didn't even have a bed. I slept on a squeaking metal military cot in the corner of the small room, the canvas stretched tight and thin over the frame.
 
-And there were roaches. 
+And there were roaches.
 
 There are always roaches when you live in places like that, but Audrey Avenue had them on a systemic scale. They infested the hollow sheetrock walls. I remember waking up in the middle of the night to the tiny, dry scratching sound of their legs moving across the plastic sheet I used as a mattress cover. If you clicked the light switch on, the white walls would instantly come alive as hundreds of them scattered, a rapid, oily brown wave disappearing into the cracks of the baseboards and behind the stove. That memory branded itself into my nervous system. It created a permanent, hyper-vigilant feedback loop in my brain. To this day, I haven't seen a roach in years, but if my kids leave food, wrappers, or a dirty glass out on the counter, I will lose my temper and scream at them. My brain doesn't see a harmless soda can; it sees the vanguard of a brown, scratching army coming to reclaim my home. It is a primitive survival phobia I have never been able to engineer out of my code.
 
 But a neighborhood is defined by its ecosystem, and Audrey Avenue had an ecosystem that bordered on the surreal. The people who lived there were a strange, volatile mix of the broken and the bizarre.
 
-For the most part, the people were nice, bound together by the shared gravity of poverty. There was a lady who worked sanitation—we just called her the garbage lady—who used to comb through the trash on her routes in the wealthier zip codes. Whenever she found toys that people in better neighborhoods had thrown away, she would carefully wash them off, bring them home in her canvas bag, and hand them out to us poor kids on the block. It was a beautiful, small act of kindness in a place that didn't have much of it to spare.
+For the most part, the people were nice, bound together by the shared gravity of poverty. There was a lady who worked sanitation—we just called her the garbage lady—who used to comb through the trash on her routes in the wealthier zip codes. Whenever she found toys that people in better neighborhoods had thrown away, she would bring them home in her canvas bag, and hand them out to us poor kids on the block. It was a beautiful, small act of kindness in a place that didn't have much of it to spare.
 
 Then there were the Heberles. They were poor, but they were good, solid people. The older brother knew karate, carried himself with a quiet, lethal confidence, and stood like a sentinel on the block. The younger brother, Tim, was my age. Tim was way behind academically, struggling with severe learning disabilities that the neighborhood schools simply weren't equipped to handle, but we hung out anyway, throwing rocks at train cars and navigating the broken pavement.
 
@@ -177,9 +179,9 @@ They weren't chained physically. It was pure psychological terror, an invisible 
 
 I never understood why Misty and Pam didn't just walk away. The psychology of poverty and abuse can trap people in invisible cages far more secure than iron bars. The cruelty was normalized, and it extended to the rest of their family, too.
 
-I remember one chilly afternoon, Nancy and Sandy's brother, J.R., decided Misty needed to be punished. I don't recall exactly what she did—I think she might have left the gas stove on unattended while boiling water. J.R. was absolutely livid. He was a big, blocky dude, and he stood over her screaming while she cowered on the floor, weeping. 
+I remember one chilly afternoon, I was at Nancy's house. Nancy's husband ran like a ghetto video store out of his house. He would get movies and tape them and lend them out. I was hanging out with Nancy's son when Nancy and Sandy's brother, J.R., decided Misty needed to be punished. I don't recall exactly what she did—I think she might have left the gas stove on unattended while boiling water. J.R. was absolutely livid. He was a big, blocky dude, and he stood over her screaming while she cowered on the floor, weeping.
 
-J.R. ordered her to bang her own head against the hardwood floor.
+J.R. ordered her to bang her own head against the concrete floor.
 
 She cried, shaking, but she did it. She hit her head on the ground.
 
