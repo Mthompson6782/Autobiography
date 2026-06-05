@@ -163,7 +163,11 @@ But a neighborhood is defined by its ecosystem, and Audrey Avenue had an ecosyst
 
 For the most part, the people were nice, bound together by the shared gravity of poverty. There was a lady who worked sanitation—we just called her the garbage lady—who used to comb through the trash on her routes in the wealthier zip codes. Whenever she found toys that people in better neighborhoods had thrown away, she would bring them home in her canvas bag, and hand them out to us poor kids on the block. It was a beautiful, small act of kindness in a place that didn't have much of it to spare.
 
-Then there were the Heberles. They were poor, but they were good, solid people. The older brother knew karate, carried himself with a quiet, lethal confidence, and stood like a sentinel on the block. The younger brother, Tim, was my age. Tim was way behind academically, struggling with severe learning disabilities that the neighborhood schools simply weren't equipped to handle, but we hung out anyway, throwing rocks at train cars and navigating the broken pavement.
+Then there were the Heberles. They were poor, but they were good, solid people. The older brother, Timmy, knew karate. He carried himself with a quiet, lethal confidence and stood like a sentinel on the block. The younger brother, John, was my age. John was way behind academically, struggling with severe learning disabilities that the neighborhood schools simply weren't equipped to handle, but we hung out anyway, throwing rocks at train cars and navigating the broken pavement.
+
+Timmy had taken an interest in me and decided he was going to teach me how to use nunchucks. I was obsessed with the idea. I scraped together some money, walked down to the local hardware store, and bought a wooden dowel so we could build a pair. My dad picked me up on his motorcycle, and I hopped on the back, clutching that dowel. We were driving home when some bitch wasn't paying attention and ran us completely over. We went down hard on the asphalt.
+
+I survived the crash, but the real tragedy hit a week later. Out of nowhere, Timmy shot himself. Just like that, the sentinel of the block was gone. It was a fast, brutal lesson in how quickly things could be violently taken away from you in that environment.
 
 And then there were Nancy and Sandy.
 
