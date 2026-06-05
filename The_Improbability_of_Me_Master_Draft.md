@@ -95,6 +95,8 @@ I spent a lot of time with Pauline because my own mother wasn't cut out for the 
 
 My mother was young, and she simply lacked those natural maternal instincts at that stage of life. Our relationship was complicated, mostly because it barely existed. I never felt like she actually wanted to be in my life. When she looked at me, I didn't see warmth or connection; I saw the cold, flat gaze of a woman who viewed my existence as a mechanical inconvenience she hadn't planned for.
 
+Years later, at my mother's funeral, the stark reality of my bloodline was put into sharp focus. My aunt's boyfriend—a guy who knew both my mother and my father back in the day—was introducing me to some people at the service. He was talking about what I had accomplished and how smart I was. He paused, looked at me, and then told them point-blank that he had absolutely no idea where my intelligence came from, considering who my parents were. He wasn't trying to be cruel; he was just stating a mathematical fact. The inputs didn't match the outputs.
+
 When you are a kid, realizing your mother doesn't want you can break you. It leaves a hollow space in your core, a systemic deficit that most people spend their entire lives trying to fill with alcohol, drugs, or toxic relationships. But for me, the deficit did something else. Looking back, that absence became a strange kind of superpower. Because I didn't have a mother looking out for me at home, I sought out motherly love from the women I encountered in the world—mostly my teachers.
 
 I figured out the transaction early. It was a simple, elegant math problem: if I was smart, if I performed, they would care about me.
