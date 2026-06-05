@@ -165,8 +165,6 @@ For the most part, the people were nice, bound together by the shared gravity of
 
 Then there were the Heberles. They were poor, but they were good, solid people. The older brother knew karate, carried himself with a quiet, lethal confidence, and stood like a sentinel on the block. The younger brother, Tim, was my age. Tim was way behind academically, struggling with severe learning disabilities that the neighborhood schools simply weren't equipped to handle, but we hung out anyway, throwing rocks at train cars and navigating the broken pavement.
 
-And then there was Fat Charlie. Charlie was a local guy in South Baltimore, a huge fat slob who bullied the younger kids. He was not fond of the blacks, which kept a kind of tense, unspoken balance in the neighborhood's ecosystem. Baltimore has been mostly black for a long time. In many areas of the city, I was the clear minority, and I was routinely targeted, cornered, and jumped purely because of my race. It was a violent, geographic reality. But at least in South Baltimore, because of guys like Fat Charlie and the local pack, there was a boundary. There was a balance.
-
 And then there were Nancy and Sandy.
 
 If Audrey Avenue was purgatory, Nancy and Sandy were the wardens. They were short and morbidly obese, with rolls upon rolls of fat that pushed up their cheeks and made their eyes look like permanent, squinty slits. They lived on the block, and they operated one of the most terrifying, inexplicable setups I have ever witnessed.
@@ -230,6 +228,8 @@ We had Eddie Arron, a good guy whose family was just as poor as ours, but his da
 We had Artie Buckalew. Artie was probably the poorest kid in our entire group, wearing the same faded, oil-stained t-shirt for days on end, but you wouldn't know it from hanging out with him. He was a hilarious, fiercely loyal, good-hearted dude who spoke with a weird, thick speech impediment—a mushy, rapid-fire South Baltimore drawl that captured the perfect, old-school working-class sound of the neighborhood.
 
 And then there was Jesse Wright. Jesse lived on the street directly behind my house, and he was a complete dirt ball. He was the kind of gritty, chaotic kid the neighborhood produced in spades—always scheming, always filthy, and entirely unbothered by the threat of getting caught doing whatever he wasn't supposed to be doing.
+
+And then there was Fat Charlie. Charlie was a local guy in South Baltimore, a huge fat slob who bullied the younger kids. He was not fond of the blacks, which kept a kind of tense, unspoken balance in the neighborhood's ecosystem. Baltimore has been mostly black for a long time. In many areas of the city, I was the clear minority, and I was routinely targeted, cornered, and jumped purely because of my race. It was a violent, geographic reality. But at least in South Baltimore, because of guys like Fat Charlie and the local pack, there was a boundary. There was a balance.
 
 And then there was Spunky.
 
