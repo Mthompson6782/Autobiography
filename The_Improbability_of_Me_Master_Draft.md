@@ -337,13 +337,13 @@ He reached his other hand up and clamped his thumb and forefinger onto the top r
 
 He let go of my ear, and the skin instantly throbbed with hot, radiating blood. I stood there, rubbing my neck, staring at him in a mixture of horror and clinical fascination.
 
-"When you peel a man's ear off," Mr. Hammonds continued, picking his oily rag back up, "two things happen simultaneously. First, the pain is so intense, so biochemically overwhelming, that it completely floods his brain's central processing unit. He physically cannot think about hitting you because his nervous system is screaming at maximum capacity. Second, he will start to bleed profusely from the temporal artery. He will be blinded by his own blood, and his psychological will to fight will completely evaporate. He will drop to his knees, clutching his head, trying to hold himself together. The fight is over."
+"When you peel a man's ear off," Mr. Hammonds continued, picking his oily rag back up, "that will take the fight right out of them."
 
 Mike nodded solemnly from the floor, his eyes wide. "What if they pin your arms, Dad?"
 
-"If your arms are pinned, you still have your jaw," Mr. Hammonds said, his eyes cutting back to his son. "If a man has you wrapped up, his face is going to be close to yours. You don't try to headbutt him; you might break your own nose. You lean in, you open your mouth, and you bite the tip of his nose off."
+"If your arms are pinned, you still have your jaw," Mr. Hammonds said, his eyes cutting back to his son. "If a man has you wrapped up, his face is going to be close to yours. You lean in, you open your mouth, and you bite the tip of his nose off."
 
-He gestured to his own nose, which was slightly crooked from some long-forgotten conflict. "The nose is another cartilage structure. It has high nerve density. If you sink your teeth in and bite down until you hit bone, then tear sideways, you will take the tip right off. The biological panic of having your airway filled with blood and your face mutilated is an absolute override. It doesn't matter how big he is, or how much PCP he’s smoked. His body’s survival programming will force him to let go of you to protect his face."
+He gestured to his own nose. "If you sink your teeth in and tear it off, that will take the fight right out of them, too. It doesn't matter how big he is. He's going to let go."
 
 He paused, letting the weight of the words settle in the quiet room. The rain beat a steady, soft rhythm against the windowpane, and the blue flames of our own stove felt miles away.
 
@@ -379,11 +379,11 @@ Bad idea. That walk took us past Greenmount Cemetery on North Avenue.
 
 If you know Baltimore, you know Greenmount. High stone walls, miles of graves, dead leaves, and silence. It’s a city of the dead right in the middle of the city of the living. We were walking the perimeter, just trying to get past it.
 
-We were halfway down the block when it happened. I didn’t hear footsteps. I didn’t hear yelling. I just felt my body jerk violently sideways. Before I could figure out what was happening, a grown man came flying in from behind and clotheslined me so hard my feet left the ground. My head snapped back. I hit the pavement—confused, dazed, stunned.
+We were halfway down the block when it happened. I didn’t hear footsteps. I didn’t hear yelling. I just felt my body jerk violently sideways. Before I could figure out what was happening, a grown man came flying in from behind and clotheslined me so hard my feet left the ground. I hit the pavement hard. Before I could recover, they grabbed me and dragged me into the side street so they could beat me without the police seeing.
 
 Ed didn’t wait. He ran. I can’t say I blame him. He was fourteen, too. But that moment branded something into me: when things go bad, you might be alone.
 
-Two grown men stood over me, screaming. “Why you do that yo? Why you do that yo?”
+Two grown men stood over me in that side street, screaming. “Why you do that yo? Why you do that yo?”
 
 I didn’t even know what “that” was. I hadn’t said a word. I hadn’t looked at them. They didn’t care. They were punching me, kicking me into the wall of the cemetery, cracking me in the ribs. My confusion lasted maybe three seconds. Then instinct woke up.
 
