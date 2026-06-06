@@ -783,41 +783,19 @@ I skimmed through the list of technical careers. I saw a title that caught my ey
 
 It sounded complicated. It sounded cool. I signed the paperwork.
 
-After boot camp, they sent me to Sheppard Air Force Base in Wichita Falls, Texas, for technical school. Wichita Falls was a flat, dusty, windswept expanse of asphalt and baking concrete, where the Texas heat rose off the runways in dizzying waves that smelled faintly of scorched grass and jet exhaust. 
+After boot camp, they sent me to Sheppard Air Force Base in Wichita Falls, Texas, for technical school. I was enrolled in the training pipeline for the 2A6X6 specialty: Aerospace Electrical and Environmental Systems. 
 
-I was enrolled in the training pipeline for the 2A6X6 specialty: Aerospace Electrical and Environmental Systems. For most recruits, this pipeline was a notorious meatgrinder designed to wash out anyone who couldn't handle advanced logic and physics. It was six straight months of grueling, high-pressure instruction—a relentless barrage of electrical theory, solid-state electronics, AC/DC power generation, cabin pressurization dynamics, and the intricate troubleshooting of complex aircraft systems. 
+For the average recruit, it was a highly complex course. They would sit in classrooms staring blankly at three-foot-wide, multi-folded technical schematics—known in the military as Technical Orders, or T.O.s. These blueprints were massive webs of lines representing thousands of feet of wiring, relays, and circuit breakers. 
 
-For the average recruit, it was a nightmare. They would sit in the cold, fluorescent-lit classrooms, staring blankly at three-foot-wide, multi-folded technical schematics—known in the military as Technical Orders, or T.O.s. These blueprints were massive, dizzying webs of lines representing thousands of feet of wiring, cascading relays, logic gates, microswitches, and circuit breakers. To them, it was an alien language of pure noise. They would try to memorize the paths by rote, their eyes glazing over as they got lost in the labyrinth of copper and silicon.
+But to me, those schematics made perfect sense. 
 
-But to me, those schematics were beautiful. They were an absolute revelation.
+It was the first time in my life I realized that my brain ran on a different clock speed than the people around me. My cognitive processing power, which had spent years scanning alleyways and street corners for threats, was suddenly directed at a static, logical architecture. I didn't try to memorize the schematics. I downloaded them. I would spend my evenings sitting in the study hall hunched over the T.O.s while the other guys in the barracks were out. 
 
-It was the first time in my life I realized that my brain ran on a different clock speed than the people around me. My raw cognitive processing power, which had spent years scanning alleyways and street corners for threats, was suddenly directed at a static, logical architecture. 
+I loved the absolute truth of it. On the streets of Baltimore, everything was volatile. A word could mean a fight, a look could get you shot, and the rules changed depending on who was standing on the corner. But a schematic had no ego. A wiring diagram didn't lie, and it didn't have bad days. It ran on pure, uncompromising physics. If an input went into a logic gate, the output was mathematically guaranteed. There was an error, you isolated it, analyzed the logic, and fixed the system. 
 
-I didn't try to memorize the schematics. I downloaded them.
+Troubleshooting came naturally to me. I had taken the hyper-vigilance of the streets—the constant, scanning risk-assessment engine—and converted it into a refined technical instrument. 
 
-I would spend my evenings sitting at a long, scarred oak desk in the study hall, long after the mandatory hours had ended. While the other guys in the barracks were sneaking out to buy cheap pitchers of Shiner Bock or throwing dice in the laundry room, I was hunched over the T.O.s under the hum of a single desk lamp. The air smelled of hot solder, ozone from the training mock-ups, and the crisp, vanilla scent of old paper manuals.
-
-I would trace the electrical current with a yellow highlighter. I could see the voltage in my head, moving like liquid light through the pages. I watched it enter a generator control unit, pass through a series of steering diodes, activate a magnetic coil in a line contactor, and propagate down the main bus to close a landing gear safety switch. It was an elegant, flawless sequence of logic. 
-
-It felt exactly like sitting on the cool hardwood floor of the Williams Street living room, reading about thermodynamics in Pauline’s black-leather encyclopedias while the gas stove hissed in the kitchen. The only difference was that this encyclopedia was alive. It was the nervous system of an F-15 Eagle or a C-130 Hercules.
-
-And I loved the absolute truth of it. 
-
-On the streets of Baltimore, everything was volatile. A word could mean a fight, a look could get you shot, and the rules changed depending on who was standing on the corner. But a schematic had no ego. A wiring diagram didn't lie, and it didn't have bad days. It ran on pure, uncompromising physics. If an input went into a logic gate, the output was mathematically guaranteed. If a system failed, it wasn't because it hated you or because it was having an emotional breakdown; it failed because a component had exceeded its design tolerances. There was an error. You could isolate the error, analyze the logic, and fix the system. 
-
-Troubleshooting became my art form. The instructors would wire complex "bugs" into the training mock-ups—cutting a wire inside a hidden bundle, burning out a subtle diode, or sticking a tiny piece of paper inside a relay contact to prevent it from closing. The other students would spend hours randomly poking at the boards with multimeters, guessing, sweating, and failing the block.
-
-I would walk up to the mock-up, read the fault description on the work order, close my eyes to look at the mental map of the system, and narrow the failure down to two potential nodes before I even picked up a probe. I would take one reading with my meter, confirm the voltage drop, and point to the exact broken relay.
-
-"It’s K-104, sir," I’d tell the instructor, a grizzled Master Sergeant who had been fixing jets since Vietnam. "The contacts are open."
-
-He would stare at me, look down at his master key sheet, and shake his head in disbelief. "How the hell did you find that in two minutes, Thompson? It’s a six-step isolation procedure."
-
-"The math only lines up one way, Sergeant," I’d say, smiling. "Every other path has a positive signal. It had to be the K-104."
-
-I graduated at the top of my class, breaking the schoolhouse records for practical troubleshooting speed. I had taken the hyper-vigilance of Greenmount Avenue—the constant, scanning risk-assessment engine—and converted it into a highly refined technical instrument. 
-
-I was officially an Air Force aerospace engineer. I was young, incredibly arrogant, and armed with a deep understanding of complex systems architecture. And the military was about to ship my raw processing engine across the Pacific to my first active duty station.
+I graduated the course officially an Air Force aerospace electrical specialist. I was young, arrogant, and armed with a deep understanding of complex systems architecture. And the military was about to ship my processing engine across the Pacific to my first active duty station.
 
 Japan was waiting.
 
