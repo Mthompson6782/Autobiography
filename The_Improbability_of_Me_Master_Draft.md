@@ -259,21 +259,19 @@ Here is something I learned: always look at the back. If the opposition has a wi
 
 But not everyone in the pack was defined by brute force. Some were defined by what they failed to become.
 
-Big Ed, who we affectionately called "Big Head" due to his massive skull, went to high school with me at the prestigious Baltimore City College High School. Ed was a dreamer. He talked a massive game on the street corners, boasting about the street fights he would start and the crews he would run, but in reality, he was a coward. He would fold the absolute second the physical pressure was turned on, his face going pale and his eyes watering.
+Big Ed, who we affectionately called "Big Head" due to his massive skull, went to high school with me at the prestigious Baltimore City College High School. Ed probably would've been a school shooter, but he was too much of a pussy. He constantly tried to craft an image as a badass, but we all knew him. He was a bitch. He was a heavy-set dude, probably around 5'10", and he completely folded the absolute second physical pressure was turned on. 
 
-But his cowardice wasn't his tragedy. His tragedy was his brain.
+Ed left his own brother to get beat up at the '84 Rec center, and I had to go get him. Ed abandoned me on Greenmount Avenue when I had to stab a dude in the neck with a pen. Ed wouldn't even get off the bus when three guys wanted to fight; my boy Rob Croft had to have my back instead.
 
-Big Ed had a brilliant, staggering mathematical mind. To this day, I believe he was actually smarter than I am in terms of raw computational speed. His raw processing power was breathtaking. I remember we were sitting in an advanced algebra class at City College. The teacher, an old, tired man named Mr. Harrison, had written a complex, multi-variable equation on the board that spanned three panels. The class was silent, defeated. 
+He lost all of his teeth one summer when we were playing wall ball at the abandoned warehouse down the street. Spunky had this big-ass wooden bat. He swung, and the bat slipped out of his hands. It flew over and hit Ed right in the mouth, just destroying all of his teeth. His family didn't have insurance, so after a trip to the emergency room, he just carried on with a mouth full of fucking smashed teeth. I don't think he ever got them fixed to this day. Now, getting hit in the face with a bat made Ed think he was a badass, but there was a sharp dichotomy: he was still a pussy at heart. He couldn't fight, and he didn't have the heart for it. 
 
-Big Ed didn't even pick up his pencil. He just stared at the board for three seconds, his jaw slack, and calmly blurted out the correct, simplified answer. Mr. Harrison stopped, stared at Ed, and dropped his chalk. "How did you do that, Edward?" he asked, completely speechless. Ed shrugged. "The numbers just line up, Mr. Harrison. It’s just a balance."
+But there was one area where Ed was absolutely fearless: stealing.
 
-He was a mathematical savant. But he lacked the drive, the execution, and the structural discipline to apply it to anything meaningful. Raw capacity without execution is just noise. 
+Ed was a prolific thief. When Eddie Aaron got his driver's license, we would get in his beat-up ass car and go to the Marley Station mall, where Ed would steal everything not nailed down. He was a coward in a fight, but a fearless thief. This motherfucker once stole an entire hockey stick by putting it down his shirt and threading it all the way down through his pant leg, then proceeded to walk out of the mall all stiff-legged like he had a crippling disorder. 
 
-One afternoon after school, three street kids from a rival block cornered us in an alley near the bus stop. They wanted our jackets and our cash. I immediately reached into my pocket, my fingers wrapping around my pen, my mind aligning the angles of escape and violence. Big Ed, the mathematical genius who could calculate complex equations in his head, completely dissolved. His hands shook violently, his voice cracked as he pleaded with them, and he literally fell to his knees in the dirt, entirely paralyzed by the threat. I had to step in, deliver a hard, sudden strike to the lead kid's throat, and drag Ed's weeping, 220-pound frame out of the alley.
+His tragedy was his brain. Ed had a staggering mathematical mind—exceptionally smart—but he was completely crippled by a total lack of emotional intelligence and drive. He was a weird fuck. He had the raw CPU, but he lacked the power supply, the operating system, and the heart.
 
-Ed let the environment dictate his trajectory instead of engineering his own way out. He had the CPU, but he lacked the power supply and the operating system.
-
-Today, while I secure global corporate infrastructure and consult on national cybersecurity, Big Ed works as a deli clerk, slicing lunch meat at a grocery store in Baltimore. Tremendous, staggering wasted potential. A brilliant processing engine reduced to measuring ounces of bologna.
+Today, while I secure global corporate infrastructure and consult on national cybersecurity, Big Ed became a lunch meat slicer at a couple of grocery stores in Baltimore. Tremendous, staggering wasted potential. A brilliant processing engine reduced to measuring ounces of bologna.
 
 Looking back, that crew was a perfect cross-section of Baltimore. We were a volatile mix of killers, dreamers, hustlers, and casualties. We learned how to fight from Paratroopers, got our nicknames from drunken stevedores, and watched geniuses slice lunch meat because they couldn't figure out how to escape the gravity of their own fear.
 
