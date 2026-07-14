@@ -640,6 +640,20 @@ Another lesson learned: Violence implied can sometimes be as effective as violen
 
 ---
 
+I personally was never a thief. I have a disdain for thievery. I think it's the absolute lowest form of shit that you could be. But not everyone in my crew shared that sentiment.
+
+Around that time, Eddie Aaron got his driver's license and picked up a cheap old truck—maybe a Toyota Tacoma or something like that. It was a little beat-up truck, but it meant freedom. We would put our pennies together, pile in, and drive out to a place in Glen Burnie that made incredible ribs.
+
+Eddie would usually bring Artie Buckalew and Big Head along. Now, as I mentioned before, Big Head was a huge pussy who betrayed me at every possible chance he got. But for whatever reason, there must be some overlap between being a coward and being a thief, because Big Head was a master at it. He could steal the toast from underneath butter before it even melted.
+
+Eddie would drive us out to Marley Station Mall, and Big Head would basically go shopping. He’d wander around Sam Goody and steal CDs. Because he was built like a combine, he would wear a trench coat and just load up. He’d hit up Sports Authority or Dick's Sporting Goods and steal anything he could get his hands on. This motherfucker once stole an entire hockey stick by shoving it down his shirt, threading it through his pant leg, and stiff-walking bow-legged right out the front doors. 
+
+Artie Buckalew was right there with him—another master thief who could lift just about anything. And Eddie? Eddie was a genius at getting CDs out of those rigid, theft-resistant plastic security cases. Again, a totally wasted mind and wasted potential, but he was brilliant at it. If he ever slipped up and the door alarms went off, Eddie would just stop, put his hands up with a confused look on his face like, "What's going on?" The mall cops would usually just wave him through. None of them ever got busted. None of them ever had to pay the consequences. 
+
+It was just the daily crime wave of these assholes riding around in a cheap truck, stealing everything they could get their hands on, completely immune to the rules of the civilized world.
+
+---
+
 <div style="page-break-after: always;"></div>
 
 # Chapter 9: The Stet Docket
