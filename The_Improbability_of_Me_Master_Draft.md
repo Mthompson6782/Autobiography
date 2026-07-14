@@ -2,7 +2,7 @@
 
 ---
 
-![The Improbability of Me Book Cover](book_cover.jpg)
+![The Improbability of Me Book Cover](book_cover.png)
 
 # THE IMPROBABILITY OF ME
 
