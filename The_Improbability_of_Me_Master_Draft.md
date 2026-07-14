@@ -664,143 +664,105 @@ It was just the daily crime wave of these assholes riding around in a cheap truc
 
 The years rolled on, and the walls of Baltimore started to feel closer together. I needed an exit strategy.
 
-My friend Kareem, a buddy from Baltimore City College High School, had the plan. "Let's go be Marines," he said.
+My buddy from Baltimore City College High School, Kareem, had a plan. "Let's go be Marines," he said.
 
-It made sense. The Marines were tough, they were respected, and more importantly, they were away. I wanted money for school, I wanted to see the world, and specifically, I wanted to go to Japan. I had been studying Japanese since the 6th grade—a little piece of discipline and culture that didn't fit with the chaos around me.
+I figured, all right, whatever. It made sense. The Marines were tough, they were respected, and more importantly, they were away from fucking Baltimore. I wanted money for school, I wanted to see the world, and specifically, I wanted to go to Japan. I had been studying Japanese since the sixth grade—a little piece of discipline and culture that just didn't fit with the chaos around me.
 
-We went to the enlistment office, ready to sign our lives away to the Corps. But the Marine recruiter was out to lunch or doing PT—who knows. The office was empty.
+We went to the enlistment office, ready to sign our lives away to the Corps. But the Marine recruiter was out to lunch or doing PT, or whatever Marines do. The office was empty. Just as we turned to leave, Tech Sergeant Cartwright walked out of the Air Force office next door. He looked at us and smiled.
 
-Just as we turned to leave, Tech Sergeant Cartwright walked out of the Air Force office next door. He took one look at us and smiled.
-
-"What are you boys here for?"
+"What are you boys here for?" he asked.
 
 "We want to be Marines," we said.
 
-Cartwright shook his head like a disappointed father. "Don't do that to yourself, son. You join the Air Force, I will fly you around the world. I will give you access to fine wine and fine women. You’ll sleep in a bed, not a foxhole."
+Tech Sergeant Cartwright shook his head like a disappointed father. "Don't do that to yourself, son," he said. "You join the Air Force, I will fly you around the world. I will give you access to fine wine and fine women. You'll sleep in a bed, not in a foxhole."
 
-I didn't need to hear about the wine. I just needed to hear "around the world." Anything that got me out of Baltimore was the right path. I signed the papers for the Delayed Enlistment Program right there.
+I didn't need to hear about the wine. I just needed to hear "around the world." Anything that got me out of Baltimore was the right path. I signed the papers for the Delayed Enlistment Program right then and there. I was seventeen. My ship date was set for January 3, 1995. I had a few months to kill. I just had to stay out of trouble.
 
-My ship date was set: January 3, 1995.
+Well, that's not always as easy as it sounds.
 
-I had a few months to kill. I just had to stay out of trouble.
+One night, I was sitting at home. I was sick, feeling under the weather, just trying to keep a low profile, when the phone rang. It was Charlie O'Heron—Big Ed's younger brother. He was up the street at the School 84 Rec Center, and he was panicked. Some guys were threatening to kill him.
 
-One night, I was sitting at home, feeling under the weather, trying to keep a low profile. The phone rang.
+"Where's Ed? Where's your big brother?" I asked.
 
-It was Charlie, Big Ed’s younger brother. He was at the School 84 Rec Center, and he was panicked. Some guys were threatening to kill him.
+"I'm on my own," Charlie said. "Ed told me to figure it out."
 
-"Where is Ed?" I asked.
+That fucking burned me up. You don't leave your brother on his own. That's a direct violation of the code. "Call your brother," I said. "This is big brother shit." But if Ed wasn't going to step up, I had to.
 
-"He said I’m on my own."
+"I'll be right there."
 
-That burned me. You don't leave your brother on his own. That is a violation of the code. "Call your brother," I said. "This is big brother shit." But if Ed wasn't going to step up, I had to.
+I called my best friend, Mike Hammonds, and told him the situation. Mike didn't ask how many guys there were, or if they had guns. He just asked, "Are we going to do this?" He told me he'd be right there. Minutes later, he rolled up.
 
-"I’ll be right there."
+Charlie told us it was a whole group of them, so I decided I needed an equalizer. I grabbed a small machete. It wasn't my favorite weapon—hacking feels awkward to me, much less precise than stabbing—but a machete has a good psychological weight to it. People see that wide blade and they freeze. I tucked it inside my jacket, under my arm, and we walked up to the Rec Center.
 
-I called my best friend, Mike Hammonds. I told him the situation. Mike didn't ask how many guys, or if they had guns, or why we were doing this. He just said, "I’ll be right there."
+We walked in: Charlie first, then Mike, then me bringing up the rear. Charlie pointed out the issue. He had been playing ball, things got rough, and he tried to walk away. Someone threw a basketball at his face. Charlie just caught it and set it down. It was a small act of defiance, but it enraged the guy. They told Charlie that the second he stepped outside, they were going to beat him to death.
 
-Minutes later, he rolled up.
+There was no fighting inside the 84 Rec Center. If you got caught fighting in there, you got kicked out permanently. Then where would you go? So everybody kind of respected it. It was like holy ground.
 
-Charlie told us it was a group of them, so I decided I needed an equalizer. I grabbed a small machete. It wasn't my favorite weapon—hacking feels awkward to me, less precise than stabbing—but a machete has a psychological weight to it. People see that wide blade and they freeze. I tucked it inside my jacket, under my arm, and we headed for the Rec Center.
+"Come on," I said. "Let's go."
 
-We walked in—Charlie first, then Mike, then me bringing up the rear.
+We walked out the doors. Mike went out first, Charlie went next, and I was just a couple of feet behind. As soon as we crossed the threshold, it was like stepping through a portal into pure pandemonium. It happened in seconds. The crowd swarmed. I saw Charlie cowering on the ground, getting pummeled. I saw Mike Hammonds throwing bombs, fighting off two or three guys at once.
 
-Charlie pointed out the issue. He had been playing ball, things got rough, and he tried to walk away. Someone threw a ball at his face. Charlie caught it and set it down—a small act of defiance that enraged the guy. They told him the second he stepped outside, they were going to beat him to death.
+I moved toward Charlie. I figured Hammonds had his shit under control. There were two guys stomping Charlie, so I rushed them and knocked them off. One of the guys ran up a little ramp by the Rec Center—like a small retaining wall—and jumped off it like he thought he was Bruce Lee.
 
-"Come on," I said. "Let’s go."
+I just swung with my left hand—a hard, overhand left—and completely connected. I punched that motherfucker right in his forearm, and I heard a loud snap. That was Mike Lowry. That little force basically broke his fucking arm. He was laying there on the ground crying like a bitch.
 
-We walked out the doors. As soon as we crossed the threshold, the atmosphere shifted. It was like stepping into a different world.
+But that's when I realized things were getting serious. I pulled out the machete.
 
-It happened in seconds. The crowd swarmed. I saw Charlie cowering on the ground, getting pummeled. I saw Mike throwing bombs, fighting two or three guys at once.
+"Alright, here we go," I thought.
 
-I moved toward Charlie. Two guys were stomping him. I rushed them, knocking them off. One of them ran up a little wheelchair ramp next to the stairs and jumped off, trying to deliver a flying kick to my head.
+As soon as I pulled it out, everybody started yelling, "He's got a machete! He's got a knife!"
 
-I didn't flinch. I swung my arm as hard as I could, connecting with his forearm in mid-air. I felt the bone fracture under the impact. He hit the ground screaming.
+I looked over at Mike. He had some guy locked up in a WWF DDT-style hold, ready to just smash the guy's head straight into the concrete. Mike looked over at me, calm as a monkey.
 
-The force of the swing dislodged the machete from my jacket. It clattered to the concrete.
+"Come over here and break this motherfucker's ribs," Mike said.
 
-For a split second, everyone looked at it. I snatched it up, gripping the handle. I didn't swing it. I just held it.
+I walked over to Mike, and the sea of people just parted. I didn't even need to use the blade. I delivered a kick right to that guy's ass.
 
-Information received. The crowd backed up. A knife is a threat; a machete is a horror movie.
-
-I looked over at Mike. He had a guy locked up in a WWE-style DDT hold, his head tucked under Mike’s arm. Mike looked at me, calm as a monk in a hurricane.
-
-"Come over and break this motherfucker's ribs."
-
-As I walked toward Mike, the sea of people parted. I didn't even need the blade. I delivered a kick to the guy's ass, Mike let him go, and I looked around the circle.
-
-"Let’s get going."
+"Come on, we gotta go," I said. "Ain't got time for this shit. Let's get going."
 
 We walked away. No one followed.
 
-I went back to my house, the high-voltage adrenaline fading rapidly into a shivering, hollow sickness. My joints throbbed, my throat felt like sandpaper, and my skin was cold and clammy. I collapsed onto the sofa, trying to keep a low profile and let my body regulate. I thought the storm had passed. I thought I was clear.
+I went back to my house. The high-voltage adrenaline was rapidly fading, and I was just back to being sick. I sat down. 
 
-Then came the knock.
-
-It wasn't a normal knock. It was a rhythmic, violent battery that rattled the old wooden frame of the door and vibrated through the floorboards. 
+Then came a knock. It wasn't a normal knock. It was a violent battery that rattled the wooden frame of the house.
 
 "POLICE! OPEN THE GODDAMN DOOR!"
 
-I bolted upright, my heart hammering against my ribs. I looked at my younger sister. She was standing in the hallway, her face completely drained of color, her eyes wide with a primal, childlike terror. Her hands were shaking so hard she could barely control them as she reached toward the deadbolt.
+I bolted up, my heart hammering against my ribs. I looked at my younger sister. She was standing in the hallway, already headed for the door.
 
-"Don't open the door!" I hissed, my voice a sharp, desperate whisper. "Do not let them in! They don't have a warrant!"
+"Don't let 'em in!" I yelled.
 
-But she was young, and the sheer authority of the badge and the roaring voices outside overrode my command. The panic took her. She turned the latch, and the heavy door flew inward with a violent crash.
+But she was young, and the sheer authority of the badge just had a presence over her. She didn't know what to do, so she just opened the door.
 
-A swarm of Baltimore City Police officers flooded the room. They didn't care about procedural decorum, warrants, or civil rights. They were hyped on their own adrenaline, guns drawn, their boots making a chaotic, heavy stamp on our floor. They pushed past my sister, ignoring her tears, and zeroed in on me. I was tall, broad, and intimidating, but I was sick and completely unarmed. 
+In came two Baltimore Police officers from the Southern District. They didn't care about procedural decorum, warrants, or civil rights. They were just hyped up on their own shit.
 
-They slammed me face-first against the plaster wall, the rough paint scraping my cheek. A heavy, black-booted knee was driven hard into the small of my back, pinning me in place.
+"Where's the fucking machete?" they demanded.
 
-"Where is the machete?" a detective growled, his forearm digging deep into the side of my neck, cutting off my airway just enough to make my vision blur. "Where is the goddamn blade, you little prick?"
+"What machete?" I said. "I don't have a machete. I don't even own a machete."
 
-"I don't know what you're talking about," I choked out, playing the only hand I had. "I don't own a machete."
+"If you're gonna be a little prick, then you're gonna go to fucking Southern District," one of them said.
 
-"Don't be a smartass," the detective sneered, pushing my face harder into the drywall. "We know what happened at the Rec Center. We have three witnesses who saw you holding a sword. If you don't tell us where it is, we will tear this house down brick by brick until we find it."
+They handcuffed me and hauled me down to the Southern District lockup. I was hanging out in the cell with all kinds of wonderful and interesting people. The Black guy in the cell next to me leaned over.
 
-They didn't find it. I had stashed it too well. But they didn't need the physical steel to make my life a living hell. They yanked my arms behind my back, the cold metal of the handcuffs clicking shut, biting deep into my wrists. They hauled me out onto the street in front of the neighbors and threw me into the back of a waiting cruiser.
+"What you in here for, big youngin?" he asked.
 
-The physical transition to the Southern District cell was a descent into a specific kind of urban purgatory. The holding tank smelled of a nauseating mix of industrial Pine-Sol, old urine, stale sweat, and cheap, damp tobacco. The light was a harsh, flickering green-white from the humming fluorescent tubes overhead, casting long, sickly shadows across the concrete floor. 
+"I don't know, they picked me up for a fight," I said. "But I was just sitting in my house."
 
-I sat on the cold steel bench, rubbing my raw wrists, listening to the dull, constant buzz of the station and the muffled shouting of booking officers down the hall. 
+He looked at me and said, "The violent crime task force son picked me up."
 
-Sitting across from me was a career street guy—an older Black man with deep, weathered lines carved into his face and a quiet, relaxed posture that suggested he viewed the holding cell as a second living room. He looked at my size, my matted hair, and my shivering frame.
+"Oh man, all right, cool," I said. "Good to know." He was pretty chill.
 
-"What they got you for, big youngin?" he asked, his voice a slow, gravelly drawl.
+I sat there and waited. And waited. And waited. The next morning, the police came by. They brought me a goddamn Egg McMuffin and a cup of black coffee. I don't even drink coffee, but that's just what they gave you in the Southern District holding tank, so I sat there eating a shitty McMuffin and drinking shitty black coffee.
 
-I explained the fight at the Rec Center. I told him about the brother who had cowered inside, the crowd that had swarmed, and the machete I had drawn to level the playing field. 
+Eventually, my dad—Thompson—came to get me. He got right in front of the commissioner and told him, "Hey, this kid is already signed up for the Air Force. Don't fucking destroy his life over this stupid shit."
 
-The old man grinned, showing a missing bicuspid, and let out a soft laugh. "Machete? Damn. You don't play, do you? And that brother... he's a straight-up bitch for leaving his own blood like that. You did right by the kid. But listen to me, youngin." He leaned forward, resting his elbows on his knees, his eyes locked onto mine. "When they take you before the Commissioner tomorrow morning, you gotta play your hand. Don't go in there trying to look like a tough guy. They don't care about tough. You show them you got a ticket out of here."
+The commissioner saw it my dad's way. There was no real trial or anything. I stood in front of the commissioner, and he gave me a Stet docket. Basically, it was an indefinite postponement of the charges.
 
-I knew exactly what he meant.
+He was pretty straightforward. "If I even get a fucking whiff of you doing something between now and January when you ship out," the commissioner told me, "I'm gonna put you away."
 
-The next morning, they led me out of the cell and into the Commissioner's office. My heart was redlining, my pulse loud in my ears. I knew my entire future was balanced on a razor blade. If they pressed aggravated assault or weapons charges, Tech Sergeant Cartwright’s enlistment papers were garbage. The Air Force would void the contract. Japan would be gone. My entire life’s escape hatch would be welded shut, and I would be permanently trapped in the gravity of Baltimore.
+"Understood," I said. "You won't hear a peep out of me."
 
-The Commissioner was a tired, gray-haired man who looked like he had been reading arrest reports since the Wilson administration. A half-empty Styrofoam cup of cold coffee sat on his desk, next to a stack of files three inches thick. He didn't look up at me when they marched me in. 
-
-I stood there in my cuffs, took a slow, steady breath, and delivered the most important pitch of my life. I didn't plead. I didn't ask for mercy. I framed the situation as a simple, logical transaction.
-
-"Sir," I said, my voice calm and measured. "I have a Delayed Enlistment contract with the United States Air Force. My ship date is January 3rd. That is exactly two weeks from now."
-
-The Commissioner paused. He slowly raised his head, his tired eyes narrowing as he looked at me.
-
-I pressed the advantage. "If you press these charges, you keep me in Baltimore. You keep me in your system, which means I remain a constant threat, a drain on your resources, and a problem for your officers on the street. But if you let me go, the federal government takes custody of me. They ship me to Texas, and then they ship me across the Pacific. I will be completely out of your jurisdiction, permanently. I will never stand on a Baltimore corner again. I am offering you a self-correcting problem."
-
-I reached into my pocket—the guards had let me keep my folded papers—and placed the Air Force contract on his desk.
-
-The Commissioner looked down at the papers, then back up at me. I could see the analytical gears turning in his head. It was a matter of administrative efficiency. Prosecuting a kid for defending a friend with a machete would require court hours, witness testimonies, and public funds—all to keep a high-risk youth trapped in the same toxic ecosystem. Letting me join the military cleared his docket and solved the problem permanently.
-
-He picked up a heavy red stamp, breathed a sigh, and slammed it down onto my file with a loud, satisfying *thwack*.
-
-"I’m giving you a Stet," the Commissioner said, his voice flat and warning. "Stet processus. It is an indefinite postponement. If you get so much as a jaywalking ticket in the next two weeks, I will personally reopen this file and see to it that you serve the maximum sentence. You are to go straight home, stay inside, and get the hell out of my city on January 3rd. Do you understand me?"
-
-"Yes, sir," I said.
-
-The physical relief of walking out of that station into the biting, crisp Baltimore morning was overwhelming. I stood on the sidewalk, rubbing the raw, red indentations where the cuffs had bit into my skin, and took a deep, clean breath. I had engineered my escape. I had played the logic of the system against itself and won.
-
-On January 3, 1995, I boarded a plane to San Antonio. I left the bayonet, the fixed blade, and the machete behind in the Williams Street house.
-
-But I took the lessons with me. I took the hyper-vigilance, the threat assessment, and the understanding that when the physical chassis of your life is threatened, you have to bypass the pride and engineer a structural solution. I was leaving the hoodlum behind.
-
-But the Air Force was about to find out that the hoodlum’s operating system was still fully operational.
+I laid low for the next couple of months. And on January 3, 1995, I shipped out, leaving Baltimore behind.
 
 ---
 
