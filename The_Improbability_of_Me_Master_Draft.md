@@ -23,39 +23,31 @@
 
 # Chapter 1: The Improbability of Me
 
-So I’m kind of a fuck-up. I’ll admit it.
+So I'm kind of a fuckup. I'll admit it. Actually, let's be real. I was a spectacular fuckup. The classic "don't be like that fucking guy."
 
-Actually, let’s be real. I was a spectacular fuck-up. The kind other people used as a living warning label. For years I was the guy parents pointed at and said, “Don’t end up like him.”
+But I didn't start out that way.
 
-Now I walk into the headquarters of one of the world's largest companies every single day, tap a security badge, and stroll straight into zones most engineers will never see. I carry a high-security laptop in a beat-up backpack and hold a Master of Science in Systems Engineering from Johns Hopkins. I’ve led Operational Technology (OT) cybersecurity programs—securing the computers and networks that control physical systems like power grids, pipelines, and manufacturing plants—run multi-billion-dollar modernization and functional safety projects at Koch Industries, and worked on highly sensitive national security architectures at MITRE that I’m still not allowed to talk about.
+For the majority of my life, I was the golden boy. I was the teacher's pet, the top performer in school, just an all-around smart kid. But somewhere along the line, shit got a little bit out of control. This story is all about how things spiraled out of control and how easily that can happen. 
 
-And in nearly every one of those high-stakes rooms, I was the only motherfucker at the table who used to stand in front of a judge wearing shackles and an orange jumpsuit.
+But it's not just about letting shit spiral. It's about grabbing fucking life by the horns and getting back on that motherfucker after you've been knocked down to rock bottom. 
 
-I live in the violent split between two completely different files.
+And I've hit rock bottom. I've been put in jail, stripped of my freedom, and dragged through all of that shit. 
 
-The badge is just thick plastic with an RFID chip and a copper antenna. Tap it on the reader, it chirps, the light flips green, and the doors open. My dirty sneakers squeak across the polished granite like they don’t belong, because they fucking don’t.
+Nowadays, I am a high-powered, principled engineer at some of the world's largest companies. I've worked on systems that no one will ever see. I've worked on critical infrastructure. I've worked on projects for National Labs and federally funded research and development centers that I can never talk about. I've been a CTO at one of the world's largest automation distributors. I've been a director at one of the world's largest privately owned companies, Koch Industries.
 
-If that system ever cross-checked my real background against the badge, the alarms should have lit up like a Christmas tree and a security team should have been on my ass in seconds.
+I grew up in South Baltimore, but I had to go to school in North Baltimore. I had to deal with the local indigenous population that hated me because of my light complexion. A whole bunch of shit. 
 
-Because the man walking these sterile hallways is the same asshole federal prosecutors once labeled a “Kingpin.”
+I joined the military. They poisoned me. It's all right, it's all good. What's a little fucking poison between friends? I also accidentally became an international drug kingpin for anabolic steroids. That was a fucking adventure right there.
 
-They weren’t completely wrong. I built and ran part of a multi-million-dollar anabolic steroid trafficking network that supplied the East Coast, West Coast, and parts of South America. I didn’t sling on corners. I managed encrypted accounts, rotated Western Union wires to Bulgaria and Thailand, and broke down bulk shipments in my living room while I fixed Air Force Two during the day. In my head I was a logistics genius. In reality I was deep in a game that was way bigger than I realized, and I don't for a second take any pride in the idiot I was in my previous life. Don't think that for a second.
+Life happens. I've got scars across my head and my face. I've got a fake left hip. I've got scars on my legs. I've got scars across my abdomen where they had to cut me open and cut out the cancerous fucking ball that the Air Force poisoned me with.
 
-Until a single point of failure at JFK Airport turned the whole matrix into a flaming pile of wreckage.
+When I look at it as a functional safety engineer, I'm trained on understanding the probability of failure on demand for systems. I'd say the probability of failure on demand for my own fucking life was pretty close to certain. But I managed to unfuck myself. I came back from that, re-engineered my life, and was able to take the shit that made me a fuckup and turn it into something that makes me special.
 
-I’ve done real time in a cage. I’ve worn an ankle monitor that rubbed my skin raw while trying to hold down a job at Northrop Grumman. I’ve sat in a Baltimore courtroom while some arrogant judge looked down his nose at me. In a courtroom full of Baltimore's worst shitheads, he actually said I was the most dangerous man in the room. He said my crime was one of "intelligence and guile." He said he wanted to make an example out of me. I’ve had cancer try to hollow me out from the inside, and I raw-dogged the recovery from a full titanium hip replacement with zero opioids like a goddamn animal.
+The Japanese have a word for this. Of course I'm going to talk about Japanese, because I studied Japanese since I was in the sixth grade, and when I was in the military I lived over there for three years. The Japanese have a word for that crack that they've made better, those broken pieces that they filled with gold. It's called Kintsugi. 
 
-The actuarial tables said I should be dead, locked up for life, or another broken statistic scraping by on the margins. Fuck all that. I re-engineered the system instead.
+Kintsugi is about highlighting those things that made us broken. So now, I see all my scars and everything I've been through, and I understand that this is me. This is what I've become. This is who I am. 
 
-The same high-voltage threat-scanning brain I built dodging knives and crackheads on Greenmount and North Avenue is the exact same operating system I now use to hunt nation-state actors inside critical infrastructure networks. The street code never uninstalled. I just patched it for legitimate architecture.
-
-This isn’t some corny “overcoming adversity” fairy tale. I’m not here for pity and I’m damn sure not here to inspire you with cheap motivational bullshit. I’m not a role model and you’ll never see a children’s book from me. This is a cold, brutal audit of how a human system can be driven to catastrophic redline failure, shatter into a thousand jagged pieces, and still get rebuilt stronger than the original design.
-
-The Japanese have a word for it: kintsugi. They take the broken pieces and fill the cracks with gold. The flaws aren’t hidden. They’re highlighted. That’s exactly how I see my scars now.
-
-The systems thinking didn’t start at Johns Hopkins. It started on Baltimore city buses as a scrawny kid learning how to scan every crowd, map every exit, and calculate who was about to try to kill me in the next ten seconds.
-
-This book is the blueprint of how not to do it, and exactly how to crawl out of the wreckage if you fuck up as badly as I did.
+This book is all about how not to get into these fucking stupid situations in the first place. And, if you find yourself already in that fucked up life, here's how to get out of that motherfucker and do it right. So with this, I'm gonna kick this book off and get this thing started.
 
 ---
 
