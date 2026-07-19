@@ -16,7 +16,7 @@ const saveFilePlugin = () => ({
         req.on('end', () => {
           try {
             const data = JSON.parse(body);
-            const filePath = path.resolve(__dirname, '..', 'The_Improbability_of_Me_Master_Draft.md');
+            const filePath = path.resolve(__dirname, '..', 'Am_I_The_Bad_Guy_Master_Draft.md');
             fs.writeFileSync(filePath, data.content, 'utf8');
             
             res.setHeader('Content-Type', 'application/json');

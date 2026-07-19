@@ -2,8 +2,8 @@
 import subprocess
 import os
 
-md_path = r"c:\Users\mthom\OneDrive\Documents\Second Brain\Autobiography\The_Improbability_of_Me_Master_Draft.md"
-docx_path = r"c:\Users\mthom\OneDrive\Documents\Second Brain\Autobiography\The_Improbability_of_Me_Master_Draft.docx"
+md_path = r"c:\Users\mthom\OneDrive\Documents\Second Brain\Autobiography\Am_I_The_Bad_Guy_Master_Draft.md"
+docx_path = r"c:\Users\mthom\OneDrive\Documents\Second Brain\Autobiography\Am_I_The_Bad_Guy_Master_Draft.docx"
 pandoc_path = r"C:\Users\mthom\AppData\Local\Pandoc\pandoc.exe"
 
 print("Compiling manuscript via Pandoc...")

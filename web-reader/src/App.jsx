@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import Markdown from 'react-markdown'
 import { Moon, Sun, Menu, X, BookOpen, Printer, Edit3, Save } from 'lucide-react'
 // We append ?raw to get it as a string from Vite
-import initialManuscript from '../../The_Improbability_of_Me_Master_Draft.md?raw'
+import initialManuscript from '../../Am_I_The_Bad_Guy_Master_Draft.md?raw'
 
 function App() {
   const [chapters, setChapters] = useState([])
@@ -93,7 +93,7 @@ function App() {
       {/* Sidebar */}
       <aside className={`sidebar glass hide-on-print ${sidebarOpen ? 'open' : ''}`}>
         <div className="sidebar-header">
-          <h1 className="sidebar-title">The Improbability of Me</h1>
+          <h1 className="sidebar-title">Am I the Bad Guy?</h1>
           <div className="sidebar-subtitle">Michael Thompson</div>
         </div>
 

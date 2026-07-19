@@ -4,7 +4,7 @@
 
 ![The Improbability of Me Book Cover](book_cover.png)
 
-# THE IMPROBABILITY OF ME
+# AM I THE BAD GUY?
 
 **From Hoodlum to Hopkins**
 
@@ -21,7 +21,7 @@
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 1: The Improbability of Me
+# Chapter 1: Am I the Bad Guy?
 
 So I'm kind of a fuckup. I'll admit it. Actually, let's be real. I was a spectacular fuckup. The classic "don't be like that fucking guy."
 
