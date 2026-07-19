@@ -25,6 +25,8 @@
 
 So I'm kind of a fuckup. I'll admit it. Actually, let's be real. I was a spectacular fuckup. The classic "don't be like that fucking guy."
 
+An interesting thing about my story is that I never lead with it. People always tell me I've lived an interesting life, but I realize the light it paints me in. Oftentimes, I wait a long time before sharing the details. It's almost like I'm cushioning the blow. When people meet me, they would never think the story I'm about to tell matches the man in front of them. I present a very calculated version of myself. There are people I've known for years who won't know my story until they read this book. I am hyper-aware that my story doesn't always paint me as the hero. Everyone wants to be the hero of their own story, but I am uncomfortably aware that many times in my life, I was the bad guy.
+
 But I didn't start out that way.
 
 For the majority of my life, I was the golden boy. I was the teacher's pet, the top performer in school, just an all-around smart kid. But somewhere along the line, shit got a little bit out of control. This story is all about how things spiraled out of control and how easily that can happen. 
@@ -33,7 +35,7 @@ But it's not just about letting shit spiral. It's about grabbing fucking life by
 
 And I've hit rock bottom. I've been put in jail, stripped of my freedom, and dragged through all of that shit. 
 
-Nowadays, I am a high-powered, principled engineer at some of the world's largest companies. I've worked on systems that no one will ever see. I've worked on critical infrastructure. I've worked on projects for National Labs and federally funded research and development centers that I can never talk about. I've been a CTO at one of the world's largest automation distributors. I've been a director at one of the world's largest privately owned companies, Koch Industries.
+Nowadays, I am a high-powered, principled engineer at some of the world's largest companies. I've worked on systems that most will never see or know existed. I've worked on critical infrastructure. I've worked on projects for National Labs and federally funded research and development centers that I can never talk about. I've been a CTO at one of the world's largest automation distributors. I've been a director at one of the world's largest privately owned companies, Koch Industries.
 
 I grew up in South Baltimore, but I had to go to school in North Baltimore. I had to deal with the local indigenous population that hated me because of my light complexion. A whole bunch of shit. 
 
