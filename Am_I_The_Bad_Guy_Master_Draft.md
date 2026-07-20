@@ -764,63 +764,69 @@ I laid low for the next couple of months. And on January 3, 1995, I shipped out,
 
 # Chapter 10: Bo Derek and the ASVAB
 
-> *STATUS: DRAFTED — pending review.*
+The United States Air Force was my exit strategy. But I wasn't going to let Baltimore go without a proper send-off. My friends planned a party for me at Jay's, a restaurant where my Aunt Mimi Carol worked. Mr. Jay was an interesting fellow with his own things about him, but anyway, we threw a little party to send me off. 
 
----
+Before I went to the Air Force, I knew they were going to shave me bald, so I figured I’d go ahead and do something crazy with my hair. I went to a spot called Afrolistics and got a head full of dreadlocks. The woman running the shop took one look at me, shook her head, and said, "Your hair is so soft and beautiful. Why you want to do this?" I told her I was shipping off to boot camp in a few days and they were gonna shave it all off anyway. She thought that was hilarious. We hit it off immediately. She was super cool and gave me some of her lunch—a Baltimore classic, some fried lake trout. I walked out of Afrolistics with a head full of tight braids, ready to introduce myself to the federal government. 
 
-The United States Air Force was my exit strategy, but I wasn't going to let Baltimore go without a proper send-off.
+I spent the night at a Red Roof Inn—that's where they keep you the night before you ship out. The next day was the absolute first time I was ever going to get on an airplane, and I was freaking psyched. I wasn't afraid to fly yet, because I had never flown before. It was more of a nervous energy. 
 
-At the time, I was walking around with a head full of dreadlocks. I knew the military was going to shave me bald the second I stepped off the bus in Texas, so I figured I might as well give them something wild to look at before the clippers came out. I went to a spot in the city called Afrolystics.
+This was my first trip, and I was going straight to San Antonio, Texas, to Lackland Air Force Base. I was sitting there on the plane, quickly finding out that I don't actually like to fly, but I just sat there and took it. When we landed in Texas, they herded us onto an Air Force bus. I ended up sitting next to a guy named Miller. Miller was from Detroit, and I was from Baltimore. We clicked immediately. We both came from broken geography. We both spoke the same street-level kind of talk. I should have known right away that he was going to be trouble. 
 
-The woman running the shop took one look at me and shook her head. "Your hair is so soft and beautiful," she said. "Why you want to do this?"
+The bus pulled up to the reception center, the doors opened, and the screaming started. The military instructor—the Air Force version of a drill sergeant—was standing outside, losing his fucking mind, demanding we get off his bus. Miller stepped off, looked at the screaming instructor, and offered a traditional street greeting: "What's up?" 
 
-I told her I was shipping off to boot camp in a few days and they were going to shave it all off anyway. She thought that was hilarious. We hit it off immediately. She was such a nice lady that she even shared her lunch with me—classic Baltimore lake trout. I walked out of Afrolystics with a head full of tight braids, ready to introduce myself to the federal government.
-
-The trip to Lackland Air Force Base in San Antonio was the first time I had ever been on an airplane. I hated it. I wasn't a fan of flying at all—a profound irony considering I was joining the Air Force and would spend the next few years flying all over the planet.
-
-When we landed in Texas, they herded us onto a blue Air Force bus. I ended up sitting next to a guy named Miller. He was from Detroit; I was from Baltimore. We clicked immediately. We both came from broken geography, and we spoke the same street-level dialect. I should have known right then that he was going to be trouble.
-
-The bus pulled up to the reception center, the doors hissed open, and the screaming started.
-
-A Military Training Instructor (MTI)—the Air Force version of a Drill Sergeant—was standing outside, absolutely losing his mind, demanding we get off his bus.
-
-Miller stepped off the bus, looked at the screaming instructor, and offered a traditional Detroit greeting.
-
-"Wazzzup!" Miller said.
-
-The instructor stopped. The sheer audacity short-circuited his brain for a second. Then he exploded.
-
-"What up with the what's up?!" he screamed, spraying spit into the Texas heat.
-
-Then the instructor's eyes snapped to me. He took one look at my freshly braided Afrolystics hair and immediately gave me my military callsign.
+The instructor stopped. The sheer audacity short-circuited his fucking brain. Then he exploded. *"What's up? What the fuck do you mean what's up?!"* he screamed, spraying spit all over in the Texas heat. Then the instructor's eyes snapped to me. He looked at me with my freshly braided Afrolistics hair and immediately gave me my military nickname. 
 
 "Get over here, Bo Derek!"
 
-For most recruits, the first day of boot camp is terrifying. They break you down to build you back up. But coming from where I came from, it wasn't intimidating in the least. A guy in a funny hat screaming at me for standing wrong didn't carry the same weight as a guy pulling a machete on me at a recreation center. The threat level in San Antonio was purely psychological; the threat level in Baltimore had been existential.
+For most recruits, the first day of boot camp is terrifying. They break you down to build you back up. But coming from where I came from? It wasn't intimidating in the least. It was just a fucking guy in a hat screaming at me for standing wrong. It didn't carry the same weight as a guy pulling a machete on me back at the rec center. It was a completely different thing. 
 
-I actually enjoyed it. I loved the structure. I loved the discipline. For the first time in my life, the rules made sense, and the expectations were clear. More than anything, it was just good to finally be free of Baltimore.
+I actually kind of enjoyed the Air Force. I liked the structure. I loved the discipline. For the first time in my life, the rules made sense. The expectations were clear. More than anything, it was just good to finally be free of Baltimore. 
 
-When it came to picking my career field, my brain did the heavy lifting. I had scored exceptionally well on the ASVAB (Armed Services Vocational Aptitude Battery). The recruiter looked at my scores and basically told me I could have any job I wanted. The military is a massive machine, and it is always looking for raw processing power.
+I forgot to mention this part, but back when I was at the recruiter's office after taking the ASVAB, I had to come in and pick my guaranteed job. I scored really well on the ASVAB—90s across the board, high 90s in electrical. They turned a book around, and I started flipping through it. I landed on "Aerospace Electrical Environmental Systems Specialist." Man, I thought I was going to be in a fucking laboratory. It sounded so cool. I told them that was the one for me. That was the job I selected: 2A6X6, Aerospace Electrical Environmental Systems Specialist. 
 
-I skimmed through the list of technical careers. I saw a title that caught my eye: *Aerospace Electrical and Environmental Systems Specialist*.
+But first, I had to get through boot camp. 
 
-It sounded complicated. It sounded cool. I signed the paperwork.
+I'll never forget one of my first basic training memories. We were lined up, freshly shaven and bald, standing in our new BDUs. I was looking out across the Lackland Air Force Base area, and I saw a fucking two-foot-tall rabbit. I had never seen anything like that before. Rabbits where I'm from are small, little fuzz buckets. This was a fucking jackrabbit standing two feet tall. I was like, *Jesus Christ, what the fuck is that?* It completely took me off guard. 
 
-After boot camp, they sent me to Sheppard Air Force Base in Wichita Falls, Texas, for technical school. I was enrolled in the training pipeline for the 2A6X6 specialty: Aerospace Electrical and Environmental Systems. 
+The next one was when we went out to shoot the M-16s. The range at Lackland was near a swamp or something, and I watched a fucking alligator snapping turtle just walk right out of the goddamn swampy area. I was like, *Where in the fuck am I? This fucking place is wild.*
 
-For the average recruit, it was a highly complex course. They would sit in classrooms staring blankly at three-foot-wide, multi-folded technical schematics—known in the military as Technical Orders, or T.O.s. These blueprints were massive webs of lines representing thousands of feet of wiring, relays, and circuit breakers. 
+Another thing was the sky. This was the first time I’d really been out of Baltimore City, and I was unaccustomed to the skyline. You could see the full sky. It was almost overwhelming to me to see so much of it without buildings blocking the way. 
 
-But to me, those schematics made perfect sense. 
+Basic training is full of crazy stories, but I kind of lucked out because I was the second tallest guy. When we lined up, the tallest guy was right up front, and I was directly behind him. They called him Bigfoot. He was a fucking heat shield—he took all the flak, and I actually got by with minimal yelling directed at me. They would always make fun of him: *"Don't leave your fucking iron out, or Airman Bigfoot's gonna walk through here and stub his Bigfoot ass toe!"* 
 
-It was the first time in my life I realized that my brain ran on a different clock speed than the people around me. My cognitive processing power, which had spent years scanning alleyways and street corners for threats, was suddenly directed at a static, logical architecture. I didn't try to memorize the schematics. I downloaded them. I would spend my evenings sitting in the study hall hunched over the T.O.s while the other guys in the barracks were out. 
+Part of basic training is that these drill instructors are trained comedians. They say shit that makes you want to laugh, but if you laugh, they will fuck you up. One kid left his dog tags hanging out. They made this motherfucker walk around to everybody while we were standing at attention and introduce himself as a cow. You wanted to laugh so bad, watching this grown-ass man walk up to you shaking his tags, saying, "Moo moo, I'm Elsie the cow."
 
-I loved the absolute truth of it. On the streets of Baltimore, everything was volatile. A word could mean a fight, a look could get you shot, and the rules changed depending on who was standing on the corner. But a schematic had no ego. A wiring diagram didn't lie, and it didn't have bad days. It ran on pure, uncompromising physics. If an input went into a logic gate, the output was mathematically guaranteed. There was an error, you isolated it, analyzed the logic, and fixed the system. 
+I did get yelled at a couple of times. The first time was when we had to write our names on our underwear. It was supposed to be your last initial capitalized, followed by the last four digits of your social security number. I was sitting there listening to him, and it sounded straightforward. He said, "Go ahead and write the last initial of your name and the last four digits of your social security number." 
 
-Troubleshooting came naturally to me. I had taken the hyper-vigilance of the streets—the constant, scanning risk-assessment engine—and converted it into a refined technical instrument. 
+I started to write, and I made the 'T' kind of big. Then he added, "Now, don't make this fucking first letter too goddamn big." 
 
-I graduated the course officially an Air Force aerospace electrical specialist. I was young, arrogant, and armed with a deep understanding of complex systems architecture. And the military was about to ship my processing engine across the Pacific to my first active duty station.
+I thought, *Oh, fuck.* 
 
-Japan was waiting.
+He came around, looked at my underwear, and screamed, "Jesus Christ, Thompson, what the fuck did you do? Drink a case of Jack Daniels before you fucking wrote this on this underwear?!" 
+
+We always had to respond with a reporting statement. "Sir, Airman Thompson reports as ordered. No, sir." That was the first fucking thing you had to learn. You had to go up to these crazy motherfuckers and say, "Sir, Airman Thompson reports as ordered," and they would always fuck with you. "Reporting as ordered? Reporting? Who the fuck are you? Are you fucking Nancy Grace?" They would name whoever was the famous news lady at the time and just scream in your face.
+
+The next time I got yelled at, we were in our Blues, close to the end of basic. We were on our way to the chow hall. They knew that I ate a lot, because I would always go back for more food. This was like the first time I could fucking eat everything I wanted, and I was having a grand old time eating hard-boiled eggs. They would tell us, "Get in there, get out. We don't have time for this Thompson Continental breakfast bullshit. Let's just fucking go in there and eat." 
+
+Well, one day I was going back up for more hard-boiled eggs, because you were allowed to go back for them, and I was just standing there. The fucking drill sergeant came up right beside me and whispered right in my ear, "I'm gonna give you one fucking second to get over here and unfuck yourself." 
+
+I said, "Okay," and ran over to the side, checking all my shit. The blood ran out of my body. I realized I had missed a belt loop in the back of my pants. Holy fuck. They took me into a room and yelled at me for literally an hour, telling me how my lack of attention to detail was gonna kill everybody. I was gonna kill the president, kill the platoon, kill everybody. They just kept yelling, and when one got tired, the next one would come in and start screaming. It was a solid 45 minutes to an hour of pure yelling. 
+
+That was really the last time I got yelled at, but they did all kinds of crazy shit. My drill instructor, Staff Sergeant Saavedra, was this little blocky dude. I'll never forget standing in line—it was Bigfoot, me, and a huge black dude next to me. Saavedra walked right up to the big guy, got inches from his face, and said, "You don't know how bad I want to fucking choke you to death right now." 
+
+I was thinking, *This guy could probably stomp a mudhole in your ass,* but it was all fucking mind games. I got through it fairly easily. Other people were getting homesick, but I didn't give a fuck. I was so glad to be out of Baltimore. I never looked back.
+
+After Lackland, I went to Sheppard Air Force Base in Wichita Falls, Texas, for tech school. That’s where I learned how to be an Aerospace Electrical Environmental Systems Specialist. We called it "Ever and Ever" because it had one of the longest training times. We were practically a permanent duty station. The schooling went on for like nine months just to learn how to fix all these systems on different planes. 
+
+I hung out with a bunch of guys there. G. Gordon Gramstead was one. We would just go out and do random shit. This was right around the time the Oklahoma City bombing happened, so we drove up there to see the wreckage. 
+
+It was also in Texas where I saw bison for the first time. We went to a conservatory, and I walked right up to one, saying, "Look at this fucking thing." It started grunting at me and almost charged. I could have been thrown into the air that very minute. I had to run around a tree and climb up some rocks. I thought it was just like a cow, but I was scared of that thing. It was fucking big, standing just out of arm's reach.
+
+I really took to the Electrical Environmental Systems training. It was actually quite fun—a lot of science. We had to learn about LOX, liquefied oxygen, because it was cryogenically stored on the planes for the pilots to breathe. We learned about all the pressurization systems and the electrical systems. I had a great time with it. 
+
+When I finally graduated from tech school, my father and my grandfather came down to Texas to see me. Shortly after that, I shipped off to Okinawa, Japan.
+
+---
 
 ---
 
