@@ -23,7 +23,7 @@ Error generating stack: `+e.message+`
 \r
 ---\r
 \r
-![The Improbability of Me Book Cover](book_cover.png)\r
+![The Improbability of Me Book Cover](book_cover.jpg)\r
 \r
 # AM I THE BAD GUY?\r
 \r
