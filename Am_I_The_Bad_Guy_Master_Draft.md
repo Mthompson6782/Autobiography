@@ -2,7 +2,7 @@
 
 ---
 
-![The Improbability of Me Book Cover](book_cover.png)
+![The Improbability of Me Book Cover](book_cover.jpg)
 
 # AM I THE BAD GUY?
 
