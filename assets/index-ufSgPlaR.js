@@ -160,21 +160,23 @@ We lived in old, World War II-era housing - brick rowhouses that had been choppe
 \r
 I didn't even have a bed. I slept on a squeaking metal military cot in the corner of the small room, the canvas stretched tight and thin over the frame.\r
 \r
-And there were roaches.\r
-\r
-There are always roaches when you live in places like that, but Audrey Avenue had them on a systemic scale. They infested the hollow sheetrock walls. I remember waking up in the middle of the night to the tiny, dry scratching sound of their legs moving across the plastic sheet I used as a mattress cover. If you clicked the light switch on, the white walls would instantly come alive as hundreds of them scattered, a rapid, oily brown wave disappearing into the cracks of the baseboards and behind the stove. That memory branded itself into my nervous system. It created a permanent, hyper-vigilant feedback loop in my brain. To this day, I haven't seen a roach in years, but if my kids leave food, wrappers, or a dirty glass out on the counter, I will lose my temper and scream at them. My brain doesn't see a harmless soda can; it sees the vanguard of a brown, scratching army coming to reclaim my home. It is a primitive survival phobia I have never been able to engineer out of my code.\r
+And there were roaches. There are always roaches when you live in places like that, but Audrey Avenue had them on a systemic scale. They infested the hollow sheetrock walls. If you clicked the light switch on, the white walls would instantly come alive as they scattered. That memory branded itself into my nervous system. It created a permanent, hyper-vigilant feedback loop in my brain. To this day, I haven't seen a roach in years, but if my kids leave food, wrappers, or a dirty glass out on the counter, I will lose my temper and scream at them. My brain doesn't see a harmless soda can; it sees the vanguard of a brown, scratching army coming to reclaim my home. I've never been able to shake it.\r
 \r
 But a neighborhood is defined by its ecosystem, and Audrey Avenue had an ecosystem that bordered on the surreal. The people who lived there were a strange, volatile mix of the broken and the bizarre.\r
 \r
 For the most part, the people were nice, bound together by the shared gravity of poverty. There was a lady who worked sanitation - we just called her the garbage lady - who used to comb through the trash on her routes in the wealthier zip codes. Whenever she found toys that people in better neighborhoods had thrown away, she would bring them home in her canvas bag, and hand them out to us poor kids on the block. It was a beautiful, small act of kindness in a place that didn't have much of it to spare.\r
 \r
-Then there were the Heberles. They were poor, but they were good, solid people. The older brother, Timmy, knew karate. He carried himself with a quiet, lethal confidence and stood like a sentinel on the block. The younger brother, John, was my age. John was way behind academically, struggling with severe learning disabilities that the neighborhood schools simply weren't equipped to handle, but we hung out anyway, throwing rocks at train cars and navigating the broken pavement.\r
+There is another story from Brooklyn that brings tears to my eyes even to this day. I had a friend named John. He was a good kid, but his mother had six kids by six different dads, and she kept John out of school a lot. Because of that, he was pretty far behind.\r
 \r
-Timmy had taken an interest in me and decided he was going to teach me how to use nunchucks. I was obsessed with the idea. I scraped together some money, walked down to the local hardware store, and bought a wooden dowel so we could build a pair. My dad picked me up on his motorcycle, and I hopped on the back, clutching that dowel. We were driving home when some bitch wasn't paying attention and ran us completely over. We went down hard on the asphalt.\r
+John's older brother was Tim. Tim was the fucking baddest dude. He did karate and was known as a tough motherfucker in the neighborhood. We all looked up to him. He was like sixteen or seventeen, and we were around eleven or twelve. He was a total ladies' man. All the girls were chasing after him.\r
 \r
-I survived the crash with a ruptured eardrum and a seven-inch scar running down my leg, but the real tragedy hit a week later. Timmy shot himself. The truth was, he was gay, and in that neighborhood, in that era, he just couldn't deal with the reality of it. The pressure broke him. I remember seeing the blood and the splatter left behind. To this day, it absolutely tears me up to think about it. Just like that, the sentinel of the block was gone. \r
+This fucking guy even knew how to use nunchucks! I was actually coming back with a wooden dowel to make my own set of nunchucks - my dad had taken me to the hardware store to get it - when we were hit by a drunk bitch on Hanover Street. We were at a red light on his motorcycle, and she plowed right through us. I remember flying through the air and bouncing off her windshield. My shit was fucked up for weeks - it also ruptured my ear drum - and I had a massive scar on my leg from something on the bike. Because of that accident, I never got to make those nunchucks.\r
 \r
-The trauma rippled right through the remaining family. A few days after the suicide, John, completely unmoored by the loss of his brother, caught their house on fire. It was a fast, brutal lesson in how quickly things could be violently taken away from you in that environment, and how destruction breeds destruction.\r
+Well, it turns out Tim was gay. It wasn't a time or a place for that, especially not in a neighborhood like Brooklyn, and unfortunately, that pressure took its toll on Tim. One day, he blew his brains out with a shotgun in his room. John and I actually found him.\r
+\r
+It's another one of those things burned into my mind. It fucks me up even to this day. I get choked up even just thinking about it.\r
+\r
+It fucked John up even worse. He wound up catching his apartment on fire. We left Brooklyn shortly after that.\r
 \r
 And then there were Nancy and Sandy.\r
 \r
@@ -199,18 +201,6 @@ She cried, shaking, but she did it. She hit her head on the ground.\r
 Misty slammed her own head into the floor with everything she had. It made a sickening, heavy, hollow thud that vibrated through the apartment. When she finally sat up, she looked completely dazed, blood trickling from her nose. That must have been enough to satisfy his logic, because he finally turned and left her alone.\r
 \r
 I think Misty and Pam eventually escaped, but the memory of them - and the sickening, heavy thud of that floor - stuck with me forever.\r
-\r
-There is another story from Brooklyn that brings tears to my eyes even to this day. I had a friend named John. He was a good kid, but his mother had six kids by six different dads, and she kept John out of school a lot. Because of that, he was pretty far behind. \r
-\r
-John's older brother was Tim. Tim was the fucking baddest dude. He did karate and was known as a tough motherfucker in the neighborhood. We all looked up to him. He was like sixteen or seventeen, and we were around eleven or twelve. He was a total ladies' man. All the girls were chasing after him.\r
-\r
-This fucking guy even knew how to use nunchucks! I was actually coming back with a wooden dowel to make my own set of nunchucks - my dad had taken me to the hardware store to get it - when we were hit by a drunk bitch on Hanover Street. We were at a red light on his motorcycle, and she plowed right through us. I remember flying through the air and bouncing off her windshield. My shit was fucked up for weeks, and I had a massive scar on my leg from something on the bike. Because of that accident, I never got to make those nunchucks.\r
-\r
-Well, it turns out Tim was gay. It wasn't a time or a place for that, especially not in a neighborhood like Brooklyn, and unfortunately, that pressure took its toll on Tim. One day, he blew his brains out with a shotgun in his room. John and I actually found him. \r
-\r
-It's another one of those things burned into my mind. It fucks me up even to this day. I get choked up even just thinking about it.\r
-\r
-It fucked John up even worse. He wound up catching his apartment on fire. We left Brooklyn shortly after that.\r
 \r
 Audrey Avenue was a masterclass in the extremes of human nature. You had a woman digging toys out of the garbage to make poor kids smile, living right down the street from monsters enforcing a concrete-floor slave state.\r
 \r
