@@ -905,9 +905,23 @@ I flew all over Asia. We were constantly going somewhere. I would get calls on m
 \r
 As much as I hated flying commercial, I felt perfectly at home on the C-130s I fixed. The C-130 has a beautiful hum. To this day, it's the most relaxing sound in the world to me. I would get on the plane, lay down, and just pass out. Beautiful airplane. \r
 \r
-Despite the chaos and the constant deployments, it was an amazing time. Japan is a high-trust society, which was a wild shift from my upbringing. A perfect example of this happened one day when I was riding my bicycle just outside Gate 2. \r
+Despite the chaos and the constant deployments, it was an amazing time. Japan is a high-trust society, which was a wild shift from my upbringing. \r
 \r
-Gate 2 Street had the worst reputation on the island. It was infamous. It's where the "Banana Lady" was—she had this crazy dance where she would stick a banana in her vagina and shoot it into a young Marine's mouth.\r
+A perfect example of this happened one day when I was riding my bicycle just outside Gate 2. Gate 2 Street had the worst reputation on the island. It was infamous. It's where the "Banana Lady" was—she had this crazy dance where she would stick a banana in her vagina and shoot it into a young Marine's mouth. They always took the new guys to see the show, but only the new, young Marines actually ate the banana. I guess the Air Force has those higher ASVAB test score requirements for a reason.\r
+\r
+So one day, still new to the island, I decided to take my bike out on Gate 2 Street to see what it was like during the day and to learn my way around. \r
+\r
+I was at a light, waiting for it to turn green—or blue, as the Japanese swear the green light is actually blue. They also swear a dog's bark sounds like *wan wan* instead of *woof woof*, but whatever. \r
+\r
+The light changed, I started to go, and out of my peripheral vision, I saw a dude running toward me. \r
+\r
+I started pedaling. Now, it wasn't like I was scared or anything, but in my hyper-vigilant Baltimore mind, I just knew someone was running my way, and I wanted to keep space between us. So I pedaled faster. \r
+\r
+He was still running. I kept pedaling harder. Finally, the light at the next street caught me, and I had to pause long enough to hear him yelling, *"Chotto matte! Chotto matte kudasai!"* \r
+\r
+The guy had chased me for blocks, sprinting in the suffocating heat, just to bring me the wallet I had dropped several streets back. \r
+\r
+Now *that* was culture shock.\r
 \r
 Then came Operation Cobra Gold.\r
 \r
