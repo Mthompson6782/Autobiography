@@ -156,6 +156,20 @@ Just like my mother lacked maternal instincts, my dad was young and figuring out
 \r
 He would come home late at night, his steel-toed boots making a heavy, tired thud on the floor. He was a kind of skilled laborer, crafting the big industrial insulators you see on electrical distribution lines. My father was actually a fairly intelligent man. He knew those streets, but he took a couple of college classes. He never graduated, but I always remember him having a sharp mind for math. My father has a thick old-school Baltimore City accent. My wife, a native of Detroit, cannot understand him. She's not sure it's actually English.\r
 \r
+One of my first lessons of this new area came one day when I was in the alley tossing a football in the air and catching it. Some older kids came by and just took my shit. They were teenagers, probably fourteen or fifteen. They didn't give a fuck. Well, I ran and told my dad. We walked those motherfuckers down. We found them, and they were standing around. \r
+\r
+He said, "Is this them?" \r
+\r
+I said yes. \r
+\r
+He said, "Take your shit back." \r
+\r
+I took my ball. He threatened them, told them if they touched me he was going to fucking kill them. Then he told me to punch the motherfucker in the face that took my ball. I paused, and he yelled at me to hit him. \r
+\r
+It was like a crack I heard in my mind, like thunder. *Hit him. Hit him again.* \r
+\r
+I just started punching the kid over and over. He started crying. I had blood on my fist from his nose and mouth. I cut my fist on his teeth. After that, I picked my ball back up off the ground, and we went home.\r
+\r
 We lived in old, World War II-era housing - brick rowhouses that had been chopped up and converted into cheap, run-down apartments. Our place was small, cramped, and entirely stripped of anything resembling luxury. The walls were stark white, and they always smelled faintly of fresh, cheap paint. The landlords didn't actually clean anything between tenants; whenever a new person came along, they would just roll a fresh coat of cheap latex white paint directly over whatever grime, grease, or dead bugs were left behind by the last people. If you looked closely at the walls, you could see the raised outlines of dirt clods and hair permanently sealed under the gloss.\r
 \r
 I didn't even have a bed. I slept on a squeaking metal military cot in the corner of the small room, the canvas stretched tight and thin over the frame.\r
