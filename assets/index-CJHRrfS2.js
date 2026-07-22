@@ -907,10 +907,53 @@ As much as I hated flying commercial, I felt perfectly at home on the C-130s I f
 \r
 Despite the chaos and the constant deployments, it was an amazing time. Japan is a high-trust society, which was a wild shift from my upbringing. A perfect example of this happened one day when I was riding my bicycle just outside Gate 2. \r
 \r
-Gate 2 Street had the worst reputation on the island. It was infamous. It's where the "Banana Lady" was—she had this crazy dance where she would stick a banana in her vagina and shoot it into a young Marine's mouth. \r
+Gate 2 Street had the worst reputation on the island. It was infamous. It's where the "Banana Lady" was—she had this crazy dance where she would stick a banana in her vagina and shoot it into a young Marine's mouth.\r
 \r
-*(Wait—hold on. Cindy just broke my train of thought. Is that true?)*\r
+Then came Operation Cobra Gold.\r
 \r
+We deployed to Thailand for the massive, joint-force military exercise. If I thought I knew poverty from the brick rowhouses of South Baltimore, Thailand showed me I knew absolutely nothing. This was a different level of survival. Dirt floors, tin roofs, open sewage running down the sides of the streets, and children working the fields with water buffalo. In America, the hustle is always thereΓÇöyou can find a way out if you have the drive. But in the rural provinces of Thailand, the ceiling was made of thick, reinforced concrete. There was no escape hatch. It was a humbling, sobering reality check that ground away my remaining adolescent arrogance.\r
+\r
+But we were young, and when the shifts ended, we sought out the local culture. One night, a group of us were sitting at a noisy, open-air Muay Thai bar in Pattaya. The air was thick, wet, and suffocating, smelling of fried chilies, cheap whiskey, and the sharp, wintergreen-and-menthol sting of *Namman Muay*ΓÇöthe yellow liniment the fighters used to numb their limbs. In the center of the bar was a crude wooden ring. Wiry, lean local fighters, looking like they were constructed out of dark mahogany and wire, were systematically chopping each other down to the frantic, high-pitched wail of the *sarama* music. The sound of shins slamming against ribs echoed through the rafters like pistol shots.\r
+\r
+Sitting at the table next to mine was a physical anomaly.\r
+\r
+The man looked like he had been genetically engineered in a lab. He was easily 6'4", 250 pounds of sculpted, striated muscle under a tight black tank top, with hair as blonde as wheat and eyes like chipped blue ice. He looked like Ivan Drago had walked out of *Rocky IV* and into a Thai bar. He was sitting with a group of Eastern European tourists, drinking a Singha beer, loudly debating whether he should get in the ring to fight one of the Thais.\r
+\r
+"They can kick me here," the giant said, his accent thick and heavy as he patted his massive, tree-trunk thighs. "No problem. Muscle is strong."\r
+\r
+He patted his iron-hard, washboard abs. "They can kick me here. No problem. I don't feel."\r
+\r
+Then he pointed a thick finger at his temple. "But they canΓÇÖt kick me here. Head is different."\r
+\r
+I watched the local Thai fighters in the ring. They were half his size, but their shins were like iron pipes, and they had been kicking banana trees since they were six years old. I figured the giant was about to get a very painful lesson in the physics of rotational force, but I was fascinated by his physical chassis. I had been lifting heavy, but this guy had achieved a level of density that seemed mathematically impossible for a natural human.\r
+\r
+I leaned over from my table. "Excuse me, man. What's your lifting regimen? How do you pack on that kind of mass?"\r
+\r
+The giant turned his head, his cold blue eyes scanning my broad shoulders and lanky frame. A slow, conspiratorial grin spread across his face.\r
+\r
+"Regimen is good," he said, his voice a deep, gravelly rumble. "But regimen is only half the equation. If you want to exceed the design specifications of the human body, you need a chemical catalyst. Steroids."\r
+\r
+I blinked. I was active-duty military. I had a security clearance, and I was working on advanced aerospace systems. "I'm interested," I admitted, my voice low. "But I'm in the Air Force. If I get hit with a random urinalysis, my career is over. I can't risk it."\r
+\r
+The giant let out a booming laugh, waving his hand. "Military testing is simple logic, my friend. They test for recreational drugsΓÇöcocaine, weed, speed. Anabolic testing is very expensive. They do not run those panels unless they suspect you. And even then, some compounds have clearing times of only a few days. You just need to know the mathematics of the cycle."\r
+\r
+He reached into his pocket, pulled out a small pen, and grabbed a paper napkin off the table. He scribbled a secure, encrypted email address and a name in block letters.\r
+\r
+He slid the napkin across the wet wood to me. \r
+\r
+"My name is Spartak," he said, his blue eyes locking onto mine with absolute certainty. "Spartak Todorov. I import directly from the state pharmaceutical labs in Bulgaria and Thailand. Pure, sterile, professional grade. If you ever want to see what your chassis is truly capable of, write me. I will hook you up."\r
+\r
+I looked down at the napkin. The ink was slightly smeared by the condensation from my beer bottle. \r
+\r
+I folded the paper carefully, slid it deep into the pocket of my cargo shorts, and took a drink of my beer. I told myself I was just keeping it as a souvenir, a bizarre token from a wild deployment in Thailand. I told myself I would never actually use it.\r
+\r
+When I got back to Okinawa, I threw the napkin into the bottom of a metal footlocker, buried under old manuals, uniform patches, and dry ice bomb caps. It lay there in the dark, silent and forgotten, for years.\r
+\r
+But a seed doesn't need attention to remain viable. It only needs time.\r
+\r
+Years later, when I was out of the military, back in Baltimore, and trying to figure out how to rebuild my life, I would open that old footlocker. I would find that faded piece of paper. And the logic of that transaction would finally make perfect sense.\r
+\r
+I didn't know it yet, but that night in Thailand, sitting in the humid air of a Muay Thai bar, I had just initialized the sequence that would turn me into a "Kingpin."\r
 ---\r
 \r
 <div style="page-break-after: always;"></div>\r
