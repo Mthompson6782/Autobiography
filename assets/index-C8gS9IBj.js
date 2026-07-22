@@ -200,6 +200,18 @@ Misty slammed her own head into the floor with everything she had. It made a sic
 \r
 I think Misty and Pam eventually escaped, but the memory of them—and the sickening, heavy thud of that floor—stuck with me forever.\r
 \r
+There is another story from Brooklyn that brings tears to my eyes even to this day. I had a friend named John. He was a good kid, but his mother had six kids by six different dads, and she kept John out of school a lot. Because of that, he was pretty far behind. \r
+\r
+John's older brother was Tim. Tim was the fucking baddest dude. He did karate and was known as a tough motherfucker in the neighborhood. We all looked up to him. He was like sixteen or seventeen, and we were around eleven or twelve. He was a total ladies' man. All the girls were chasing after him.\r
+\r
+This fucking guy even knew how to use nunchucks! I was actually coming back with a wooden dowel to make my own set of nunchucks—my dad had taken me to the hardware store to get it—when we were hit by a drunk bitch on Hanover Street. We were at a red light on his motorcycle, and she plowed right through us. I remember flying through the air and bouncing off her windshield. My shit was fucked up for weeks, and I had a massive scar on my leg from something on the bike. Because of that accident, I never got to make those nunchucks.\r
+\r
+Well, it turns out Tim was gay. It wasn't a time or a place for that, especially not in a neighborhood like Brooklyn, and unfortunately, that pressure took its toll on Tim. One day, he blew his brains out with a shotgun in his room. John and I actually found him. \r
+\r
+It's another one of those things burned into my mind. It fucks me up even to this day. I get choked up even just thinking about it.\r
+\r
+It fucked John up even worse. He wound up catching his apartment on fire. We left Brooklyn shortly after that.\r
+\r
 Audrey Avenue was a masterclass in the extremes of human nature. You had a woman digging toys out of the garbage to make poor kids smile, living right down the street from monsters enforcing a concrete-floor slave state.\r
 \r
 It was a chaotic, bizarre environment, but my dad kept us moving forward. He used Brooklyn for what it was meant to be used for: a place to grind, get his shit together, and build a platform. Eventually, his double shifts paid off. We climbed out of the slide, left Audrey Avenue behind, and moved up to Johnson Street.\r
@@ -725,7 +737,7 @@ But that's when I realized things were getting serious. I pulled out the sword.\
 \r
 "Alright, here we go," I thought.\r
 \r
-As soon as I pulled it out, everybody started yelling, "He's got a sword! He's got a knife!" They called it a sword.\r
+As soon as I pulled it out, everybody started yelling, "He's got a sword! He's got a knife!"\r
 \r
 I looked over at Mike. He had some guy locked up in a WWF DDT-style hold, ready to just smash the guy's head straight into the concrete. Mike looked over at me, calm and honestly looking like he was legit having a good time.\r
 \r
@@ -751,7 +763,7 @@ But she was young, and the sheer authority of the badge just had a presence over
 \r
 In came two Baltimore Police officers from the Southern District. They didn't care about procedural decorum, warrants, or civil rights. They were just hyped up on their own shit.\r
 \r
-"Where's the fucking sword?" they demanded.\r
+"Where's the fucking sword?" they demanded. So much for "snitches get stitches." Those little bitches ratted me out to the police.\r
 \r
 "What sword?" I said. "I don't have a sword. I don't even own a sword."\r
 \r
@@ -776,6 +788,8 @@ The commissioner saw it my dad's way. There was no real trial or anything. I sto
 He was pretty straightforward. "If I even get a fucking whiff of you doing something between now and January when you ship out," the commissioner told me, "I'm gonna put you away."\r
 \r
 "Understood," I said. "You won't hear a peep out of me."\r
+\r
+Charlie actually just died a few months ago. He had a lot of demons he fought over the years.\r
 \r
 I laid low for the next couple of months. And on January 3, 1995, I shipped out, leaving Baltimore behind.\r
 \r
