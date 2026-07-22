@@ -707,9 +707,9 @@ That fucking burned me up. You don't leave your brother on his own. That's a dir
 \r
 I called my best friend, Mike Hammonds, and told him the situation. Mike didn't ask how many guys there were, or if they had guns. He just asked, "Are we going to do this?" He told me he'd be right there. Minutes later, he rolled up.\r
 \r
-Charlie told us it was a whole group of them, so I decided I needed an equalizer. I grabbed a small machete. It wasn't my favorite weapon—hacking feels awkward to me, much less precise than stabbing—but a machete has a good psychological weight to it. People see that wide blade and they freeze. I tucked it inside my jacket, under my arm, and we walked up to the Rec Center.\r
+Charlie told us it was a whole group of them, so I decided I needed an equalizer. I grabbed a small sword. It wasn't my favorite weapon—hacking feels awkward to me, much less precise than stabbing—but a sword has a good psychological weight to it. People see that wide blade and they freeze. I tucked it inside my jacket, under my arm, and we walked up to the Rec Center.\r
 \r
-We walked in: Charlie first, then Mike, then me bringing up the rear. Charlie pointed out the issue. He had been playing ball, things got rough, and he tried to walk away. Someone threw a basketball at his face. Charlie just caught it and set it down. It was a small act of defiance, but it enraged the guy. They told Charlie that the second he stepped outside, they were going to beat him to death.\r
+Mike and I walked into the rec, Charlie was already there. Charlie pointed out the issue. He had been playing ball, things got rough, and he tried to walk away. Someone threw a basketball at his face. Charlie just caught it and set it down. It was a small act of defiance, but it enraged the guy. They told Charlie that the second he stepped outside, they were going to beat him to death.\r
 \r
 There was no fighting inside the 84 Rec Center. If you got caught fighting in there, you got kicked out permanently. Then where would you go? So everybody kind of respected it. It was like holy ground.\r
 \r
@@ -721,13 +721,13 @@ I moved toward Charlie. I figured Hammonds had his shit under control. There wer
 \r
 I just swung with my left hand—a hard, overhand left—and completely connected. I punched that motherfucker right in his forearm, and I heard a loud snap. That was Mike Lowry. That little force basically broke his fucking arm. He was laying there on the ground crying like a bitch.\r
 \r
-But that's when I realized things were getting serious. I pulled out the machete.\r
+But that's when I realized things were getting serious. I pulled out the sword.\r
 \r
 "Alright, here we go," I thought.\r
 \r
-As soon as I pulled it out, everybody started yelling, "He's got a machete! He's got a knife!"\r
+As soon as I pulled it out, everybody started yelling, "He's got a sword! He's got a knife!" They called it a sword.\r
 \r
-I looked over at Mike. He had some guy locked up in a WWF DDT-style hold, ready to just smash the guy's head straight into the concrete. Mike looked over at me, calm as a monkey.\r
+I looked over at Mike. He had some guy locked up in a WWF DDT-style hold, ready to just smash the guy's head straight into the concrete. Mike looked over at me, calm and honestly looking like he was legit having a good time.\r
 \r
 "Come over here and break this motherfucker's ribs," Mike said.\r
 \r
@@ -743,7 +743,7 @@ Then came a knock. It wasn't a normal knock. It was a violent battery that rattl
 \r
 "POLICE! OPEN THE GODDAMN DOOR!"\r
 \r
-I bolted up, my heart hammering against my ribs. I looked at my younger sister. She was standing in the hallway, already headed for the door.\r
+I bolted up, my heart hammering against my ribs. I looked at my younger sister. She was already headed for the door.\r
 \r
 "Don't let 'em in!" I yelled.\r
 \r
@@ -751,9 +751,9 @@ But she was young, and the sheer authority of the badge just had a presence over
 \r
 In came two Baltimore Police officers from the Southern District. They didn't care about procedural decorum, warrants, or civil rights. They were just hyped up on their own shit.\r
 \r
-"Where's the fucking machete?" they demanded.\r
+"Where's the fucking sword?" they demanded.\r
 \r
-"What machete?" I said. "I don't have a machete. I don't even own a machete."\r
+"What sword?" I said. "I don't have a sword. I don't even own a sword."\r
 \r
 "If you're gonna be a little prick, then you're gonna go to fucking Southern District," one of them said.\r
 \r
@@ -763,13 +763,13 @@ They handcuffed me and hauled me down to the Southern District lockup. I was han
 \r
 "I don't know, they picked me up for a fight," I said. "But I was just sitting in my house."\r
 \r
-He looked at me and said, "The violent crime task force son picked me up."\r
+He looked at me and said, "The violent crime task force picked me up."\r
 \r
 "Oh man, all right, cool," I said. "Good to know." He was pretty chill.\r
 \r
 I sat there and waited. And waited. And waited. The next morning, the police came by. They brought me a goddamn Egg McMuffin and a cup of black coffee. I don't even drink coffee, but that's just what they gave you in the Southern District holding tank, so I sat there eating a shitty McMuffin and drinking shitty black coffee.\r
 \r
-Eventually, my dad—Thompson—came to get me. He got right in front of the commissioner and told him, "Hey, this kid is already signed up for the Air Force. Don't fucking destroy his life over this stupid shit."\r
+Eventually, my dad—Thompson—came to get me. I think my father had a connection and was able to talk the commissioner down. "Hey, this kid is already signed up for the Air Force. Don't fucking destroy his life over this stupid shit."\r
 \r
 The commissioner saw it my dad's way. There was no real trial or anything. I stood in front of the commissioner, and he gave me a Stet docket. Basically, it was an indefinite postponement of the charges.\r
 \r
