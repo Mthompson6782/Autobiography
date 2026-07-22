@@ -855,169 +855,61 @@ When I finally graduated from tech school, my father and my grandfather came dow
 \r
 # Chapter 11: Culture Shock and Cobra Gold\r
 \r
-> *STATUS: DRAFTED — expanded & polished.*\r
+> *STATUS: DRAFTED — from user dictation.*\r
 \r
 ---\r
 \r
-If Baltimore was a lesson in how to survive chaos, Japan was a lesson in how to live in order.\r
+If Baltimore was a lesson in how to survive in fucking chaos, Japan was a lesson in how to live in order. \r
 \r
-Okinawa felt like a different planet from the second I stepped off the plane. I was born and raised in Baltimore City, just blocks from the harbor. I thought I knew what humidity felt like. I was dead wrong. The moment the cabin doors opened, the Okinawan air hit me—it was so thick, hot, and heavy I thought I was going to drown on dry land. It felt like walking directly into a wet wool blanket that had been soaked in salt and left to boil in a kettle. The air smelled of ocean salt, rotting coral, sweet hibiscus, and the unmistakable, sharp chemical tang of JP-8 jet fuel drifting off the flight line of Kadena Air Base.\r
+Okinawa felt like a different planet from the second I stepped off the plane. I was born and raised in Baltimore City, just blocks from the Inner Harbor. I thought I knew what humidity was, but I was dead wrong. The second I got off that plane, I felt like I was drowning. It was the thickest, hottest, wettest air I had ever felt in my entire life. It felt like sucking wind through a wet wool blanket. The air smelled of ocean salt, sweet hibiscus, and just a touch of the chemical twang of JP-8 jet fuel drifting off the flight line. \r
 \r
-Waiting for me at the terminal was Master Sergeant Johnson. He was my sponsor, an old-school, Vietnam-era flight line expat who was cool as hell, old as fuck, and mean as a snake. He had a crew cut that looked like it had been trimmed with a level and a face lined with decades of aviation grit. On the drive back to the barracks, the tropical sun baking the asphalt of Highway 58, he casually suggested we grab a beer at a local izakaya just outside the gate. \r
+I was at my new home: Kadena Air Base.\r
 \r
-Being the good, freshly minted Airman, still nervous about the military's rigid rules, I politely let him know that I was only eighteen.\r
+Waiting for me at the terminal was Master Sergeant Johnson. My *actual* sponsor was a guy named Bobby Grafton, a Buck Sergeant—which at the time was a rank on the verge of extinction. He just couldn't pull his shit together enough to make it to the next fucking level. So, Master Sergeant Johnson came to pick me up instead. \r
 \r
-Johnson didn't even look at me. He just waved a thick, grease-stained hand. "Doesn't matter in Okinawa, kid. The local law is the law. The drinking age is eighteen. We’re good to go."\r
+Johnson was an old-school guy. He was a Vietnam vet who looked old as shit to me—though to be fair, I was only eighteen, about to turn nineteen—and he had been over in Okinawa for God only knows how many years. To him, regulations were just out the window. Grooming regulations? Didn't exist. We were Air Force Special Operations Command (AFSOC), and they loved to say, "Strictly combat." Because we were AFSOC, we got away with a lot of shit when it came to just about everything. We even had those cool tear-away Velcro name tags, just in case we were doing some "secret squirrel" shit. We never actually did any secret squirrel shit, but we could theoretically rip them off so no one would know who we were. In fact, we actually did this a couple times for missions where we had to take our tags off, put them in a bag, and leave them on the plane. But looking back, I think it was mostly bullshit. \r
 \r
-So we grabbed a beer. And as we were sitting there, drinking cold Orion drafts in a tiny, smoky room that smelled of grilled chicken and damp wood, Johnson leaned back, his eyes narrowing to sharp slits. He set his glass down with a heavy, deliberate clink. \r
+Anyway, Master Sergeant Johnson met me at the entranceway when I got off the plane. The very first thing he said was, "Let's go get a beer." \r
 \r
-"I have a daughter," he said, his voice dropping to a low, quiet gravel. "She is your exact age. If I find out she even knows your name, I will make your life a living hell. Do you understand me, Airman?"\r
+He took me straight to the NCO Club. Being a freshly minted Airman, I was still nervous about the rigid rules of the Air Force. I politely let him know that I was only eighteen. Johnson didn't even give a shit. He just waved his hand and said, "It doesn't matter here in Okinawa, kid. The local law is the law, and you can drink at eighteen. You're good to go." \r
 \r
-He had a tiny, cold grin on his face, but his eyes were dead serious. It was the perfect introduction to military life overseas: the rules were different, the stakes were clear, and the authority was absolute.\r
+So we grabbed a beer. As we were sitting there drinking in the NCO Club, Master Sergeant Johnson leaned back. His eyes narrowed into sharp slits, and he looked right at me. \r
 \r
-Between the crushing humidity and the blinding neon lights of Gate 2 Street, the culture shock was real. But we adapted quickly. We were young men doing young men shit, suddenly cut loose in a foreign country with steady paychecks. My dorm was located right behind the base bowling alley, and we survived almost entirely on a local culinary mutation known as Taco Rice. It was exactly what it sounded like: a massive bowl of steaming white sticky rice, smothered in seasoned ground beef, shredded cheddar cheese, lettuce, tomatoes, and salsa. It was cheap, high-calorie fuel, and we ate it constantly.\r
+"Look," he said. "I have a daughter about your age running around this island. Don't let me ever find out she knows your name, or I'll make your life a living hell. Do you understand me?" \r
 \r
-We also figured out how to engineering our own entertainment. We discovered that if you bought ice cream off-base, the local shops would pack it in cardboard boxes with chunks of dry ice to keep it cold. It didn't take long for a bunch of bored aerospace technicians to realize that if you crammed enough of that dry ice into a plastic two-liter soda bottle, added a splash of warm water, and screwed the cap on tight, the chemical reaction was beautiful. The dry ice would sublimate rapidly, the bottle would swell to the size of a bloated, white watermelon, and then it would explode with a concussive, high-velocity blast loud enough to rattle the barracks windows and bring the SPs running. We started building dry ice bombs, staging them in the drainage ditches behind the dorms, timing the water levels to detonate one after another like a tactical artillery barrage. \r
+Then he smiled. It was a perfectly cool, terrifying understanding. \r
 \r
-We had so much fun. One of the PJs (Pararescuemen) even taught us how to do tactical J-turns in our cheap, right-hand-drive Japanese junkers—a skill we promptly practiced by tearing up the grass on the local military golf course under the cover of a tropical storm. We spent most of our time going TDY (Temporary Duty) to Korea, Thailand, and the Philippines. We were young, strong, and having the time of our lives.\r
+"Yes, sir," I said. "Completely understand. No issues there." \r
 \r
-But despite all the chaos we brought with us, the biggest shock in Okinawa wasn't the weather, the leadership, or the food. \r
+That was the perfect introduction to my life overseas. Between the crushing humidity and all the crazy shit right outside of Gate 2 Street, the culture shock was fucking wild. It was a revelation just realizing I didn't have to worry about people trying to jump me, beat me, or attack me just for walking down the street. It was a crazy new way of living.\r
 \r
-It was the trust.\r
+After our beer, they dropped me off at my dorm. It was an old, World War II-era building right behind the base bowling alley that was practically condemned. I got my room set up, and a bunch of the guys hanging around the dorms came over. \r
 \r
-I was riding my bicycle out near Gate 2 Street one humid afternoon. I stopped at a red light, and in my peripheral vision, I caught sudden, rapid movement. A local Japanese man was running full sprint toward me, his face red, waving his arms and screaming.\r
+"Hey," they said. "Come on, let's go get some taco rice."\r
 \r
-“Chotto matte kudasai! Chotto matte kudasai!”\r
+Taco rice was the food of choice back then. It's exactly what it sounds like: a massive bowl of steaming white sticky rice smothered in seasoned ground beef, cheddar cheese, shredded lettuce, tomatoes, and salsa. It was cheap, high-calorie fuel, and we ate it constantly.\r
 \r
-My Baltimore brain didn't translate the Japanese. My brain only translated the vector and the tone: Pursuit. Threat. Attack.\r
+We also had to figure out how to engineer our own forms of entertainment. We were basically just a bunch of fucking kids in the dorms. Like mischievous kids, when we discovered something stupid, we'd immediately do it. Case in point: we found out that if you bought ice cream off-base, the local shops would pack it in cardboard boxes with chunks of dry ice to keep it cold. \r
 \r
-Instinct took the wheel instantly. I slammed my feet down onto the pedals, my muscles tensing as I tried to mash the gears and get separation. In my old neighborhood, if a grown man is sprinting at you screaming, you don't stick around to ask for clarification. You run, or you get ready to strike first. I was flying down the asphalt, weaving through traffic, my pulse redlining.\r
+It didn't take long for a bunch of bored airplane mechanics to realize that if you crammed enough of that dry ice into a plastic two-liter soda bottle, added a little water, and screwed the cap on tight, a beautiful chemical reaction was formed. The dry ice would sublimate rapidly. The bottle would swell to the size of a bloated watermelon, and then it would explode with a concussive, high-velocity blast loud enough to rattle the barracks windows and send the Security Police running. \r
 \r
-But the guy was fast. I hit a bottleneck near a crowded storefront, and he finally caught up to me, gasping for air, his chest heaving under his polo shirt.\r
+We started building these dry ice bombs all the time. Then we got clever with it. We'd stage them in the drainage ditches around the dorms, timing them perfectly. One would blow up and bring everybody running outside, and right when the crowd gathered, the next one would pop off. It was relatively harmless, nobody ever got hurt, and we had an absolute blast. \r
 \r
-I leaped off the bike, dropped the frame to the concrete, and squared my shoulders. I brought my hands up to my chest, my mind rapidly calculating the angles, ready to throw a hard lead hand.\r
+We had a buddy over there who was a PJ (Pararescueman). We called him Soup. He taught us how to do tactical J-turns in our cheap, shitty little Japanese junkers. And, naturally, we promptly went and did those J-turns all over the military golf course. It was just a cool environment to be in. \r
 \r
-The man stopped. He didn't square up. He took a deep, bowing breath, reached out his hand, and held something out to me. \r
+We spent most of our time going TDY (Temporary Duty). I did a lot of out-and-backs to Korea, Thailand, and the Philippines. Our unofficial motto in AFSOC remained "strictly combat." Anytime we were doing something illegal, wrong, or completely against regulation, we would just laugh and say, "Strictly combat." For example, under normal circumstances, when you're putting heat shrink on electrical wires, you're supposed to use an HT-900 heat gun. But when you're TDY out in the middle of nowhere and there is no HT-900, you just bust out a Bic lighter, laugh, say "strictly combat," and shrink-wrap that bitch.\r
 \r
-He wasn't holding a weapon. He was holding my wallet.\r
+Being in AFSOC had some weird perks. When we went TDY to really hot places like Thailand, we were authorized to wear SEAL shorts—those little brown, coochie-cutter shorty-shorts. They looked ridiculous, but man, when it's a hundred-plus degrees with one hundred percent humidity, it's nice to be able to wear shorts on the flight line. \r
 \r
-It had slipped out of my pocket three blocks back at a convenience store. This man had sprinted nearly a quarter-mile through the suffocating Okinawan heat just to make sure the young American airman didn't lose his cash and military ID.\r
+I flew all over Asia. We were constantly going somewhere. I would get calls on my day off because somebody got sick, or it was somebody's birthday, and they needed a body. As young Airmen, we were always on hot standby. The phone would ring: "Thompson, number two engine is turning on the C-130. Get your ass down here, we're leaving now." And I'd just have to grab my bag and jump on the plane. \r
 \r
-I took the wallet, completely stunned. My hand hovered over the leather, my nervous system failing to process the transaction. In West Baltimore, that wallet would have been picked clean and thrown into a sewer before it even finished bouncing on the pavement. Here, a stranger ran himself ragged to return it to me. It was an alien concept. It took a long time for my hyper-vigilant nervous system to uncoil in Japan, to realize that the entire world wasn't a hostile system designed to strip you of your assets.\r
+As much as I hated flying commercial, I felt perfectly at home on the C-130s I fixed. The C-130 has a beautiful hum. To this day, it's the most relaxing sound in the world to me. I would get on the plane, lay down, and just pass out. Beautiful airplane. \r
 \r
-I still had a massive amount of coiled-up, high-voltage energy, and I needed a disciplined outlet for it. I found it off-base at a local Kyokushin Karate dojo on Route 58. \r
+Despite the chaos and the constant deployments, it was an amazing time. Japan is a high-trust society, which was a wild shift from my upbringing. A perfect example of this happened one day when I was riding my bicycle just outside Gate 2. \r
 \r
-The dojo was the absolute definition of old-school, stripped of any Western comfort. There were no mirrors, no padded walls, and no soft mats—just a wide, scarred hardwood floor that smelled of linseed oil and decades of dried sweat. A single, rusted industrial fan clattered in the corner, doing nothing but lazily pushing the heavy, humid air around the room. On the wall hung a wooden shrine, flanked by Japanese calligraphy I couldn't read, and a single, hand-painted sign in English: *FULL CONTACT*.\r
+Gate 2 Street had the worst reputation on the island. It was infamous. It's where the "Banana Lady" was—she had this crazy dance where she would stick a banana in her vagina and shoot it into a young Marine's mouth. \r
 \r
-The training was a brutal, physical revelation. The Japanese fighters were surprisingly small in stature compared to my broad, 6'3" frame, but they were carved out of absolute granite and moved on a different clock speed. I remember my first sparring match with a senior brown belt. I stood there, arrogant, relying on my street-fight reach and raw size. \r
-\r
-Before my brain could even register the shoulder twitch, he launched a lightning-fast *mawashi geri*—a roundhouse kick—that slapped against the side of my ribs with the concussive crack of a baseball bat hitting a tree. The shockwave rattled my lungs and sent a burning, white flash of pain straight through my thoracic cavity. I didn't even see it coming. \r
-\r
-I tried to march him down, to use my weight to bully him, but he slipped my punches with micro-movements, his shins systematically chopping into my thighs like an axe into oak. *Thud. Thud. Thud.* The dull, wet sound of bone-on-bone contact echoed off the wooden walls. By the end of the session, my legs were mapped with deep, purple contusions, and my pride was entirely gone.\r
-\r
-Stepping onto those hardwood floors meant checking my Baltimore ego at the door. Kyokushin wasn't about street rage or posturing; it was about precision, speed, conditioning, and structural geometry. They taught me that violence was a science of leverage. I learned how to turn my shins into iron bars, how to absorb impact by aligning my skeleton, and how to maintain absolute, icy calm while another man was trying to cave my ribs in. It was the physical application of the engineering principles I was learning at the hangar.\r
-\r
-But back on base, the military was still the military, and you couldn't escape the volatile nature of insecure men in close quarters.\r
-\r
-My boss at the time was a newly minted Staff Sergeant. He had just barely squeaked by to get his promotion before the military phased out the Buck Sergeant rank, and he was feeling himself. He wore that extra stripe like a crown and used his rank to bully the junior airmen in our shop.\r
-\r
-One Friday night, we were gathered in the barracks common room. The SSgt had been crushing drafts of Bud Ice, his eyes bloodshot, his voice getting progressively louder and more aggressive. He decided he was going to be "Billy Badass" at my expense, trying to humiliate the tall, quiet technical specialist in front of the crew.\r
-\r
-"You think you're smart, Thompson?" he sneered, stepping into my personal space, his breath reeking of cheap beer and stale tobacco. "You think because you score high on the tests you're better than me? Out here on the line, you're just a private. You're my bitch. You got that?"\r
-\r
-I stood there, looking down at him. My pulse stayed steady. "You're drunk, Sergeant," I said, my voice flat and even. "Go sleep it off."\r
-\r
-"What did you say to me?" he roared, his face flushing dark red. The common room went dead silent. The other airmen stepped back, sensing the shift in the air. \r
-\r
-He didn't wait. He threw a punch—a sloppy, telegraphed overhand right that had zero structural alignment. To my eyes, trained by the dojo on Route 58, it moved in absolute slow motion. I could see the vector of his shoulder shift, the drop of his lead hand, the complete lack of balance.\r
-\r
-I didn't block it. I simply ducked my head, let the punch sail harmlessly over my left shoulder, and stepped deep into his guard. I smoothly spun my body, took his back, and locked my legs around his hips, sinking the hooks. My left arm slipped around his throat, my right hand locking onto his bicep to secure a flawless rear-naked choke.\r
-\r
-I didn't squeeze. I just held him there, suspended on my back, controlling his entire physical chassis, giving him a chance to cool down.\r
-\r
-"Let me go!" he screamed, his voice cracking with rage and panic as he realized his leverage was completely gone. "I'll kill you! I'll break your fucking legs!"\r
-\r
-He was one of those guys who thought raw anger could override physics. He tried to raise his elbows high and slam them down into my thighs, trying to break my grip. It was a mechanical joke. His elbows had no leverage, and the strikes tickled more than they hurt. I actually let out a soft laugh against the back of his neck.\r
-\r
-"You aren't doing anything from here, Sergeant," I whispered, my voice calm and close. "Calm down."\r
-\r
-"Fuck you! I'll court-martial your ass! I'll have you in the brig!"\r
-\r
-He was too proud to surrender, and he was actively escalating the threat. The risk calculation was simple: if I let him go while he was in this state of hysterical rage, he would grab a weapon or try to ruin my career. I needed to shut down the operating system.\r
-\r
-"Okay," I said quietly. "Nap time."\r
-\r
-I squeezed. I drove the crook of my elbow deep into his trachea, my forearm and bicep compressing the carotid arteries on either side of his neck, completely cutting off the blood flow to his brain. \r
-\r
-His struggles went from violent to frantic, then his limbs began to flutter. Within four seconds, his entire body deflated, turning into a heavy, limp sack of flour on my back. I held the choke for one more second to ensure the shutdown was complete, then smoothly unlaced my legs and let his unconscious frame slide onto the linoleum floor.\r
-\r
-The barracks common room was dead silent. My friend Miller stood there, his eyes the size of saucers, his jaw literally hanging open.\r
-\r
-"Holy shit, Bo Derek," Miller breathed, his voice a terrified whisper. "You just choked out the Staff Sergeant."\r
-\r
-"He'll be fine," I said, checking my own knuckles. "He'll wake up in thirty seconds with a headache."\r
-\r
-He did. But Miller couldn't keep his mouth shut. The story spread through the squadron like a fuel fire. You can fight in the barracks, but you can't humiliate the chain of command without the system reacting.\r
-\r
-The next morning, I was called in to "Stand Before The Man"—the Squadron Commander and the Chief Master Sergeant. It was the formal, high-stakes military tribunal. I stood at absolute attention on the blue carpet, my eyes locked on the wall behind the Commander's desk.\r
-\r
-The Chief looked at me, his face a mask of disappointment. "Airman Thompson, I have a report here that you assaulted a non-commissioned officer in the barracks. Explain yourself."\r
-\r
-I didn't make excuses. I didn't plead. I played the system's own logic. "Sir, the Staff Sergeant was highly intoxicated and initiated a physical confrontation. He threw a punch. If I had traded blows with him, I would have broken his jaw and damaged a critical asset on the flight line. Instead, I used non-lethal, defensive restraint to neutralize the threat and protect both of us from injury. I released him the moment the threat was neutralized."\r
-\r
-The Commander looked at the Chief, then back at me. They knew the Staff Sergeant was a problem, a bully who had crossed the line. But they also had to maintain the optics of discipline.\r
-\r
-"We came to an understanding," the Commander said, leaning forward. "This story does not leave this room. The Sergeant will be counseled, and you will keep your mouth shut. If I hear one more word about this 'restraint' in the hangar, I will personally see to it that you are busting rust on a barge in the Pacific. Clear, Airman?"\r
-\r
-"Crystal, sir," I said.\r
-\r
-The story was buried, the chain of command was protected, and the Staff Sergeant and I actually became decent friends after that. Violence, when executed with absolute efficiency and without ego, has a way of clearing the air.\r
-\r
-Then came Operation Cobra Gold.\r
-\r
-We deployed to Thailand for the massive, joint-force military exercise. If I thought I knew poverty from the brick rowhouses of South Baltimore, Thailand showed me I knew absolutely nothing. This was a different level of survival. Dirt floors, tin roofs, open sewage running down the sides of the streets, and children working the fields with water buffalo. In America, the hustle is always there—you can find a way out if you have the drive. But in the rural provinces of Thailand, the ceiling was made of thick, reinforced concrete. There was no escape hatch. It was a humbling, sobering reality check that ground away my remaining adolescent arrogance.\r
-\r
-But we were young, and when the shifts ended, we sought out the local culture. One night, a group of us were sitting at a noisy, open-air Muay Thai bar in Pattaya. The air was thick, wet, and suffocating, smelling of fried chilies, cheap whiskey, and the sharp, wintergreen-and-menthol sting of *Namman Muay*—the yellow liniment the fighters used to numb their limbs. In the center of the bar was a crude wooden ring. Wiry, lean local fighters, looking like they were constructed out of dark mahogany and wire, were systematically chopping each other down to the frantic, high-pitched wail of the *sarama* music. The sound of shins slamming against ribs echoed through the rafters like pistol shots.\r
-\r
-Sitting at the table next to mine was a physical anomaly.\r
-\r
-The man looked like he had been genetically engineered in a lab. He was easily 6'4", 250 pounds of sculpted, striated muscle under a tight black tank top, with hair as blonde as wheat and eyes like chipped blue ice. He looked like Ivan Drago had walked out of *Rocky IV* and into a Thai bar. He was sitting with a group of Eastern European tourists, drinking a Singha beer, loudly debating whether he should get in the ring to fight one of the Thais.\r
-\r
-"They can kick me here," the giant said, his accent thick and heavy as he patted his massive, tree-trunk thighs. "No problem. Muscle is strong."\r
-\r
-He patted his iron-hard, washboard abs. "They can kick me here. No problem. I don't feel."\r
-\r
-Then he pointed a thick finger at his temple. "But they can’t kick me here. Head is different."\r
-\r
-I watched the local Thai fighters in the ring. They were half his size, but their shins were like iron pipes, and they had been kicking banana trees since they were six years old. I figured the giant was about to get a very painful lesson in the physics of rotational force, but I was fascinated by his physical chassis. I had been lifting heavy, but this guy had achieved a level of density that seemed mathematically impossible for a natural human.\r
-\r
-I leaned over from my table. "Excuse me, man. What's your lifting regimen? How do you pack on that kind of mass?"\r
-\r
-The giant turned his head, his cold blue eyes scanning my broad shoulders and lanky frame. A slow, conspiratorial grin spread across his face.\r
-\r
-"Regimen is good," he said, his voice a deep, gravelly rumble. "But regimen is only half the equation. If you want to exceed the design specifications of the human body, you need a chemical catalyst. Steroids."\r
-\r
-I blinked. I was active-duty military. I had a security clearance, and I was working on advanced aerospace systems. "I'm interested," I admitted, my voice low. "But I'm in the Air Force. If I get hit with a random urinalysis, my career is over. I can't risk it."\r
-\r
-The giant let out a booming laugh, waving his hand. "Military testing is simple logic, my friend. They test for recreational drugs—cocaine, weed, speed. Anabolic testing is very expensive. They do not run those panels unless they suspect you. And even then, some compounds have clearing times of only a few days. You just need to know the mathematics of the cycle."\r
-\r
-He reached into his pocket, pulled out a small pen, and grabbed a paper napkin off the table. He scribbled a secure, encrypted email address and a name in block letters.\r
-\r
-He slid the napkin across the wet wood to me. \r
-\r
-"My name is Spartak," he said, his blue eyes locking onto mine with absolute certainty. "Spartak Todorov. I import directly from the state pharmaceutical labs in Bulgaria and Thailand. Pure, sterile, professional grade. If you ever want to see what your chassis is truly capable of, write me. I will hook you up."\r
-\r
-I looked down at the napkin. The ink was slightly smeared by the condensation from my beer bottle. \r
-\r
-I folded the paper carefully, slid it deep into the pocket of my cargo shorts, and took a drink of my beer. I told myself I was just keeping it as a souvenir, a bizarre token from a wild deployment in Thailand. I told myself I would never actually use it.\r
-\r
-When I got back to Okinawa, I threw the napkin into the bottom of a metal footlocker, buried under old manuals, uniform patches, and dry ice bomb caps. It lay there in the dark, silent and forgotten, for years.\r
-\r
-But a seed doesn't need attention to remain viable. It only needs time.\r
-\r
-Years later, when I was out of the military, back in Baltimore, and trying to figure out how to rebuild my life, I would open that old footlocker. I would find that faded piece of paper. And the logic of that transaction would finally make perfect sense.\r
-\r
-I didn't know it yet, but that night in Thailand, sitting in the humid air of a Muay Thai bar, I had just initialized the sequence that would turn me into a "Kingpin."\r
+*(Wait—hold on. Cindy just broke my train of thought. Is that true?)*\r
 \r
 ---\r
 \r
