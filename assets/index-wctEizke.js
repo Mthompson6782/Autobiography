@@ -234,7 +234,7 @@ You don't survive a place like South Baltimore alone. You survive in packs.\r
 \r
 My pack was a collection of kids who were all navigating the same broken geometry of the city. We were the products of rowhouses, working-class struggle, and the violent, unforgiving logic of the streets.\r
 \r
-At the center of it all was my best friend, Mike Hammonds.\r
+At the center of it all was my best friend, Mike.\r
 \r
 Mike was the Paratrooper's son. Like his father, he was a bit of a brute - thick-necked, solid, and entirely comfortable in the middle of a melee. We didn't become friends through shared interests or polite introductions; we became friends through a 7th-grade schoolyard scuffle. Mike was supposed to be the tough guy on the playground, a reputation he guarded fiercely. I walked up to him during recess, bypassed the usual chest-thumping posturing, swept his legs out from under him with a rapid, clean sweep, and put him flat on his back in the dirt. We have been friends for almost 40 years, and he still remembers that as a cheap shot and gives me shit to this day.\r
 \r
@@ -242,7 +242,7 @@ Instead of getting up and trying to kill me, Mike lay there in the dust, looked 
 \r
 I said yes. From that moment on, we were inseparable. We were the kind of friends who spoke the same language of casual violence, absolute loyalty, and dark, sarcastic humor. I have countless stories about Mike, mostly involving us trying to engineer our way out of catastrophic trouble we had systematically engineered ourselves into.\r
 \r
-Then there was Chris Smith. He was the one who stood behind me on the stoop in Curtis Bay holding the bayonet during the Jerry Rose standoff. Chris was a fat slob and a bit of a pussy and spoiled. His mom was a nurse, and his stepdad was a massive stevedore down at the docks named Frank Door. A stevedore at the Baltimore docks is effectively an organized crime ring. They steal everything and do untold criminal activities. If it comes and goes through the port of Baltimore, these guys get some.\r
+Then there was Chris. He was the one who stood behind me on the stoop in Curtis Bay holding the bayonet during the Jerry Rose standoff. Chris was a fat slob and a bit of a pussy and spoiled. His mom was a nurse, and his stepdad was a massive stevedore down at the docks named Frank Door. A stevedore at the Baltimore docks is effectively an organized crime ring. They steal everything and do untold criminal activities. If it comes and goes through the port of Baltimore, these guys get some.\r
 \r
 Frank was a legend in our circle, more a rotund man with a voice that rattled the windows. We called him "The Reverend Frank." Whenever he got drunk, which was practically every day, he would stand up in the middle of the living room on Light Street and start fiercely preaching fire-and-brimstone sermons about whatever. Don't get me wrong, Frank wasn't a fucking religious man. Not by any stretch. He'd just be sweating through his tank top, preaching to whoever was in the room about the fucking blacks or whoever he felt wronged him that day. Frank was also the man who gave me my moniker. After the incident on North Avenue - where the locking mechanism on my Buck folding knife failed and I ended up burying the collapsed blade into my attacker's chest - Frank caught wind of the story. From that day forward, he refused to call me Michael.\r
 \r
@@ -260,7 +260,7 @@ I remember once I was getting off the 64 bus stop on Light Street, and some of t
 \r
 We had Eddie Arron, a good guy whose family was just as poor as ours, but his dad had a relentless, exhausting hustle, running a tiny, cramped corner store that sold stale bread, single cigarettes, and cheap soda to keep the lights on. Eddie also had some kind of bone deformity that made bones grow out of his joints at weird angles.\r
 \r
-We had Artie Buckalew. Artie was probably the poorest kid in our entire group, wearing the same faded, oil-stained t-shirt for days on end, but you wouldn't know it from hanging out with him. He was a hilarious, fiercely loyal, good-hearted dude who spoke with a weird, thick speech impediment - a mushy, rapid-fire South Baltimore drawl that captured the perfect, old-school working-class sound of the neighborhood. He had a heated rivalry with Hammonds for a reason no one could remember. It might be due to Hammonds finding and smashing an old discarded guitar over his head.\r
+We had Artie Buckalew. Artie was probably the poorest kid in our entire group, wearing the same faded, oil-stained t-shirt for days on end, but you wouldn't know it from hanging out with him. He was a hilarious, fiercely loyal, good-hearted dude who spoke with a weird, thick speech impediment - a mushy, rapid-fire South Baltimore drawl that captured the perfect, old-school working-class sound of the neighborhood. He had a heated rivalry with Mike for a reason no one could remember. It might be due to Mike finding and smashing an old discarded guitar over his head.\r
 \r
 And then there was Jesse Wright. Jesse lived on the street directly behind my house, and he was a complete dirt ball. He was the kind of gritty, chaotic kid the neighborhood produced in spades - always scheming, always filthy, and entirely unbothered by the threat of getting caught doing whatever he wasn't supposed to be doing.\r
 \r
