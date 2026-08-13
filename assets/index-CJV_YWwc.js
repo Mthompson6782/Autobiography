@@ -136,6 +136,22 @@ But I never forgot the lesson. The mind is a powerful machine, capable of absorb
 \r
 I learned how to read systems from those books. I learned how to survive from Pauline. And I learned that, eventually, you have to build your own armor, because the people who are supposed to protect you aren't always going to be there. And when the chassis starts to fail, no one is going to fix it but you.\r
 \r
+Let me be clear about Pauline: her strictness wasn't abuse. It was survival.\r
+\r
+She loved me, and that love manifested as an iron-clad demand for discipline. In her house, you did what you were told, and you didn't step out of line. I rarely caught the wrong end of her balled-up fist because I was a good boy. I was smart enough to read the environment and adapt.\r
+\r
+But if you were on Pauline's good side, that same ferocity became a shield.\r
+\r
+There was a substitute teacher at my school named Ms. Parsons. One day, for reasons I can barely remember now, she decided to be mean to me. She singled me out, treated me poorly, and made the mistake of letting me go home upset.\r
+\r
+Pauline didn't write a strongly worded letter to the principal. She didn't call the school board to complain. That wasn't the Baltimore way.\r
+\r
+Pauline went straight to the school, marched into the building, and confronted Ms. Parsons directly. She looked that substitute teacher in the eye and promised, with absolute, terrifying sincerity, to beat her to death.\r
+\r
+It wasn't an idle threat. Pauline had the kind of presence that made you believe every word she said. She put the fear of God into that woman. From that day forward, Ms. Parsons never crossed me again. In fact, for years as I grew older, whenever I saw Ms. Parsons, she would smile nervously and say, "Say hi to your grandmother for me! Tell her how wonderful she is!"\r
+\r
+Pauline taught me that violence - or the credible threat of it - could create boundaries when the system failed to protect you.\r
+\r
 ---\r
 \r
 <div style="page-break-after: always;"></div>\r
@@ -310,21 +326,6 @@ They were my first real team. And they taught me exactly who I wanted to be, and
 \r
 ---\r
 \r
-Let me be clear about Pauline: her strictness wasn't abuse. It was survival.\r
-\r
-She loved me, and that love manifested as an iron-clad demand for discipline. In her house, you did what you were told, and you didn't step out of line. I rarely caught the wrong end of her balled-up fist because I was a good boy. I was smart enough to read the environment and adapt.\r
-\r
-But if you were on Pauline's good side, that same ferocity became a shield.\r
-\r
-There was a substitute teacher at my school named Ms. Parsons. One day, for reasons I can barely remember now, she decided to be mean to me. She singled me out, treated me poorly, and made the mistake of letting me go home upset.\r
-\r
-Pauline didn't write a strongly worded letter to the principal. She didn't call the school board to complain. That wasn't the Baltimore way.\r
-\r
-Pauline went straight to the school, marched into the building, and confronted Ms. Parsons directly. She looked that substitute teacher in the eye and promised, with absolute, terrifying sincerity, to beat her to death.\r
-\r
-It wasn't an idle threat. Pauline had the kind of presence that made you believe every word she said. She put the fear of God into that woman. From that day forward, Ms. Parsons never crossed me again. In fact, for years as I grew older, whenever I saw Ms. Parsons, she would smile nervously and say, "Say hi to your grandmother for me! Tell her how wonderful she is!"\r
-\r
-Pauline taught me that violence - or the credible threat of it - could create boundaries when the system failed to protect you.\r
 \r
 By the time I was twelve years old, my environment shifted. I moved out of the matriarchal order of Pauline's house and went to live exclusively with my dad on Johnson Street.\r
 \r
