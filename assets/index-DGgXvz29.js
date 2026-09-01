@@ -320,7 +320,7 @@ They were my first real team. And they taught me exactly who I wanted to be, and
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 5: Peeling Ears and Substitute Teachers\r
+# Chapter 5: Peeling Ears with the Paratrooper\r
 \r
 > *STATUS: DRAFTED - pending review.*\r
 \r
@@ -844,7 +844,7 @@ I thought, *Oh, fuck.* \r
 \r
 He came around, looked at my underwear, and screamed, "Jesus Christ, Thompson, what the fuck did you do? Drink a case of Jack Daniels before you fucking wrote this on this underwear?!" \r
 \r
-We always had to respond with a reporting statement. "Sir, Airman Thompson reports as ordered. No, sir." That was the first fucking thing you had to learn. You had to go up to these crazy motherfuckers and say, "Sir, Airman Thompson reports as ordered," and they would always fuck with you. "Reporting as ordered? Reporting? Who the fuck are you? Are you fucking Nancy Grace?" They would name whoever was the famous news lady at the time and just scream in your face.\r
+We always had to respond with a reporting statement. "Sir, Airman Thompson reports as ordered. No, sir." That was the first fucking thing you had to learn. You had to go up to these crazy motherfuckers and say, "Sir, Airman Thompson reports as ordered," and they would always fuck with you. "Reporting as ordered? Reporting? Who the fuck are you? Are you Connie fucking Chung?" They would name whoever was the famous news lady at the time and just scream in your face.\r
 \r
 The next time I got yelled at, we were in our Blues, close to the end of basic. We were on our way to the chow hall. They knew that I ate a lot, because I would always go back for more food. This was like the first time I could fucking eat everything I wanted, and I was having a grand old time eating hard-boiled eggs. They would tell us, "Get in there, get out. We don't have time for this Thompson Continental breakfast bullshit. Let's just fucking go in there and eat." \r
 \r
