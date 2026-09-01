@@ -286,7 +286,7 @@ And then there was Jesse. Jesse lived on the street directly behind my house, an
 \r
 And then there was Spunky.\r
 \r
-Spunky's real name was Patrick. His parents called him Spunky because he was born really premature. They said he was so small they brought him home in a shoe box, and though the doctors thought he was going to die, he survived. One of them remarked he had a lot of spunk! Thus, Spunky! Again, probably a result of all the chemicals in the area. He was intellectually disabled - he was retarded, but you never, under any circumstances, brought that up around him. He was a bit of a wrecking ball. He was on the shorter side, but he had that retard strength. \r
+Spunky's real name was Patrick. His parents called him Spunky because he was born really premature. They said he was so small they brought him home in a shoe box, and though the doctor's thought he was going to die, he survived. One of them remarked he had a lot of spunk! Thus, Spunky! Again, probably a result of all the chemicals in the area. He was intellectually disabled - he was retarded, but you never, under any circumstances, brought that up around him. He was a bit of a wrecking ball. He was on the shorter side, but he had that retard strength. \r
 \r
 One day, we were hanging out on the front stoop of Spunk's house. Spunk was minding his own business when the younger McFarland boy, his neighbor, came over and started shit with him. Spunk, being retarded, didn't really have any conflict resolution skills outside of punching the opposing side in the fucking mouth. So Spunk - as I would envision a retarded version of the great debater Socrates would do - just hauled off and smashed the younger McFarland, folding him like a fourth-grade love letter. \r
 \r
@@ -1009,7 +1009,7 @@ They hired me as an operations specialist at Baltimore-Washington International 
 \r
 Now, I was a civilian cargo grunt at BWI, surrounded by grey, squealing industrial sorting belts, breathing in the blue-grey exhaust of gas-powered tugs, and watching dead-eyed supervisors with clipboards stress over whether three pallets of catalog mailers would clear the gate on time. \r
 \r
-The claustrophobia was suffocating. I was a high-performance engine idling in a traffic jam. My cognitive CPU was running at a million cycles per second, but the operational loop I was assigned to only checked barcode labels. I felt like I was rotting from the inside out, trapped in the grey, standardized corridors of civilian middle-management.\r
+The claustrophobia was suffocating. I was a high-performance engine idling in a traffic jam. I felt like a racehorse locked in a stable. My brain was running a million miles an hour, but my actual job was just checking fucking barcode labels. I felt like I was rotting from the inside out, trapped in the grey, standardized corridors of civilian middle-management.\r
 \r
 To burn off the excess voltage, I turned my body into an engineering project. I lived in the iron.\r
 \r
@@ -1318,7 +1318,16 @@ In that split second, I made a calculation. I was fully prepared to rush the ben
 \r
 Luckily for both of us, it didn't come to that. He didn't throw out the deal. He just stood up there and said shit to my face that he would never say in any other setting, and then he handed down the sentence. \r
 \r
-It was heavy, but it wasn't a coffin. I received a ten-year suspended sentence, three years of probation, and eighteen months of house arrest.\r
+It was heavy, but it wasn't a coffin. The final tally was a five-year sentence with three and a half years suspended, three years of supervised probation, and eighteen months of house arrest.\r
+\r
+> **Case Number:** 103143057\r
+> **Case Title:** STATE OF MARYLAND VS MITCHELL THOMPSON\r
+> **Court:** Circuit Court For Baltimore City - Criminal\r
+> **Charge:** CDS-POSS W/I MANUF/DIS/DISP-NARC (Felony)\r
+> **Plea:** Guilty\r
+> **Disposition:** Probation After Conviction - Guilty\r
+> **Sentence:** Jail Term: 5 Yrs. Suspended Term: 3 Yrs 6 Mos.\r
+> **Probation Supervised:** 3 Yrs.\r
 \r
 I walked out of lockup after four months with a federal record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.\r
 \r
@@ -1432,7 +1441,7 @@ So you treat it that way.\r
 \r
 I was a playboy. That's the polite word. The less polite word is that I was a selfish, emotionally unavailable man who cycled through women like components in a machine - using them until they failed to meet specifications, then replacing them with the next model.\r
 \r
-The roster was impressive on paper and catastrophic in practice. Hopkins-trained doctors. Business executives. A therapist, which is ironic considering I needed one. A college professor. Married women - plural. I didn't discriminate by profession or marital status. If a woman was willing to occupy the role, I let her in, took what I needed, and kept the door unlocked for an easy exit.\r
+The roster was impressive on paper and catastrophic in practice. Hopkins-trained doctor's. Business executives. A therapist, which is ironic considering I needed one. A college professor. Married women - plural. I didn't discriminate by profession or marital status. If a woman was willing to occupy the role, I let her in, took what I needed, and kept the door unlocked for an easy exit.\r
 \r
 Every single one of these relationships was toxic. Not because the women were bad - most of them were accomplished, intelligent people. They were toxic because *I* was toxic. I brought the damage of Williams Street and Audrey Avenue into every bedroom and every conversation. I didn't know how to be vulnerable, because vulnerability on Greenmount Avenue gets you stabbed. I didn't know how to trust, because the first person who was supposed to love me unconditionally had made it clear she didn't want the job.\r
 \r
@@ -1812,7 +1821,7 @@ I was sitting in executive boardrooms in Boston and Wichita, advising on nationa
 \r
 I had reached the absolute mountaintop of my professional career. I had proven to the world that a convicted felon with a federal rap sheet could master the most complex, safety-critical systems on the planet. \r
 \r
-But as I stood at the peak, looking out over the corporate landscape, the high-voltage redline grind was taking its toll. My systems CPU was running at 100% capacity, but the physical chassis was starting to leak. \r
+But as I stood at the peak, looking out over the corporate landscape, the high-voltage redline grind was taking its toll. My brain was running at a million miles an hour, but my body was starting to break down. \r
 \r
 And the warning light on my own dashboard was about to turn solid red.\r
 \r
@@ -1838,7 +1847,7 @@ Eventually, after a grueling three-hour iron-man gauntlet where I had to roll wi
 \r
 Purple is the rank where the game of jiu-jitsu fundamentally shifts. You stop just collecting individual techniques like tools in a box. You start understanding the *system* of leverage. You learn that the body is just a collection of mechanical levers, pivots, and frames. You become dangerous in a quiet, technical way because you no longer rely on speed or strength. You rely on structure. \r
 \r
-I was redlining my chassis. Between the corporate pressure at Koch, the intense systems coursework at the MIT Sloan School, the grueling late-night rolls on the mats, and a growing, persistent fatigue I was actively trying to ignore, my systems CPU was permanently in the red. But I refused to back down. That's what street kids do. That's what wrestlers do. \r
+I was redlining my chassis. Between the corporate pressure at Koch, the intense systems coursework at the MIT Sloan School, the grueling late-night rolls on the mats, and a growing, persistent fatigue I was actively trying to ignore, I was constantly running on empty. But I refused to back down. That's what street kids do. That's what wrestlers do. \r
 \r
 I set my sights on the next rung of the corporate ladder: **President of Koch Specialty Plant Services (KSPS)**. \r
 \r
@@ -1902,13 +1911,13 @@ My role wasn't to engineer solutions; it was to be the technical mascot. I was t
 \r
 I hated every single second of it. \r
 \r
-To my street-honed, systems-obsessed brain, the corporate sales meetings were a form of cognitive torture. I sat at mahogany conference tables listening to sales directors deliver presentations that were 90% aesthetic posturing and 10% actual data. They spent hours discussing "synergistic market penetration" and "client-centric value propositions," while completely ignoring the physical reality that their lead times were slipping, their technical support staff was under-trained, and their product lines had critical single points of failure. \r
+To me, the corporate sales meetings were just absolute torture. I sat at mahogany conference tables listening to sales directors deliver presentations that were 90% aesthetic posturing and 10% actual data. They spent hours discussing "synergistic market penetration" and "client-centric value propositions," while completely ignoring the physical reality that their lead times were slipping, their technical support staff was under-trained, and their product lines had critical single points of failure. \r
 \r
 It was a broken system running on empty optics. But the compensation was massive - a heavy, steady flow of corporate cash that filled my accounts, paid for our upscale Houston rental, and kept us comfortable. \r
 \r
 They were the **Golden Handcuffs**. \r
 \r
-The C-suite salary was a highly calibrated feedback loop designed to buy my submission, to quiet the internal alarm screaming in my brain, and to keep my logical CPU running a useless, high-idle program. It was a trade: my intellectual integrity for their financial security. \r
+The C-suite salary was just a bribe to buy my submission, to quiet the alarm screaming in my brain, and to keep me distracted with useless bullshit. It was a trade: my intellectual integrity for their financial security. \r
 \r
 But I am a professional. Even inside a toxic corporate grinder, I refuse to let my engine run cold. If the system I am placed in is inefficient, my default programming is to optimize it. \r
 \r
@@ -1920,7 +1929,7 @@ I drafted the standard operating procedures, mapped out the NIST-traceable calib
 \r
 It was a beautiful, highly structured mechanical sandbox inside a desert of corporate sales posturing. I built the entire division, locked down the quality control gates, and turned it into one of the most profitable, steady-state revenue streams in the company's history. I made them a small fortune. \r
 \r
-But while the calibration business stimulated my logical CPU, the C-suite sales grind was actively rotting my soul. I was permanently redlined, running on pure, toxic frustration. \r
+But while the calibration business kept me engaged, the C-suite sales grind was actively rotting my soul. I was permanently redlined, running on pure, toxic frustration. \r
 \r
 I calculated my exit velocity. I had signed a one-year agreement. I resolved that I would not spend a single day past that threshold inside their golden cage. I counted down the days like a prisoner scratching marks on a cell wall. \r
 \r
@@ -1940,7 +1949,7 @@ I had been in the shower after a grueling, high-pressure roll at the Wichita Jiu
 \r
 There was a lump on my left testicle. \r
 \r
-It was small - hard, cold, and roughly the size of a pencil tip. The street-vigilance threat CPU in my brain instantly flagged the data point. It was a structural deviation, an unexpected component inside the physical architecture of my body. \r
+It was small - hard, cold, and roughly the size of a pencil tip. My street-honed paranoia instantly set off alarm bells. It was a structural deviation, an unexpected component inside the physical architecture of my body. \r
 \r
 I did the responsible, logical thing. I scheduled an appointment with a local Wichita general practitioner. \r
 \r
@@ -1960,7 +1969,7 @@ But a system doesn't care about a doctor’s lazy heuristics. The physical param
 \r
 While I was grinding through the toxic sales meetings in Houston, managing the calibration startup, and running on pure adrenaline, the lump was quietly, relentlessly expanding. The cell-level duplication was accelerating, converting healthy tissue into a silent, malignant mass. I ignored it because the Wichita doctor had stamped it as "normal," and because I was too bone-tired and burnt out to audit my own physical chassis. \r
 \r
-When I officially walked away from the Houston CETO job, I realized I needed a massive, systemic reset. The corporate slime had accumulated on my soul, and my cognitive CPU was sluggish, clogged with the noise of sales metrics and executive optics. \r
+When I officially walked away from the Houston CETO job, I realized I needed a massive, systemic reset. The corporate slime had accumulated on my soul, and my mind was sluggish, clogged with the noise of sales metrics and executive optics. \r
 \r
 I needed to purge the system. \r
 \r
@@ -1983,7 +1992,7 @@ I was scrubbing the engine clean. I felt lighter, stronger, and more connected t
 \r
 But the whole time we were driving through those breathtaking mountain vistas, an uninvited passenger was riding in the car with us. \r
 \r
-Deep inside my groin, hidden beneath the denim of my jeans, the lump had grown from a tiny pencil tip into a solid, heavy mass. The Wichita doctor’s "normal" diagnosis was still sitting in my cognitive database, but the physical reality was counting down. \r
+Deep inside my groin, hidden beneath the denim of my jeans, the lump had grown from a tiny pencil tip into a solid, heavy mass. The Wichita doctor’s "normal" diagnosis was still ringing in my ears, but reality was counting down. \r
 \r
 The cancer was ticking away like a silent, unmitigated time bomb in the passenger seat, quietly preparing to trigger the ultimate, catastrophic system alarm.\r
 ---\r
@@ -1996,11 +2005,11 @@ The cancer was ticking away like a silent, unmitigated time bomb in the passenge
 \r
 ---\r
 \r
-The Great American Loop was the thermodynamic venting cycle my cognitive CPU desperately needed. Four months on the open highway with Cindy and the kids, watching the flat Texas highways dissolve into the cool, towering granite geology of the Pacific Northwest, did more than wash the corporate grease of the CETO sales grinder off my soul. It recalibrated my internal sensor arrays. \r
+The Great American Loop was exactly the reset my brain desperately needed. Four months on the open highway with Cindy and the kids, watching the flat Texas highways dissolve into the cool, towering granite geology of the Pacific Northwest, did more than wash the corporate grease of the CETO sales grinder off my soul. It recalibrated my internal sensor arrays. \r
 \r
 I stood on the volcanic rim of Crater Lake, staring down into that deep, impossible, uncalibrated blue water, and felt the white noise of Siemens sales quotas and corporate executive posturing finally go quiet. I walked the wooden boardwalks of Yellowstone, watching the planetary pressure-relief valves hiss and bubble, and analyzed the elegant mechanics of natural safety systems. Cindy was the steady, unyielding reference point keeping my drifting system calibrated, while the kids’ laughter filled the cabin of the car.\r
 \r
-But an idle loop is a highly volatile state for an engine like mine. If I stay in park for too long, my CPU starts to run hot, searching for a mechanical sandbox to optimize. Before we had even backed the car out of our Houston driveway for the road trip, I had already lined up my next landing zone. I didn't want to be a C-suite mascot anymore. I had no interest in managing budgets, smiling for sales directors, or shaking hands with petrochemical executives. I wanted to get my hands back on the steel and the silicon. I wanted to be an individual contributor.\r
+But I've never been good at sitting still. If I stay in park for too long, I start to go crazy, looking for something to fix. Before we had even backed the car out of our Houston driveway for the road trip, I had already lined up my next landing zone. I didn't want to be a C-suite mascot anymore. I had no interest in managing budgets, smiling for sales directors, or shaking hands with petrochemical executives. I wanted to get my hands back on the steel and the silicon. I wanted to be an individual contributor.\r
 \r
 I took a role doing Operational Technology (OT) Cybersecurity for Capgemini. They dropped me straight onto a massive, high-consequence account: Takeda, the historic, multi-billion-dollar Japanese pharmaceutical giant. My mandate was to secure the automated manufacturing loops and biotech process lines that churned out life-saving pharmaceutical products globally. It was pure, high-horsepower systems engineering.\r
 \r
@@ -2018,13 +2027,13 @@ The reaction on the video grid was immediate. Impeccably masked faces suddenly b
 \r
 In that single, linguistic transition, the digital walls vanished. Cultural fluency had bypassed their security firewalls, securing a direct trust line that would have taken months to build with technical credentials alone. They gave me the keys to the castle.\r
 \r
-As I sat there discussing network safety margins with the Takeda executives, my reflective past-tense CPU took a step back to audit the memory registers. \r
+As I sat there discussing network safety margins with the Takeda executives, I took a step back and thought about how far I had come. \r
 \r
 Thirty years earlier, I was a lanky, hyper-vigilant kid on Williams Street in Baltimore, desperately looking for an escape hatch from the chaotic, violent physics of Greenmount Avenue. I was smart enough to recognize that if I remained in the Baltimore environment, the neighborhood would eventually run me into a cemetery or a cell. I needed an intellectual cloak, a mental sandbox where the street noise couldn't reach me. I walked down to the Enoch Pratt Free Library, checked out a dusty, second-hand Japanese grammar textbook, and sat on the black-and-white linoleum of Pauline’s kitchen floor under a flickering fluorescent bulb. I memorized the characters of *Hiragana*, *Katakana*, and basic *Kanji* like a programmer writing a bootstrap compiler. It was my secret sanctuary. \r
 \r
 I carried that language through the Baltimore alleys, into the Air Force, and onto the hot grappling mats of Okinawa. And now, decades later, the Baltimore street kid’s childhood escape hatch had become the ultimate trust-builder in a multi-billion-dollar corporate boardroom. The transaction was complete: performance had once again purchased validation, but this time, the stakes were global.\r
 \r
-For two years, I locked down Takeda’s pharmaceutical process lines. But a high-performance CPU is always sought after by larger networks. \r
+For two years, I locked down Takeda’s pharmaceutical process lines. But guys with my skillset are always sought after by larger outfits. \r
 \r
 Then, MITRE called.\r
 \r
@@ -2040,7 +2049,7 @@ I sat at those Airbnb tables with my high-security, encrypted MITRE laptop, writ
 \r
 But looking back on those MITRE days brings a profound sense of tragedy. Josie Long, the brilliant veteran who hired me, had her own struggles. Like many of us veterans, she carried demons. She battled cancer and went through several personal tragedies that ultimately sent her into a spiral. She ended up taking her own life. I still feel a tremendous, heavy guilt about Josie. I feel like I could have done more. I should have seen her struggle. I could have been there for her. She was a great person, and the world is lesser without her in it. \r
 \r
-The high-voltage, threat-scanning CPU I had forged on Greenmount Avenue was running at its absolute limit. The street kid who scanned the alleys for folding knives and calculated the distance to the bus exit was the exact same engine tracing the network paths of cyber threats.\r
+The street-level paranoia I had forged on Greenmount Avenue was running at its absolute limit. The street kid who scanned the alleys for folding knives and calculated the distance to the bus exit was the exact same engine tracing the network paths of cyber threats.\r
 \r
 But the whole time I was securing the nation’s infrastructure and bouncing between rented kitchen tables, the diagnostic error of Wichita was quietly executing its final, catastrophic routine.\r
 \r
@@ -2060,7 +2069,7 @@ In industrial process systems, when a component begins to degrade, the failure s
 \r
 You control the parameters. You govern the process.\r
 \r
-But when the failing infrastructure is your own biological chassis, control is an absolute illusion. Inside the human body, the threat-scanning CPU runs up against the messy, terrifying limits of biological chaos.\r
+But when the failing infrastructure is your own biological chassis, control is an absolute illusion. Inside the human body, all that hyper-vigilance runs up against the messy, terrifying limits of biology.\r
 \r
 The testicular lump I had casually dismissed in Wichita - convinced by a general practitioner’s lazy, superficial heuristic that a healthy, muscular athlete couldn't possibly be carrying a lethal failure mode - had escalated past the threshold of containment. It was no longer a tiny pencil-tip calcification. It was now a hard, heavy, and undeniable structural deviation. \r
 \r
@@ -2068,7 +2077,7 @@ I scheduled an appointment at a clinic in Northwest Arkansas for a second diagno
 \r
 The ultrasound room was a dark, cool space that smelled of sterile latex and cold isopropyl alcohol. I lay flat on the examination table, staring up at the acoustic tiles of the ceiling, while a young ultrasound technician squeezed a thick dollop of cold blue gel onto my groin. She grabbed the transducer wand, pressed it against my skin, and began to sweep the sensor across the mass. The machine emitted a high-pitched, metallic drone, and the monitor illuminated the room with a flickering, black-and-white visual telemetry of my internal anatomy.\r
 \r
-I watched the technician's face in the dim glow. She was young, fresh out of clinical training, and completely lacked that professional filter that doctors spend decades cultivating. \r
+I watched the technician's face in the dim glow. She was young, fresh out of clinical training, and completely lacked that professional filter that doctor's spend decades cultivating. \r
 \r
 She swept the wand once. Her posture instantly stiffened. She swept it again, her eyes widening as she stared at the screen. She looked down at my face, then back at the monitor, her chest drawing in a sharp, shallow breath.\r
 \r
@@ -2076,7 +2085,7 @@ She swept the wand once. Her posture instantly stiffened. She swept it again, he
 \r
 The words hit my threat-scanning brain like a catastrophic system crash - an unhandled exception that halted all logical operations. *What the fuck?* \r
 \r
-When a clinical operator looks at your internal telemetry and tells you "it's really bad," your CPU doesn't process nuance. It instantly boots a worst-case threat projection. In a fraction of a millisecond, my mind went into a pitch-black psychological freefall. I calculated the metastatic velocity, projected five-year survival metrics, and began mapping out the structural collapse of my family's future. I sat there in the dark, convinced I was already a dead man walking, my life-clock deleted because a technician couldn't regulate her own verbal output.\r
+When a clinical operator looks at your internal telemetry and tells you "it's really bad," your brain doesn't process nuance. It instantly jumps to the worst-case scenario. In a fraction of a millisecond, my mind went into a pitch-black psychological freefall. I calculated the metastatic velocity, projected five-year survival metrics, and began mapping out the structural collapse of my family's future. I sat there in the dark, convinced I was already a dead man walking, my life-clock deleted because a technician couldn't regulate her own verbal output.\r
 \r
 It turned out she was simply reacting to the sheer physical volume of the tumor. The mass was large, yes, but when the senior physician finally arrived to audit the telemetry, he delivered the critical calibration: the cancer was entirely localized, encapsulated within the testicular wall. It had not migrated into the lymph nodes or the surrounding tissue. It was a massive failure, but it was physically isolated.\r
 \r
@@ -2096,7 +2105,7 @@ The evening after the hip replacement, I came home. My thigh was a numb, heavy l
 \r
 But my first thought wasn't about the sawed-off bone or the missing joint. It was about my work at MITRE. I refused to let the system register a fault. I refused to show that a Baltimore kid could be sidelined by a piece of titanium. \r
 \r
-With shaking, uncoordinated fingers, I tried to pull open my laptop to answer work emails about the NIST Cybersecurity Profile. Cindy immediately intervened. She watched me trying to type out high-level cybersecurity policy while practically drooling from the surgical anesthetics. She literally had to stop me from hitting "Send." She took care of me, shutting the laptop down and protecting me from my own stubborn pride. I was redlining the engine, completely oblivious to how compromised my own cognitive CPU was at that moment.\r
+With shaking, uncoordinated fingers, I tried to pull open my laptop to answer work emails about the NIST Cybersecurity Profile. Cindy immediately intervened. She watched me trying to type out high-level cybersecurity policy while practically drooling from the surgical anesthetics. She literally had to stop me from hitting "Send." She took care of me, shutting the laptop down and protecting me from my own stubborn pride. I was completely oblivious to how fucked up my head was at that moment.\r
 \r
 Then, the anesthesia evaporated.\r
 \r
@@ -2104,11 +2113,11 @@ The clinical staff wheeled in a tray of heavy painkillers - opioids. Oxycodone, 
 \r
 I looked at the pills and refused them. \r
 \r
-Growing up on Greenmount Avenue and Williams Street, I had watched those identical white nodes destroy healthier men than me. I had seen tough, resilient street fighters turned into shivering, hollowed-out ghosts, their entire lives optimized around a chemical transaction. To my analytical brain, opioids were a toxic dependency - a software patch that muted the warning sensors while quietly corrupting the system's core operating kernel. I had engineered my entire survival around staying sharp, staying hyper-vigilant, and keeping my logical CPU in absolute control. Surrendering my mind to the chemical haze of narcotics felt like an existential threat.\r
+Growing up on Greenmount Avenue and Williams Street, I had watched those identical white nodes destroy healthier men than me. I had seen tough, resilient street fighters turned into shivering, hollowed-out ghosts, their entire lives optimized around a chemical transaction. To my analytical brain, opioids were a toxic dependency - a software patch that muted the warning sensors while quietly corrupting the system's core operating kernel. I had engineered my entire survival around staying sharp, staying hyper-vigilant, and keeping my mind in absolute control. Surrendering my mind to the chemical haze of narcotics felt like an existential threat.\r
 \r
 So, I resolved to raw-dog the recovery of a sawed-off femur on pure, uncalibrated willpower.\r
 \r
-I have spent my life absorbing physical pressure on the grappling mats and the streets, but this was a different, terrifying universe of agony. The pain of a hammered titanium spike inside a split bone is so intense, so absolute, that the human brain cannot even process it through standard sensory pathways. My CPU couldn't register it as pain anymore. It interpreted the massive, white-hot neurological overload as freezing, sub-zero cold.\r
+I have spent my life absorbing physical pressure on the grappling mats and the streets, but this was a different, terrifying universe of agony. The pain of a hammered titanium spike inside a split bone is so intense, so absolute, that the human brain cannot even process it through standard sensory pathways. My brain couldn't register it as pain anymore. It interpreted the massive, white-hot neurological overload as freezing, sub-zero cold.\r
 \r
 I lay in the hospital bed, engulfed in a terrifying, neurological cold sweat. \r
 \r
@@ -2182,7 +2191,7 @@ For my entire life - from the dirt-clod street wars of Brooklyn and the knife-sl
 \r
 But when the physical armor finally cracked - when my original hip was sawed off and my groin was carved open - the invincible facade was dismantled. And through that cracked chassis, a new, peaceful perspective finally seeped in. \r
 \r
-I didn't want to redline the engine anymore just to prove I could run hot. I looked at the system I had built - my wife Cindy, whose unwavering, calm consistency was the ultimate reference point keeping my drifting system calibrated; my children Alex, Leonidas, and Gabby, whose futures were secure. I realized that the transaction was over. I had nothing left to prove to the Baltimore street corners or the condescending boardrooms. I shifted my cognitive parameters from accumulation to absolute appreciation.\r
+I didn't want to redline the engine anymore just to prove I could run hot. I looked at the system I had built - my wife Cindy, whose unwavering, calm consistency was the ultimate reference point keeping my drifting system calibrated; my children Alex, Leonidas, and Gabby, whose futures were secure. I realized that the transaction was over. I had nothing left to prove to the Baltimore street corners or the condescending boardrooms. I shifted my focus from accumulation to absolute appreciation.\r
 \r
 This profound psychological calibration aligned perfectly with my role at MITRE.\r
 \r
@@ -2206,7 +2215,7 @@ What remained was a calibrated, resilient system: a man with a titanium femur, o
 \r
 Even when you stop chasing the dollar, you never stop being an engineer. You never stop looking at the math.\r
 \r
-I loved MITRE. I believed in the mission with every logical block of my CPU. For nearly six years, I sat in windowless, secure spaces, threat-modeling the nation's critical infrastructure. We weren't chasing profit margins or corporate sales quotas; we were analyzing how an advanced state-sponsored adversary could disrupt the electrical grid, shut down municipal water systems, or breach a weapon system’s tactical data link. It was pure, unadulterated systems engineering with real-world, high-consequence national stakes.\r
+I loved MITRE. I believed in the mission with every fiber of my being. For nearly six years, I sat in windowless, secure spaces, threat-modeling the nation's critical infrastructure. We weren't chasing profit margins or corporate sales quotas; we were analyzing how an advanced state-sponsored adversary could disrupt the electrical grid, shut down municipal water systems, or breach a weapon system’s tactical data link. It was pure, unadulterated systems engineering with real-world, high-consequence national stakes.\r
 \r
 But even the most elite think tanks are bound by the physics of budget parameters.\r
 \r
@@ -2216,13 +2225,13 @@ In the corporate world, a RIF is a massive, high-amplitude shock wave. The brick
 \r
 But my brain doesn't run on the standard corporate operating system.\r
 \r
-When the threat-scanning CPU in my head evaluated the parameters of the RIF, it didn't register panic. It booted an optimization routine. I sat at my desk, pulled up the severance package disclosure, and began running the numbers. The deal was elegant: six months of full salary, complete benefits, and immediate payout of all accrued time.\r
+When I evaluated the parameters of the RIF, I didn't panic. I just ran the numbers. I sat at my desk, pulled up the severance package disclosure, and began running the numbers. The deal was elegant: six months of full salary, complete benefits, and immediate payout of all accrued time.\r
 \r
 To a normal corporate professional, a layoff is a disaster. To a kid who grew up dodging folding knives on North Avenue, surviving the Southern District lockup, and outcalculating federal indictments, six months of guaranteed, risk-free capital runway is a massive, high-leverage tactical advantage. It wasn't a threat; it was a beautiful arbitrage opportunity.\r
 \r
 I actually volunteered to be laid off during the second wave.\r
 \r
-I walked into my director's office, set my security badge on his desk, and asked to be included in the RIF. The director stared at me as if I had suffered a major cognitive fault.\r
+I walked into my director's office, set my security badge on his desk, and asked to be included in the RIF. The director stared at me as if I had lost my fucking mind.\r
 \r
 "We can't let you go, Michael," he said, shaking his head. "You're the lead architect on the critical infrastructure safety simulators. The defense agencies won't let us bench you. Your request is rejected."\r
 \r
