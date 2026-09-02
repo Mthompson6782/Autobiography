@@ -1028,7 +1028,7 @@ But the human chassis has a strict biological limit when run on natural hormones
 \r
 One Sunday afternoon, while sorting through my basement to clear out some clutter, I stood before my old military green footlocker. I popped the heavy metal latches - a sharp, concussive *clack-clack* that sounded like chambering a round - and lifted the lid. The smell of stale Kadena air, cosmoline, hoppe's no. 9, and damp canvas drifted up into the Baltimore basement.\r
 \r
-I began rummaging through the contents: old technical manuals for the C-135, uniform patches, faded dojo pamphlets, and empty dry ice bomb caps. Tucked deep under a stack of aerospace wiring diagrams, my fingers brushed against a scrap of paper.\r
+I began rummaging through the contents: old technical manuals for the C-130, uniform patches, faded dojo pamphlets, and empty dry ice bomb caps. Tucked deep under a stack of aerospace wiring diagrams, my fingers brushed against a scrap of paper.\r
 \r
 I pulled it out. It was a faded, Singha-beer-spattered paper napkin from Pattaya, Thailand.\r
 \r
