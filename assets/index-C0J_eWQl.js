@@ -1486,7 +1486,7 @@ But Cindy gave me something I had never had from a woman before: consistency. Sh
 \r
 Every engineer knows that a system needs a stable reference point to calibrate against. Without it, all your measurements drift. All your outputs are unreliable.\r
 \r
-Cindy became my reference point. And from that night at the harbor forward, I never drifted again.\r
+Cindy became my reference point. And from that night at the harbor forward, I never drifted again. We were married in September 2008, and it was the start of a completely new, grounded life.\r
 \r
 ---\r
 \r
