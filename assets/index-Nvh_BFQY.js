@@ -966,7 +966,7 @@ My Chief was standing nearby watching the whole thing, laughing his ass off. "Th
 \r
 But we were young, and when the shifts ended, we sought out the local culture. One night, a group of us were sitting at a noisy, open-air Muay Thai bar in Pattaya. The air was thick, wet, and suffocating, smelling of fried chilies, cheap whiskey, and the sharp, wintergreen-and-menthol sting of *Namman Muay*ΓÇöthe yellow liniment the fighters used to numb their limbs. In the center of the bar was a crude wooden ring. Wiry, lean local fighters, looking like they were constructed out of dark mahogany and wire, were systematically chopping each other down to the frantic, high-pitched wail of the *sarama* music. The sound of shins slamming against ribs echoed through the rafters like pistol shots.\r
 \r
-Sitting at the table next to mine was a physical anomaly.\r
+Sitting at the table next to mine was a fucking freak of nature.\r
 \r
 The man looked like he had been genetically engineered in a lab. He was easily 6'4", 250 pounds of sculpted, striated muscle under a tight black tank top, with hair as blonde as wheat and eyes like chipped blue ice. He looked like Ivan Drago had walked out of *Rocky IV* and into a Thai bar. He was sitting with a group of Eastern European tourists, drinking a Singha beer, loudly debating whether he should get in the ring to fight one of the Thais.\r
 \r
