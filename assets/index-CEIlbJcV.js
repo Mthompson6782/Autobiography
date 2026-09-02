@@ -951,7 +951,18 @@ Now *that* was culture shock.\r
 \r
 Then came Operation Cobra Gold.\r
 \r
-We deployed to Thailand for the massive, joint-force military exercise. If I thought I knew poverty from the brick rowhouses of South Baltimore, Thailand showed me I knew absolutely nothing. This was a different level of survival. Dirt floors, tin roofs, open sewage running down the sides of the streets, and children working the fields with water buffalo. In America, the hustle is always thereΓÇöyou can find a way out if you have the drive. But in the rural provinces of Thailand, the ceiling was made of thick, reinforced concrete. There was no escape hatch. It was a humbling, sobering reality check that ground away my remaining adolescent arrogance.\r
+We deployed to U-Tapao, Thailand, an airfield just outside of Pattaya, for the massive, joint-force military exercise. We were put up in the Merlin Pattaya hotel. It was a beautiful place. I remember walking into the lobby, looking around at the sheer luxury of it, and thinking, *Jesus Christ, I'm glad the Marine recruiter was out of the office that day I went in to enlist.* It was the nicest place this South Baltimore dirtball had ever stayed in.\r
+\r
+But the contrast outside the hotel was stark. If I thought I knew poverty from the brick rowhouses of South Baltimore, Thailand showed me I knew absolutely nothing. Dirt floors, tin roofs, open sewage running down the sides of the streets. It was a humbling reality check that ground away my remaining adolescent arrogance.\r
+\r
+Down at the open airfield where our planes were parked, local life bled right onto the tarmac. There was a Kao Pad fried rice stand set up nearby, and one day I noticed a couple of local kids wandering around the flight line. I was told to go shoo them away. As I was walking over to them, I startled a massive lizard. This motherfucker stood straight up on two feet and ran away. I had never seen shit like that in my life.\r
+\r
+The two kids saw it too and followed the lizard to a bush. I didn't speak Thai, but I walked over, pointed at the lizard, and held up a couple of military chem-lights—glowsticks. I told them I'd give them each a glowstick if they caught it. They didn't understand the English, but they definitely understood the glowsticks. To the locals, glowsticks were a hot commodity. We had shitloads of them in all colors, even infrared ones. We used them to line the airfields and tie down gear; they were incredibly handy.\r
+\r
+What happened next, I wouldn't have believed if I didn't see it with my own eyes. One kid broke off a branch full of leaves and started shaking it in the lizard's peripheral vision to distract it. The other kid stood perfectly still and let out a sharp whistle. The lizard snapped its head toward the whistle, and—*boom*—the first kid snatched it right by the neck, threw it in a box, and handed it over to me.\r
+\r
+My Chief was standing nearby watching the whole thing, laughing his ass off. "They probably eat those fucking things," he said. "That's why they're so good at catching them. You watch—tomorrow they're gonna bring you a box full of cobras and lizards looking for more glowsticks."\r
+\r
 \r
 But we were young, and when the shifts ended, we sought out the local culture. One night, a group of us were sitting at a noisy, open-air Muay Thai bar in Pattaya. The air was thick, wet, and suffocating, smelling of fried chilies, cheap whiskey, and the sharp, wintergreen-and-menthol sting of *Namman Muay*ΓÇöthe yellow liniment the fighters used to numb their limbs. In the center of the bar was a crude wooden ring. Wiry, lean local fighters, looking like they were constructed out of dark mahogany and wire, were systematically chopping each other down to the frantic, high-pitched wail of the *sarama* music. The sound of shins slamming against ribs echoed through the rafters like pistol shots.\r
 \r
