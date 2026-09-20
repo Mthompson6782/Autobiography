@@ -1106,9 +1106,9 @@ Then, the market presented an opportunity for optimization.\r
 \r
 Spartak sent an encrypted message via our secure channel. He explained that he had another high-volume client in the United States, but shipping directly to them from Eastern Europe was getting complicated. Customs was tightening scrutiny on packages originating from Sofia and Bangkok.\r
 \r
-He made a simple proposition: If I agreed to let him route the client's large shipments to my Baltimore address, and I simply re-labeled and mailed them domestically to the buyer, Spartak would cut the price of my personal cycles in half.\r
+He made a simple proposition: If I agreed to let him route the client's large shipments to my Baltimore address, and I simply re-labeled and mailed them domestically to the buyer, Spartak would give me all my personal gear for free.\r
 \r
-I ran the math. It took less than three seconds. The risk seemed negligible. I wasn't selling anything to anyone. I wasn't standing on a corner or dealing in gym locker rooms. I was just acting as a domestic routing node in an international logistics chain, and in exchange, my personal overhead was cut in half.\r
+I ran the math. It took less than three seconds. The risk seemed negligible. I wasn't selling anything to anyone. I wasn't standing on a corner or dealing in gym locker rooms. I was just acting as a domestic routing node in an international logistics chain, and in exchange, I got all my personal gear completely free.\r
 \r
 "Sure," I typed back.\r
 \r
