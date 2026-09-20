@@ -445,8 +445,17 @@ And that adaptation was about to lead directly to North Avenue.\r
 ---\r
 \r
 I was fourteen the first time I had to stab someone.\r
-It’s a fucking shame that a kid growing up in America has to say that sentence out loud. People hear it and assume I’m bragging or exaggerating. I’m not. I was a tall, lanky kid, still soft around the edges, who hadn’t fully grown into his bones yet. Baltimore didn’t care what I looked like. Baltimore only cared that I was standing in the wrong place.\r
-Me and Big Ed were trying to get home. The bus broke down and the driver kicked everyone off. No explanations. No backup plan. Just “everybody off.” That was MTA back then. It still is in some places. We figured we’d walk to the next connecting stop.\r
+\r
+It's a fucking shame that a kid growing up in America has to say that sentence out loud. People hear it and assume I'm bragging or exaggerating. I'm not. I was a tall, lanky kid, still soft around the edges, who hadn't fully grown into his bones yet. Baltimore didn't care what I looked like. Baltimore only cared that I was standing in the wrong place.\r
+\r
+I had just gotten the hang of catching the buses needed to get to and from school. From my house, it was the 64 to the 3, or the 64 to the 36. I preferred the 64 to the 3. It didn't take me through any nicer an area, but if I was coming home I could take the 3 to the Inner Harbor, and in a worst-case scenario, I could always walk home. It's not like the ride was any nicer; it was still a shithole regardless of the bus line.\r
+\r
+Sometimes you just had to take what you get. One day, as is often the case in Baltimore, the temperature hit 90 early enough in the morning that they had to send us home. You see, Baltimore City schools didn't have air conditioning. All that money in that school system and no AC. Where did it go? I think we all know.\r
+\r
+So there I was, catching the 36 at my school to get to the 64 bus stop. Well, as luck would have it, the 36 broke down on North Ave. The driver kicked everyone off. No explanations. No backup plan. Just "everybody off." That was MTA back then. It still is in some places.\r
+\r
+It was only a few more blocks to the next connecting stop, so me and Big Ed decided to walk it.\r
+\r
 Bad idea.\r
 That walk took us down North Avenue, right across the street from Greenmount Cemetery. If you know Baltimore, you know Greenmount. High stone walls, miles of graves, dead leaves, and silence. A city of the dead sitting in the middle of the city of the living, or what passes for living. We were on the opposite side of the street, just trying to get past it.\r
 We were halfway down the block when it happened.\r
