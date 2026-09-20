@@ -997,7 +997,7 @@ He reached into his pocket, pulled out a small pen, and grabbed a paper napkin o
 \r
 He slid the napkin across the wet wood to me. \r
 \r
-"My name is Spartak," he said, his blue eyes locking onto mine with absolute certainty. "Spartak Todorov. I import directly from the state pharmaceutical labs in Bulgaria and Thailand. Pure, sterile, professional grade. If you ever want to see what your chassis is truly capable of, write me. I will hook you up."\r
+"My name is Spartak," he said, his blue eyes locking onto mine with absolute certainty. "Spartak Todorov. I import directly from the state pharmaceutical labs in Bulgaria and Thailand. Pure, sterile, professional grade. If you ever want to be Superman, write me. I will hook you up."\r
 \r
 I looked down at the napkin. The ink was slightly smeared by the condensation from my beer bottle. \r
 \r
@@ -1058,7 +1058,7 @@ I pulled it out. It was a faded, Singha-beer-spattered paper napkin from Pattaya
 \r
 On it, written in bold, block letters that had slightly bled into the cheap fibers, was the name: *SPARTAK TODOROV*. Below it was a physical mailing address.\r
 \r
-I sat there on the cold concrete basement floor, staring at the napkin. The memories of that hot Muay Thai bar, the smell of Thai liniment, and the genetically engineered Bulgarian giant came flooding back. I remembered Spartak’s words: *If you ever want to see what your chassis is truly capable of, write me.*\r
+I sat there on the cold concrete basement floor, staring at the napkin. The memories of that hot Muay Thai bar, the smell of Thai liniment, and the genetically engineered Bulgarian giant came flooding back. I remembered Spartak’s words: *If you ever want to be Superman, write me.*\r
 \r
 My brain, trained in systems and risk mitigation, immediately began a calculation. In the streets of West Baltimore, if you wanted to acquire a high-value asset, you had to deal with volatile, armed street dealers who would shoot you over a transaction error. But this note was an invitation to bypass the street-level noise entirely. I had a direct, uncorrupted link to a primary manufacturing node in Eastern Europe. \r
 \r
