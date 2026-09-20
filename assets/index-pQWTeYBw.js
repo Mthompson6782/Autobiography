@@ -1384,6 +1384,14 @@ Then the prosecutor would stand up. He took every single piece of normal paper t
 \r
 You literally cannot make this shit up. \r
 \r
+At the first bail hearing, the judge just flatly said: 'No bail.' At the second bail hearing, they wanted one million dollars cash, no bond. I, of course, didn't have that kind of money, so I sat. And it was then that they moved me to 'Killer K' - the block for those of us distinguished enough to have extremely high bail or no bail at all. I was finally among my peers in the world of crime. \r
+\r
+Contrary to what you might think, Killer K was way more chill. Regular lock-up is like gladiator school. Shit is popping off constantly. People are coming off drugs and all agitated, and like I said before, most of the people there are borderline retarded. It's a cesspool of high testosterone, low IQ, and low impulse control. What could go wrong?\r
+\r
+Killer K was practically tranquil by comparison. The guys here did some serious shit. Uncle Ernie, for example, was awaiting transfer on some federal gun-running charges. Tweetie was from North Ave; he had some bodies attached to his name. There was a Mexican dude who had held a family at knifepoint, but interestingly enough, he got out fairly quick. It was an assortment of the absolute worst of the Baltimore City crime scene. Honestly, the best thing that could happen to that city at that time would've been to set that bitch on fire and burn it all down with the criminals and cops inside. Just start over.\r
+\r
+Killer K was located in the annex, and it was an open barracks style. While I was in there, I actually got a job. I was a working man. I handed out toilet paper and kept the water fountains and the block clean. The guard would give me a couple of cigarettes for doing it, which I would then trade for the hookup: commissary goods. \r
+\r
 I was an airplane mechanic who got some free steroids for mailing USPS boxes. But to the court, I was Jason Bourne. And to the guys sitting next to me in the courtroom lockup, I was Rambo. Once again, every head in the room turned and looked at me with this collective expression of: *Who the fuck is this guy?*\r
 \r
 # Chapter 17: The Plea Deal\r
