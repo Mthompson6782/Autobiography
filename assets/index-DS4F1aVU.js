@@ -272,7 +272,7 @@ Mike and I would sit on the threadbare orange carpet at his feet, our twelve-yea
 \r
 He set the slide down on a sheet of newspaper, the metal clinking softly against the glass tabletop, and leaned forward. The springs in the vinyl recliner groaned under his weight.\r
 \r
-"In the real world, if you find yourself in a physical altercation, you are in a survival scenario. The moment another man puts his hands on you, he has declared his intent to destroy you. Your job is to shut down his operating system immediately. You don't trade blows. You bypass his willpower by attacking his mechanics."\r
+"In the real world, if you find yourself in a physical altercation, you are in a survival scenario. The moment another man puts his hands on you, he has declared his intent to do you harm. Your job is to shut him down. You don't trade blows. You bypass his willpower by attacking his mechanics."\r
 \r
 He looked at Mike, then pointed a thick, calloused finger at me. "Come here, Michael."\r
 \r
