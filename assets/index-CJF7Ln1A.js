@@ -465,12 +465,19 @@ Two grown men stood over me, screaming.\r
 “Why you do that, yo? Why you do that, yo?”\r
 I hadn’t said a word. I hadn’t even looked at them. But they kept repeating it like it gave them a reason to beat the hell out of a white kid. They punched me, kicked me into the brick wall, cracked my ribs. My confusion lasted maybe three seconds. Then instinct woke up.\r
 I thought they were going to beat me to death.\r
-I reached into my pocket. All I had was a cheap pen. I wasn’t carrying a knife yet. I was still innocent enough to think I didn’t need one. One of them grabbed my collar and yanked me up to his face. I remember thinking I was going to catch hell at home for letting them tear my dorky white-and-green striped shirt.\r
+I reached into my pocket. All I had was a cheap pen. I wasn't carrying a knife yet. I was still innocent enough to think I didn't need one. One of them grabbed my collar and yanked me up to his face. \r
+\r
 That was the moment my brain snapped from confusion to survival.\r
+\r
 No thought. No hesitation. Just a wild, desperate swing.\r
-I came in with a looping, icepick-style stab using everything I had. It felt like stabbing Play-Doh. The pen lodged deep. To this day I can’t remember the guy’s face, only his friend’s look of pure horror. People have told me that’s the mind protecting a fourteen-year-old boy. I remember the satisfying feeling of it sticking in there good, though. Even now it brings a smile to my face thinking of that feeling. I hope that fucking loser lived and changed his ways. I believe in second chances.\r
-He saw the motion, saw something pierce his friend’s neck, and ran like he’d been shot. I bolted. Full sprint. No looking back. I walked the rest of the way home, a long way, thinking one stupid thing the whole time: I hope I don’t get punished for the torn shirt.\r
-I don’t know what happened to the guy I stabbed. All I know is he didn’t chase me.\r
+\r
+I came in with a looping, icepick-style stab using everything I had. It felt like stabbing Play-Doh. The pen lodged deep in his neck. To this day I can't remember the guy's face. People have told me that's the mind protecting a fourteen-year-old boy. I do remember the satisfying feeling of it sticking in there good, though. Even now it brings a smile to my face thinking of that feeling. I hope that fucking loser lived and changed his ways. I believe in second chances.\r
+\r
+His friend saw the motion, saw the pen pierce his buddy's neck, and his face twisted into pure horror before he took off running like he'd been shot. \r
+\r
+I bolted. Full sprint. No looking back. I walked the rest of the way home, a long way, thinking one stupid thing the whole time: I hope I don't catch hell from my dad for tearing my dorky white-and-green striped shirt.\r
+\r
+I don't know what happened to the guy I stabbed. All I know is he didn't chase me.\r
 That moment changed something in me. Not in a dramatic “this is the day I became a man” way. More like a quiet switch flipping. At fourteen I learned: grown men will hurt a kid, the world will not pause to help you, and your friends might run. Your only chance is whatever you can do in the next quarter-second.\r
 People hear stories like this and think trauma. Pain. Psychological scars. For me it wasn’t a wound. It was information. The world showed me how it worked. I adjusted.\r
 \r
