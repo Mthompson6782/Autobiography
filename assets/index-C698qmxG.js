@@ -1060,9 +1060,7 @@ On it, written in bold, block letters that had slightly bled into the cheap fibe
 \r
 I sat there on the cold concrete basement floor, staring at the napkin. The memories of that hot Muay Thai bar, the smell of Thai liniment, and the genetically engineered Bulgarian giant came flooding back. I remembered Spartak’s words: *If you ever want to be Superman, write me.*\r
 \r
-My brain, trained in systems and risk mitigation, immediately began a calculation. In the streets of West Baltimore, if you wanted to acquire a high-value asset, you had to deal with volatile, armed street dealers who would shoot you over a transaction error. But this note was an invitation to bypass the street-level noise entirely. I had a direct, uncorrupted link to a primary manufacturing node in Eastern Europe. \r
-\r
-It was pure efficiency. The market in Baltimore had a massive, unfulfilled demand for pharmaceutical-grade hormones, and I had the ultimate supply line.\r
+I wasn't thinking about starting an international smuggling operation. I wasn't trying to sell anything to anybody. I just wanted to get massive. I wanted to see if I could turn myself into a freak.\r
 \r
 I walked upstairs, grabbed a pen and paper, and wrote a brief, simple letter. \r
 \r
