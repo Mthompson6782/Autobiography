@@ -1140,7 +1140,13 @@ My rowhouse had officially become the primary domestic distribution node for a m
 \r
 The digital side of the operation was just as clean. I logged onto my Pentium-powered PC, booted up our encrypted ZipLip webmail interface, and opened the green-on-black text screens. The interface was sterile, secure, and set to automatically purge messages after reading. On the screen was the master manifest: names, domestic addresses, and the exact quantities of vials and blister packs required.\r
 \r
-I set up a physical assembly line in my dining room. I would receive the package, pop the seals on the Happy Birthday cans, and break the entire shipment down. I would take my personal stuff out first—that was my cut. As the shipments scaled up, my cut got larger. I started getting more and more free stuff, way more than I could ever use myself. So, I started selling the excess as a domestic source. I was making pure profit, and essentially getting all my personal gear for free. Then, I would repack the remaining shipments going wherever Spartak told me they needed to go. I packed them all into standard USPS First Class Priority Mail boxes. I never wrote a real return address. I never used my own name.\r
+I set up a physical assembly line in my dining room. I would receive the package, pop the seals on the Happy Birthday cans, and break the entire shipment down. I would take my personal stuff out first—that was my cut. As the shipments scaled up, my cut got larger. I started getting more and more free stuff, way more than I could ever use myself. So, I started selling the excess gear as a domestic source. I had a few clients, probably around 20 or so guys that ordered directly from me. I was making pure profit, and essentially getting all my personal gear for free.\r
+\r
+Jesus fucking Christ, I was so retarded. I actually had business cards printed up. If you know me, of course I did. The company was called *Bad Boy Pharmaceuticals*. It had my actual name on it, and my official title printed right below it was: *Professional Street Nigga*.\r
+\r
+I\\'m not proud of this. In fact, I am quite ashamed.\r
+\r
+Then, I would repack the remaining master shipments going wherever Spartak told me they needed to go. I packed them all into standard USPS First Class Priority Mail boxes. I never wrote a real return address. I never used my own name.\r
 \r
 \r
 \r
