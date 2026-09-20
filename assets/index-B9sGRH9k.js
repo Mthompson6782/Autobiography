@@ -49,35 +49,31 @@ orcid: "0000-0002-0836-244X"\r
 \r
 # Chapter 1: Am I the Bad Guy?\r
 \r
-So I'm kind of a fuckup. I'll admit it. Actually, let's be real. I was a spectacular fuckup. The classic "don't be like that fucking guy."\r
-\r
-An interesting thing about my story is that I never lead with it. People always tell me I've lived an interesting life, but I realize the light it paints me in. Oftentimes, I wait a long time before sharing the details. It's almost like I'm cushioning the blow. When people meet me, they would never think the story I'm about to tell matches the man in front of them. I present a very calculated version of myself. There are people I've known for years who won't know my story until they read this book. I am hyper-aware that my story doesn't always paint me as the hero. Everyone wants to be the hero of their own story, but I am uncomfortably aware that many times in my life, I was the bad guy.\r
-\r
-But I didn't start out that way.\r
-\r
-For the majority of my life, I was the golden boy. I was the teacher's pet, the top performer in school, just an all-around smart kid. But somewhere along the line, shit got a little bit out of control. This story is all about how things spiraled out of control and how easily that can happen. \r
-\r
-But it's not just about letting shit spiral. It's about grabbing fucking life by the horns and getting back on that motherfucker after you've been knocked down to rock bottom. \r
-\r
-And I've hit rock bottom. I've been put in jail, stripped of my freedom, and dragged through all of that shit. \r
-\r
-Nowadays, I am a high-powered, principled engineer at some of the world's largest companies. I've worked on systems that most will never see or know existed. I've worked on critical infrastructure. I've worked on projects for National Labs and federally funded research and development centers that I can never talk about. I've been a CTO at one of the world's largest automation distributors. I've been a director at one of the world's largest privately owned companies, Koch Industries.\r
-\r
-I grew up in South Baltimore, but I had to go to school in North Baltimore. I had to deal with the local indigenous population that hated me because of my light complexion. A whole bunch of shit. \r
-\r
-I joined the military. They poisoned me. It's all right, it's all good. What's a little fucking poison between friends? I also accidentally became an international drug kingpin for anabolic steroids. That was a fucking adventure right there.\r
-\r
-Life happens. I've got scars across my head and my face. I've got a fake left hip. I've got scars on my legs. I've got scars across my abdomen where they had to cut me open and cut out the cancerous fucking ball that the Air Force poisoned me with.\r
-\r
-When I look at it as a functional safety engineer, I'm trained on understanding the probability of failure on demand for systems. I'd say the probability of failure on demand for my own fucking life was pretty close to certain. But I managed to unfuck myself. I came back from that, re-engineered my life, and was able to take the shit that made me a fuckup and turn it into something that makes me special.\r
-\r
-The Japanese have a word for this. Of course I'm going to talk about Japanese, because I studied Japanese since I was in the sixth grade, and when I was in the military I lived over there for three years. The Japanese have a word for that crack that they've made better, those broken pieces that they filled with gold. It's called Kintsugi. \r
-\r
-Kintsugi is about highlighting those things that made us broken. So now, I see all my scars and everything I've been through, and I understand that this is me. This is what I've become. This is who I am. \r
-\r
-This book is all about how not to get into these fucking stupid situations in the first place. And, if you find yourself already in that fucked up life, here's how to get out of that motherfucker and do it right. So with this, I'm gonna kick this book off and get this thing started.\r
+> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
+\r
+I was a spectacular fuckup. The guy they point at and say don't be that motherfucker.\r
+\r
+I don't lead with it. People tell me I lived an interesting life. What they mean is the file looks ugly and the rooms I walked through looked uglier. I wait. I let you meet the engineer first. Soften the blow. The man in front of you does not match the story, and I know it. Folks I've known for years won't know this until they read the book. Everybody wants to be the hero of their own shit. I'm uncomfortably aware I was the bad guy more than once.\r
+\r
+Didn't start that way.\r
+\r
+Golden boy for a long stretch. Teacher's pet. Top of the class. Smart-ass kid who actually was smart. Then it got away from me. That's how it happens - you're young, you're certain, nobody's snatched the wheel yet, and all of a sudden you're the cautionary tale. This book is how easy that is. And what it takes to grab life by the throat after it already put you on the ground.\r
+\r
+I've been locked up. Freedom gone. Walked through all that shit. I've also sat in rooms most people will never see - critical infrastructure, national labs, federal work I still can't talk about. Director at Koch. CTO at one of the biggest automation houses on the planet. Principal engineer now. Same body. Different jacket.\r
+\r
+South Baltimore kid in a North Baltimore school. Light-skinned problem in rooms that didn't want me. That wasn't theory. That was every day. Joined the military. They poisoned me. It's fine. What's a little poison between friends. I also - and I still laugh when I say it - accidentally became an international steroid kingpin. Whole East Coast, West Coast, South America pipeline. That was an adventure I did not put on the five-year plan.\r
+\r
+Life leaves receipts. Scars across my head and face. Fake left hip. Legs marked up. Zipper down my gut where they cut me open and took the cancerous ball the Air Force helped grow. Functional safety engineer in me looks at that and says the probability of failure on demand for my own life was damn near certain.\r
+\r
+I unfucked it anyway. Took the same shit that made me a fuckup and turned it into the thing that makes me dangerous in a useful way.\r
+\r
+Japanese got a word for the break you don't hide. I studied the language in sixth grade and lived over there three years in the service, so yeah, I'm gonna say it: kintsugi. They fill the cracks with gold. They don't pretend the bowl never hit the floor. They make the drop the point.\r
+\r
+That's the book. How not to walk into the stupid rooms in the first place. And if you're already in one - how to get out of that motherfucker and do it right.\r
+\r
+The gold is the scar. This is me.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
