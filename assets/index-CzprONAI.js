@@ -1301,7 +1301,7 @@ That dumb fucking bitch. BCPD is Baltimore\\'s finest, but that ain\\'t saying m
 \r
 Just like that, I caught another charge: *Using an Alias.* I didn't use an alias. She just didn't know how to read. Welcome to the system.\r
 \r
-They led me into the holding cell. At Central Booking, everyone waits in the tank. When they process your paperwork, they slide the charge sheet under the door. Every time a paper slides under, everyone gathers around to see what you’re in for. It's the only entertainment in the room.\r
+They led me into the holding cell. At Central Booking, everyone waits in the tank. When they process your paperwork, they slide the charge sheet under the door. Every time a paper slides under, everyone gathers around to see what you’re in for. It\\'s the only entertainment in the room. It also lets everyone know who\\'s who in the zoo.\r
 \r
 While I was waiting, a guy walked up to me. He looked me up and down.\r
 \r
