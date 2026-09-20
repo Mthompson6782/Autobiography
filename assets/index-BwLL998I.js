@@ -85,11 +85,11 @@ The gold is the scar. This is me.\r
 \r
 If you want to understand the machine, you have to look at the factory where it was built.\r
 \r
-My factory was a row house on Williams Street, right in the Federal Hill neighborhood of Baltimore. My grandfather, Jim, a career railroad man and Air Force Veteran from WW2, bought the place with a GI loan for three thousand dollars. Jim was a physically large man. 6'2" with a thick frame. Even into his 80s he was hunting and pulling deer out of the woods in West Virginia. Jim would go to sleep at sundown or 7 o'clock. Whichever came first. Then he would be up the next morning at 4:30 a.m. He was a man of incredible routine. He walked or rode the train everywhere. I don't think he ever actually got a driver's license. \r
+My factory was a row house on Williams Street, right in the Federal Hill neighborhood of Baltimore. My grandfather, Jim, a career railroad man and Air Force Veteran from WW2, bought the place with a GI loan for three thousand dollars. Jim was a physically large man. 6'2" with a thick frame. Even into his 80s he was hunting and pulling deer out of the woods in West Virginia. Jim would go to sleep at sundown or 7 o'clock. Whichever came first. Then he would be up the next morning at 4:30 a.m. He was a man of incredible routine. He walked or rode the train everywhere. I don't think he ever actually got a driver's license.\r
 \r
-Today, Federal Hill is gentrified and expensive - a playground of high-end bistros and young professionals. Back then, it was just Baltimore - working-class, gritty, and smelling faintly of McCormick’s spices drifting off the harbor. On humid days, the air was heavy with the sweet, sharp scent of cinnamon and nutmeg, a bizarre, pleasant mask over the city's harder realities.\r
+Today, Federal Hill is gentrified and expensive - a playground of high-end bistros and young professionals. Back then, it was just Baltimore - working-class, gritty, and smelling faintly of McCormick's spices drifting off the harbor. On humid days, the air was heavy with the sweet, sharp scent of cinnamon and nutmeg, a bizarre, pleasant mask over the city's harder realities.\r
 \r
-But inside that house, the smell of McCormick’s was always overpowered by the smell of bleach and the occasional ammonia - my grandmother’s preferred cleaning products.\r
+But inside that house, the smell of McCormick's was always overpowered by the smell of bleach and the occasional ammonia - my grandmother's preferred cleaning products.\r
 \r
 That was Pauline.\r
 \r
@@ -111,7 +111,7 @@ I figured out the transaction early. It was a simple, elegant math problem: if I
 \r
 I remember my first-grade teacher at Thomas Johnson School 84, Ms. Krinsky. She was so kind, and to me, she looked like an absolute angel. I could read and write long before I ever stepped foot in a classroom, so when she had us write stories, I poured everything I had into them. She thought I was incredibly creative, and she gave me the warm, unconditional praise I had never once heard inside the walls of my own home.\r
 \r
-That was the spark. I felt an addictive, intoxicating rush of validation surge through my system. I realized that while my mother’s affection was an empty drawer, I could purchase attention and care from the world with sheer academic performance. It drove an obsession with learning and data consumption that never stopped. Decades later, when I was taking my own daughter to that exact same elementary school, I ran into Ms. Krinsky again. After all those years, she still remembered the stories I wrote in her first-grade class.\r
+That was the spark. I felt an addictive, intoxicating rush of validation surge through my system. I realized that while my mother's affection was an empty drawer, I could purchase attention and care from the world with sheer academic performance. It drove an obsession with learning and data consumption that never stopped. Decades later, when I was taking my own daughter to that exact same elementary school, I ran into Ms. Krinsky again. After all those years, she still remembered the stories I wrote in her first-grade class.\r
 \r
 When I walked through the split entryway of the Williams Street house, past the hallway that led upstairs, I would head straight into the living room. That room was sacred. It was where the tree went at Christmas, and more importantly, it was where the encyclopedias sat. They were bound in thick, heavy black leather with gold leaf lettering down the spines.\r
 \r
@@ -152,8 +152,6 @@ Pauline went straight to the school, marched into the building, and confronted M
 It wasn't an idle threat. Pauline had the kind of presence that made you believe every word she said. She put the fear of God into that woman. From that day forward, Ms. Parsons never crossed me again. In fact, for years as I grew older, whenever I saw Ms. Parsons, she would smile nervously and say, "Say hi to your grandmother for me! Tell her how wonderful she is!"\r
 \r
 Pauline taught me that violence - or the credible threat of it - could create boundaries when the system failed to protect you.\r
-\r
----\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
