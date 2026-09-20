@@ -1344,7 +1344,7 @@ But here I sat.\r
 \r
 They strip you down when you go into BCDC. They don't call it Baltimore City Detention Center on the inside; everyone just calls it Castle Grayskull. \r
 \r
-I was standing there stripped bare for intake, and I remember the booking officer—the same fat hog who couldn't spell my name right—went and got her friend. They stood there and ogled me together. At six-foot-three and two hundred and sixty-five pounds of pure pharmaceutical muscle, I was an anomaly in their world. \r
+I was standing there stripped bare for intake, and I remember the intake officer—a different obese, bald-headed Black woman—went and got her friend. They stood there and ogled me together. At six-foot-three and two hundred and sixty-five pounds of pure pharmaceutical muscle, I was an anomaly in their world. \r
 \r
 They kept me locked up in solitary in the beginning. They said I was a "threat to myself and others." Because of my charges, they figured I was going to roid rage and do some crazy shit. \r
 \r
