@@ -113,7 +113,7 @@ I remember my first-grade teacher at Thomas Johnson School 84, Ms. Krinsky. She 
 \r
 That was the spark. I felt that rush of validation. I realized that while my mother's affection was an empty drawer, I could get attention and care from the world with school. It drove an obsession with learning that never stopped. Decades later, when I was taking my own daughter to that exact same elementary school, I ran into Ms. Krinsky again. After all those years, she still remembered the stories I wrote in her first-grade class.\r
 \r
-When I walked through the split entryway of the Williams Street house, past the hallway that led upstairs, I would head straight into the living room. That room was sacred. It was where the tree went at Christmas, and more importantly, it was where the encyclopedias sat. They were bound in thick, heavy black leather with gold leaf lettering down the spines.\r
+When I walked through the split entryway of the Williams Street house, past the hallway that led upstairs, I would head straight into the living room. That room was sacred. It was where the tree went at Christmas, and more importantly, it was where the encyclopedias sat. They were old World Book encyclopedias. Red. Gold lettering down the spines.\r
 \r
 I didn't just look at the pictures. I sat on the floor, my back pressed against the cool wood of the baseboards, and read those encyclopedias cover to cover. I learned about functional systems, thermodynamics, ancient history, and anatomy. I built an entire worldview out of those bound pages while the gas stove hissed in the kitchen and the smell of bleach hung in the air.\r
 \r
@@ -131,7 +131,7 @@ I looked up at my grandmother and told her exactly what I was seeing. "Pauline, 
 \r
 Pauline, the tough, no-bullshit woman who ruled the house with an iron fist and a bottle of bleach, broke down. She started crying. It is a terrifying thing for a child to see the strongest person in their world cry. She knew how sick I was. She knew the hallucination meant the fever was winning, that my brain was boiling, and that my body was on the verge of total failure.\r
 \r
-I survived the TB, obviously. The fever eventually broke, the little chickens disappeared back into the broth, and the Williams Street house resumed its normal operations.\r
+I survived the TB, obviously. I did a stint in Mercy Hospital while they treated me. I remember having to take that blood-red disgusting medicine. I don't remember how long I was in there, but it felt like forever to a little boy. The fever eventually broke, the little chickens disappeared back into the broth, and the Williams Street house went back to its normal operations.\r
 \r
 But I never forgot it. The mind can absorb encyclopedias and build whole worlds. It is still housed in a body that can fail.\r
 \r
