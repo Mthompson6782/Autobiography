@@ -993,7 +993,7 @@ I blinked. I was active-duty military. I had a security clearance, and I was wor
 \r
 The giant let out a booming laugh, waving his hand. "Military testing is simple logic, my friend. They test for recreational drugsΓÇöcocaine, weed, speed. Anabolic testing is very expensive. They do not run those panels unless they suspect you. And even then, some compounds have clearing times of only a few days. You just need to know the mathematics of the cycle."\r
 \r
-He reached into his pocket, pulled out a small pen, and grabbed a paper napkin off the table. He scribbled a secure, encrypted email address and a name in block letters.\r
+He reached into his pocket, pulled out a small pen, and grabbed a paper napkin off the table. He scribbled a physical address and a name in block letters.\r
 \r
 He slid the napkin across the wet wood to me. \r
 \r
@@ -1056,19 +1056,19 @@ I began rummaging through the contents: old technical manuals for the C-130, uni
 \r
 I pulled it out. It was a faded, Singha-beer-spattered paper napkin from Pattaya, Thailand.\r
 \r
-On it, written in bold, block letters that had slightly bled into the cheap fibers, was the name: *SPARTAK TODOROV*. Below it was an encrypted secure email address.\r
+On it, written in bold, block letters that had slightly bled into the cheap fibers, was the name: *SPARTAK TODOROV*. Below it was a physical mailing address.\r
 \r
 I sat there on the cold concrete basement floor, staring at the napkin. The memories of that hot Muay Thai bar, the smell of Thai liniment, and the genetically engineered Bulgarian giant came flooding back. I remembered Spartak’s words: *If you ever want to see what your chassis is truly capable of, write me.*\r
 \r
-My brain, trained in systems and risk mitigation, immediately began a calculation. In the streets of West Baltimore, if you wanted to acquire a high-value asset, you had to deal with volatile, armed street dealers who would shoot you over a transaction error. But the modern cyber landscape was changing. This note was an invitation to bypass the street-level noise entirely. I had a direct, uncorrupted link to a primary manufacturing node in Eastern Europe. \r
+My brain, trained in systems and risk mitigation, immediately began a calculation. In the streets of West Baltimore, if you wanted to acquire a high-value asset, you had to deal with volatile, armed street dealers who would shoot you over a transaction error. But this note was an invitation to bypass the street-level noise entirely. I had a direct, uncorrupted link to a primary manufacturing node in Eastern Europe. \r
 \r
 It was pure efficiency. The market in Baltimore had a massive, unfulfilled demand for pharmaceutical-grade hormones, and I had the ultimate supply line.\r
 \r
-I walked upstairs, turned on my bulky desktop computer, and listened to the dial-up modem handshake - the digital squeal, static, and hiss of the phone line connecting to the internet. I downloaded a secure web-browser, navigated to the encrypted Hushmail portal, and registered a new, anonymous account.\r
+I walked upstairs, grabbed a pen and paper, and wrote a brief, simple letter. \r
 \r
-I typed a brief, sterile message: *Spartak. This is Michael from the Pattaya bar. I am ready to see what the chassis can do.*\r
+*Spartak. This is Michael from the Pattaya bar. I am ready.*\r
 \r
-I hit send. The digital packet left my Baltimore computer, routed through secure nodes across the Atlantic, and initialized the sequence that would rewrite my entire future.\r
+I folded the letter, slipped it into an envelope, and wrote down the physical address from the napkin. I dropped it in the mail, sending it off across the Atlantic. That single piece of postage initialized the sequence that would rewrite my entire future.\r
 \r
 ---\r
 \r
