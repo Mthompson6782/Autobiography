@@ -319,9 +319,9 @@ You don't survive a place like South Baltimore alone. You survive in packs.\r
 \r
 My pack was a collection of kids who were all navigating the same broken geometry of the city. We were the products of rowhouses, working-class struggle, and the violent, unforgiving logic of the streets.\r
 \r
-At the center of it all was my best friend, Mike.\r
+At the center of our pack was Mike.\r
 \r
-Mike was the Paratrooper's son. Like his father, he was a bit of a brute - thick-necked, solid, and entirely comfortable in the middle of a melee. We didn't become friends through shared interests or polite introductions; we became friends through a 7th-grade schoolyard scuffle. Mike was supposed to be the tough guy on the playground, a reputation he guarded fiercely. I walked up to him during recess. I said, "You the new tough guy?" and before he could say anything I swept his legs out from under him with a rapid, clean sweep, and put him flat on his back in the dirt. We have been friends for almost 40 years, and he still remembers that as a cheap shot and gives me shit to this day.\r
+Like his dad, the Paratrooper, Mike was a bit of a brute - thick-necked, solid, and entirely comfortable in the middle of a melee. Even though we were inseparable, we hadn't become friends through shared interests or polite introductions; we became friends through a 7th-grade schoolyard scuffle. Mike was supposed to be the tough guy on the playground, a reputation he guarded fiercely. I walked up to him during recess. I said, "You the new tough guy?" and before he could say anything I swept his legs out from under him with a rapid, clean sweep, and put him flat on his back in the dirt. We have been friends for almost 40 years, and he still remembers that as a cheap shot and gives me shit to this day.\r
 \r
 Instead of getting up and trying to kill me, Mike lay there in the dust, looked up at me with a slow, analyzing grin, and asked, "Do you fish?"\r
 \r
