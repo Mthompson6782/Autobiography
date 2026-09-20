@@ -1220,7 +1220,7 @@ I was wrong. \r
 \r
 Incrementalism was my downfall.\r
 \r
-It didn't start as a criminal empire. It started small and transactional. I bought a few vials of Test. A pack of Anadrol, some Deca, Dianabol. Eventually, some HGH. I was treating my body like a science experiment, mixing compounds to see what I responded to.\r
+It didn't start as a criminal empire. It started small and transactional. I bought a few vials of Test. A pack of Anadrol, some Deca, Dianabol. Eventually, some HGH. I was treating my body like a science experiment, mixing compounds to see what I responded to. I had even learned how to buy Trenbolone Acetate meant for bovine use, extract the cattle pellets, separate the binder, and purify it into top-notch liquid Tren. I never sold it—it was strictly for my own personal use—but that little home-chemistry experiment was exactly how they eventually managed to slap me with a \\'Manufacturing\\' charge.\r
 \r
 The results were undeniable. I grew into a monster. I had a 54-inch chest. I was walking around at 6'3", 265 pounds of lean, steroided mass. People who hadn't seen me in a while stopped staring at my face and started staring at my silhouette. Girls at the mall would stop me and ask if I was real, or if I was wearing some kind of muscle suit under my clothes.\r
 \r
