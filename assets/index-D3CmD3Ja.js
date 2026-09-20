@@ -241,61 +241,55 @@ But Brooklyn left its mark. Sometimes the world isn’t cleanly divided into goo
 \r
 # Chapter 4: Peeling Ears with the Paratrooper\r
 \r
-> *STATUS: DRAFTED - pending review.*\r
+> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
+By the time I was twelve, my environment shifted. I moved out of Pauline's house and went to live exclusively with my dad on Johnson Street.\r
 \r
-By the time I was twelve years old, my environment shifted. I moved out of the matriarchal order of Pauline's house and went to live exclusively with my dad on Johnson Street.\r
+Johnson Street was different. It was a place where boys had to figure out how to become men, usually through trial and error. My best friend, Mike, lived just a few blocks away on Light Street. Mike and I were inseparable.\r
 \r
-Johnson Street was a different ecosystem. It was a place where boys had to figure out how to become men, usually through trial and error. My best friend, Mike, lived just a few blocks away on Light Street. Mike and I were inseparable, navigating the neighborhood together.\r
+But the real education didn't come from the streets. It came from Mike's living room.\r
 \r
-But the real education didn't come from the streets; it came from Mike's living room.\r
+Mike's dad, Mr. Hammonds, was an Army paratrooper who had served during the mid-80s. He wasn't some towering action hero. He was short and stout, the kind of guy who smiled often — but it was a smile that thinly veiled the violence he was capable of. He was a genuinely nice guy, but he absolutely wasn't the "ask twice" kind of guy. Sometimes he didn't ask once. I remember one afternoon Mike and I were in his room fixing a bike tire, and Mike had his stereo playing too loud. Instead of yelling for us to turn it down, Mr. Hammonds walked down the hall and kicked a massive hole straight through Mike's bedroom door. Message received.\r
 \r
-Mike's dad, Mr. Hammonds, was an Army Paratrooper who had served during the mid-80s. He wasn't some towering, angular action hero. He was short and stout, the kind of guy who smiled often - but it was a smile that thinly veiled the extreme violence he was capable of unleashing. He was a genuinely nice guy, but he absolutely wasn't the "ask twice" kind of guy. In fact, sometimes he didn't ask once. I remember one afternoon Mike and I were in his room fixing a bike tire, and Mike had his stereo playing too loud. Instead of yelling for us to turn it down, Mr. Hammonds simply walked down the hall and kicked a massive hole straight through Mike's bedroom door. Message received.\r
+When he wasn't kicking in doors, he sat in a cracked vinyl recliner in their narrow rowhouse living room. Mike and I would sit on the carpet at his feet, twelve years old, looking up at him.\r
 \r
-When he wasn't kicking in doors, he spent his evenings sitting in a cracked, rust-brown vinyl recliner in their narrow rowhouse living room. \r
-Mike and I would sit on the threadbare orange carpet at his feet, our twelve-year-old knees pulled up to our chins, looking up at him like disciples waiting for a sermon. He didn't yell. He didn't boast. When he spoke of violence, he spoke with the quiet, terrifying neutrality of a mechanic explaining how to change a spark plug.\r
+He didn't yell. He didn't boast. When he spoke of fighting, he talked like a man explaining a tool.\r
 \r
-"You boys think fighting is about showing how tough you are," he said one rainy Tuesday, his voice a low, gravelly rumble. "You think it's about standing square, trading punches like the guys on TV, seeing who's got the hardest jaw. That's playground bullshit. That's how you get your head cracked open on the asphalt."\r
+"You boys think fighting is about showing how tough you are," he said. "You think it's about standing square, trading punches like the guys on TV. That's playground bullshit. That's how you get your head cracked open."\r
 \r
-"In the real world, if you find yourself in a physical altercation, you are in a survival scenario. The moment another man puts his hands on you, he has declared his intent to do you harm. Your job is to shut him down. You don't trade blows. You bypass his willpower by attacking his mechanics."\r
+"If another man puts his hands on you, he means to hurt you. You don't trade blows. You shut him down."\r
 \r
-He looked at Mike, then pointed a thick, calloused finger at me. "Come here, Michael."\r
+He looked at Mike, then pointed at me. "Come here, Michael."\r
 \r
-I stood up, my pulse quickening, and walked over to the edge of the recliner. Mr. Hammonds didn't stand up. He didn't need to. He reached out with a hand that felt like warm sandpaper and gripped my shoulder, his thumb pressing lightly but firmly into the nerve cluster right behind my collarbone. A sharp, icy shoot of pain went down my arm, and my knees instinctively buckled.\r
+I stood up and walked over to the recliner. He didn't stand. He didn't need to. He gripped my shoulder, thumb in behind the collarbone, and a sharp pain shot down my arm. My knees buckled.\r
 \r
-"Let's say a guy gets close enough to grab your shirt," Mr. Hammonds said, his face inches from mine. I could smell the bitter, stale coffee on his breath. "You don't try to punch him in the ribs. His ribs are protected by muscle and coat fabric. You go for the soft tissue. You go for the ears."\r
+"Let's say a guy gets close enough to grab your shirt," he said. I could smell the coffee on his breath. "You don't punch him in the ribs. You go for the soft tissue. You go for the ears."\r
 \r
-He reached his other hand up and clamped his thumb and forefinger onto the top ridge of my left ear. He didn't squeeze hard, but the cold precision of his grip was absolute.\r
+He pinched the top of my left ear. He didn't crank it. He didn't have to.\r
 \r
-"Anatomically, the human ear is just a flap of cartilage held to the skull by skin and a few thin bands of muscle," he explained, his tone completely academic, as if he were lecturing a biology class. "It has no structural defense. If you grip the ear right where it meets the temple, clamp your fingers like a pair of vise-grips, and rip downward and outward in a single, violent shear - " He gave my ear a tiny, fraction-of-an-inch tug, and the sudden, burning white flash of pain made my teeth chatter. " - you will peel the entire structure clean off his head. Cartilage doesn't stretch, boys. It tears. It makes a sound like wet cardboard ripping in half."\r
+He told us what an ear actually is — cartilage and skin, no real defense — and what happens if you rip it. He gave it a tiny tug. White flash of pain. Teeth chattering.\r
 \r
-He let go of my ear, and the skin instantly throbbed with hot, radiating blood. I stood there, rubbing my neck, staring at him in a mixture of horror and clinical fascination.\r
+"When you peel a man's ear off," he said, "that will take the fight right out of them."\r
 \r
-"When you peel a man's ear off," Mr. Hammonds continued, picking his oily rag back up, "that will take the fight right out of them."\r
+Mike, from the floor: "What if they pin your arms, Dad?"\r
 \r
-Mike nodded solemnly from the floor, his eyes wide. "What if they pin your arms, Dad?"\r
+"You still have your jaw. If a man has you wrapped up, his face is close. You bite the tip of his nose off. Doesn't matter how big he is. He's going to let go."\r
 \r
-"If your arms are pinned, you still have your jaw," Mr. Hammonds said, his eyes cutting back to his son. "If a man has you wrapped up, his face is going to be close to yours. You lean in, you open your mouth, and you bite the tip of his nose off."\r
+He sat with that a second.\r
 \r
-He gestured to his own nose. "If you sink your teeth in and tear it off, that will take the fight right out of them, too. It doesn't matter how big he is. He's going to let go."\r
+"This isn't about being mean, and it isn't about showing off. If you have to fight, you end it. Peel the ear. Bite the nose. Survive." He taught us how to choke a man. He showed us how to break a collarbone. It was way better than a bullshit McDojo karate class.\r
 \r
-He paused, letting the weight of the words settle in the quiet room. The rain beat a steady, soft rhythm against the windowpane, and the blue flames of our own stove felt miles away.\r
+I went back to my spot on the carpet, ear still burning, and I stored it.\r
 \r
-"This isn't about being mean, and it isn't about showing off," the Paratrooper said, his voice dropping to a low, quiet promise. "It is about efficiency. If you are forced to fight, you fight to end it in the first three seconds. You inflict such disproportionate, horrifying damage to their body that they lose the capacity and the will to continue. Peel the ear. Bite the nose. Survive. Remember the math." He taught us how to choke someone out or to death. He showed us how to break collarbones. It was way better than taking a bullshit McDojo karate class.\r
+To Mr. Hammonds the body had places you could break that ended the fight. I didn't need it explained twice.\r
 \r
-I went back to my spot on the orange carpet, my ear still burning, my mind downloading the data.\r
+Between Pauline's rage and the paratrooper's living room, I was getting an education I did not have a name for yet.\r
 \r
-It was a clinical, unsentimental approach to violence. It bypassed emotion, pride, and playground rules, and went straight to systems-level effectiveness. To Mr. Hammonds, the human body was just a machine with predictable stress points and override switches. If you pressed the right switch, the machine stopped working.\r
+I was going to need it.\r
 \r
-I stored the information.\r
-\r
-Between Pauline's protective, maternal rage and the Paratrooper's cold, tactical anatomy lessons, I was building a sophisticated operating system for survival. I was learning to view the world through a dual lens: the high-vigilance threat assessment of the streets, and the systematic, mechanical analysis of a process engineer. I didn't know it yet, but I was going to need every single scrap of data they gave me.\r
-\r
-Because North Avenue was waiting.\r
-\r
----\r
+North Avenue was waiting.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
