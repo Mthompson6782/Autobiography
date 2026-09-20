@@ -264,13 +264,10 @@ But the real education didn't come from the streets; it came from Mike's living 
 \r
 Mike's dad, Mr. Hammonds, was an Army Paratrooper who had served during the mid-80s. He wasn't some towering, angular action hero. He was short and stout, the kind of guy who smiled often - but it was a smile that thinly veiled the extreme violence he was capable of unleashing. He was a genuinely nice guy, but he absolutely wasn't the "ask twice" kind of guy. In fact, sometimes he didn't ask once. I remember one afternoon Mike and I were in his room fixing a bike tire, and Mike had his stereo playing too loud. Instead of yelling for us to turn it down, Mr. Hammonds simply walked down the hall and kicked a massive hole straight through Mike's bedroom door. Message received.\r
 \r
-When he wasn't kicking in doors, he spent his evenings sitting in a cracked, rust-brown vinyl recliner in their narrow rowhouse living room. The air in that room was always thick - a dense, yellowed cocktail of Hoppe’s No. 9 gun oil, stale Pall Mall tobacco smoke, and the damp, metallic draft rising from the cellar stairs.\r
-\r
+When he wasn't kicking in doors, he spent his evenings sitting in a cracked, rust-brown vinyl recliner in their narrow rowhouse living room. \r
 Mike and I would sit on the threadbare orange carpet at his feet, our twelve-year-old knees pulled up to our chins, looking up at him like disciples waiting for a sermon. He didn't yell. He didn't boast. When he spoke of violence, he spoke with the quiet, terrifying neutrality of a mechanic explaining how to change a spark plug.\r
 \r
-"You boys think fighting is about showing how tough you are," he said one rainy Tuesday, his voice a low, gravelly rumble as he slowly wiped down the steel slide of a disassembled Colt .45 with an oily rag. The clean, chemical scent of the solvent stung our nostrils. "You think it’s about standing square, trading punches like the guys on TV, seeing who’s got the hardest jaw. That’s playground bullshit. That’s how you get your head cracked open on the asphalt."\r
-\r
-He set the slide down on a sheet of newspaper, the metal clinking softly against the glass tabletop, and leaned forward. The springs in the vinyl recliner groaned under his weight.\r
+"You boys think fighting is about showing how tough you are," he said one rainy Tuesday, his voice a low, gravelly rumble. "You think it's about standing square, trading punches like the guys on TV, seeing who's got the hardest jaw. That's playground bullshit. That's how you get your head cracked open on the asphalt."\r
 \r
 "In the real world, if you find yourself in a physical altercation, you are in a survival scenario. The moment another man puts his hands on you, he has declared his intent to do you harm. Your job is to shut him down. You don't trade blows. You bypass his willpower by attacking his mechanics."\r
 \r
@@ -278,7 +275,7 @@ He looked at Mike, then pointed a thick, calloused finger at me. "Come here, Mic
 \r
 I stood up, my pulse quickening, and walked over to the edge of the recliner. Mr. Hammonds didn't stand up. He didn't need to. He reached out with a hand that felt like warm sandpaper and gripped my shoulder, his thumb pressing lightly but firmly into the nerve cluster right behind my collarbone. A sharp, icy shoot of pain went down my arm, and my knees instinctively buckled.\r
 \r
-"Let’s say a guy gets close enough to grab your shirt," Mr. Hammonds said, his face inches from mine. I could smell the bitter, stale coffee on his breath. "You don't try to punch him in the ribs. His ribs are protected by muscle and coat fabric. You go for the soft tissue. You go for the ears."\r
+"Let's say a guy gets close enough to grab your shirt," Mr. Hammonds said, his face inches from mine. I could smell the bitter, stale coffee on his breath. "You don't try to punch him in the ribs. His ribs are protected by muscle and coat fabric. You go for the soft tissue. You go for the ears."\r
 \r
 He reached his other hand up and clamped his thumb and forefinger onto the top ridge of my left ear. He didn't squeeze hard, but the cold precision of his grip was absolute.\r
 \r
