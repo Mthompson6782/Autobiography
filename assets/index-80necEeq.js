@@ -85,61 +85,59 @@ The gold is the scar. This is me.\r
 \r
 If you want to understand the machine, you have to look at the factory where it was built.\r
 \r
-My factory was a row house on Williams Street, right in the Federal Hill neighborhood of Baltimore. My grandfather, Jim, a career railroad man and Air Force Veteran from WW2, bought the place with a GI loan for three thousand dollars. Jim was a physically large man. 6'2" with a thick frame. Even into his 80s he was hunting and pulling deer out of the woods in West Virginia. Jim would go to sleep at sundown or 7 o'clock. Whichever came first. Then he would be up the next morning at 4:30 a.m. He was a man of incredible routine. He walked or rode the train everywhere. I don't think he ever actually got a driver's license.\r
+My factory was a row house on Williams Street, right in the Federal Hill neighborhood of Baltimore. My grandfather, Jim, a career railroad man and Air Force veteran from WWII, bought the place with a GI loan for three thousand dollars. Jim was a physically large man. 6'2" with a thick frame. Even into his 80s he was hunting and pulling deer out of the woods in West Virginia. Jim would go to sleep at sundown or 7 o'clock. Whichever came first. Then he would be up the next morning at 4:30 a.m. He was a man of incredible routine. He walked or rode the train everywhere. I don't think he ever actually got a driver's license.\r
 \r
-Today, Federal Hill is gentrified and expensive - a playground of high-end bistros and young professionals. Back then, it was just Baltimore - working-class, gritty, and smelling faintly of McCormick's spices drifting off the harbor. On humid days, the air was heavy with the sweet, sharp scent of cinnamon and nutmeg, a bizarre, pleasant mask over the city's harder realities.\r
+Today, Federal Hill is gentrified and expensive — a playground of high-end bistros and young professionals. Back then, it was just Baltimore — working-class, gritty, and smelling faintly of McCormick's spices drifting off the harbor. On humid days, the air was heavy with the sweet, sharp scent of cinnamon and nutmeg, a bizarre, pleasant mask over the city's harder realities.\r
 \r
-But inside that house, the smell of McCormick's was always overpowered by the smell of bleach and the occasional ammonia - my grandmother's preferred cleaning products.\r
+But inside that house, the smell of McCormick's was always overpowered by the smell of bleach and the occasional ammonia — my grandmother's preferred cleaning products.\r
 \r
 That was Pauline.\r
 \r
-Pauline Sutherland was my maternal grandmother. She was a tiny, dark-skinned woman with high cheekbones and thick lips - my mother and I both look like her - and a presence that demanded absolute respect. She suffered no fools and took no bullshit. When you saw her ball up her fist, bite her tongue, and draw in a slow, silent breath, you knew what time it was. Someone was about to get an ass-whipping, and you just prayed it wasn't you. I was mostly good but caught the occasional ass-whipping. She had a little plastic chandelier in her living room. I found out the individual ornaments looked like little swords. I sat there throwing a pillow up in the air knocking them off. Needless to say, when she found me it wasn't an 'oh that's so sweet,' it was 'I'm gonna beat your little ass!'\r
+Pauline Sutherland was my maternal grandmother. She was a tiny, dark-skinned woman with high cheekbones and thick lips — my mother and I both look like her — and a presence that demanded absolute respect. She suffered no fools and took no bullshit. When you saw her ball up her fist, bite her tongue, and draw in a slow, silent breath, you knew what time it was. Someone was about to get an ass-whipping, and you just prayed it wasn't you. I was mostly good but caught the occasional ass-whipping. She had a little plastic chandelier in her living room. I found out the individual ornaments looked like little swords. I sat there throwing a pillow up in the air knocking them off. Needless to say, when she found me it wasn't an "oh that's so sweet," it was "I'm gonna beat your little ass!"\r
 \r
-She kept that house incredibly clean. The kitchen had black and white linoleum tiles, polished until they shone like glass. In the winter, when the old radiators clanked and shivered, the natural gas stove was always left on, its pale blue flames hissing quietly to provide auxiliary heat. It was a house defined by its rules, its cleanliness, and the undeniable gravity of my grandmother.\r
+She kept that house incredibly clean. The kitchen had black and white linoleum tiles, polished until they shone like glass. In the winter, when the old radiators clanked and shivered, the natural gas stove was always left on, its pale blue flames hissing quietly to provide auxiliary heat. It was a house defined by its rules, its cleanliness, and my grandmother.\r
 \r
 I spent a lot of time with Pauline because my own mother wasn't cut out for the job.\r
 \r
-My mother was young, and she simply lacked those natural maternal instincts at that stage of life. Our relationship was complicated, mostly because it barely existed. She was a drinker. I rarely saw her; she was almost always in the bars. She would play the part of a loving mother to the outside world and talk fondly of me, but in reality, her actions never backed it up. She was a shadow in my life from childhood on. I never felt like she actually wanted to be there. When she looked at me, I didn't see warmth or connection; I saw the cold, flat gaze of a woman who viewed my existence as a mechanical inconvenience she hadn't planned for.\r
+My mother was young, and she simply lacked those natural maternal instincts at that stage of life. Our relationship was complicated, mostly because it barely existed. She was a drinker. I rarely saw her; she was almost always in the bars. She would play the part of a loving mother to the outside world and talk fondly of me, but in reality, her actions never backed it up. She was a shadow in my life from childhood on. I never felt like she actually wanted to be there. When she looked at me, I didn't see warmth or connection. I saw a woman who viewed my existence as something she hadn't planned for.\r
 \r
 Years later, my mother died of pancreatic cancer. It ate her away to absolutely nothing. Seeing her at the end of her life was a massive gut punch. After all, she was my mother. She gave me life. She sucked at parenting, but whatever. Seeing her in those final days gave me an unimaginable amount of pain. I got all the pain of watching her die, without any of the good memories to balance it out. How fucked up is that?\r
 \r
-It was at her funeral that the stark reality of my bloodline was put into sharp focus. My aunt's boyfriend - a guy who knew both my mother and my father back in the day - was introducing me to some people at the service. He was talking about what I had accomplished and how smart I was. He paused, looked at me, and then told them point-blank that he had absolutely no idea where my intelligence came from, considering who my parents were. He wasn't trying to be cruel; he was just stating a mathematical fact. The inputs didn't match the outputs.\r
+It was at her funeral that the stark reality of my bloodline was put into sharp focus. My aunt's boyfriend — a guy who knew both my mother and my father back in the day — was introducing me to some people at the service. He was talking about what I had accomplished and how smart I was. He paused, looked at me, and then told them point-blank that he had absolutely no idea where my intelligence came from, considering who my parents were. He wasn't trying to be cruel; he was just stating a mathematical fact. The inputs didn't match the outputs.\r
 \r
-When you are a kid, realizing your mother doesn't want you can break you. It leaves a hollow space in your core, a systemic deficit that most people spend their entire lives trying to fill with alcohol, drugs, or toxic relationships. But for me, the deficit did something else. Looking back, that absence became a strange kind of superpower. Because I didn't have a mother looking out for me at home, I sought out motherly love from the women I encountered in the world - mostly my teachers.\r
+When you are a kid, realizing your mother doesn't want you can break you. It leaves a hollow space most people spend their entire lives trying to fill with alcohol, drugs, or toxic relationships. For me, that absence did something else. Because I didn't have a mother looking out for me at home, I sought out motherly love from the women I encountered in the world — mostly my teachers.\r
 \r
-I figured out the transaction early. It was a simple, elegant math problem: if I was smart, if I performed, they would care about me.\r
+I figured it out early. If I was smart, if I performed, they would care about me.\r
 \r
-I remember my first-grade teacher at Thomas Johnson School 84, Ms. Krinsky. She was so kind, and to me, she looked like an absolute angel. I could read and write long before I ever stepped foot in a classroom, so when she had us write stories, I poured everything I had into them. She thought I was incredibly creative, and she gave me the warm, unconditional praise I had never once heard inside the walls of my own home.\r
+I remember my first-grade teacher at Thomas Johnson School 84, Ms. Krinsky. She was so kind, and to me she looked like an absolute angel. I could read and write long before I ever stepped foot in a classroom, so when she had us write stories, I poured everything I had into them. She thought I was incredibly creative, and she gave me the warm praise I had never once heard inside the walls of my own home.\r
 \r
-That was the spark. I felt an addictive, intoxicating rush of validation surge through my system. I realized that while my mother's affection was an empty drawer, I could purchase attention and care from the world with sheer academic performance. It drove an obsession with learning and data consumption that never stopped. Decades later, when I was taking my own daughter to that exact same elementary school, I ran into Ms. Krinsky again. After all those years, she still remembered the stories I wrote in her first-grade class.\r
+That was the spark. I felt that rush of validation. I realized that while my mother's affection was an empty drawer, I could get attention and care from the world with school. It drove an obsession with learning that never stopped. Decades later, when I was taking my own daughter to that exact same elementary school, I ran into Ms. Krinsky again. After all those years, she still remembered the stories I wrote in her first-grade class.\r
 \r
 When I walked through the split entryway of the Williams Street house, past the hallway that led upstairs, I would head straight into the living room. That room was sacred. It was where the tree went at Christmas, and more importantly, it was where the encyclopedias sat. They were bound in thick, heavy black leather with gold leaf lettering down the spines.\r
 \r
-I didn't just look at the pictures. I sat on the floor, my back pressed against the cool wood of the baseboards, and read those encyclopedias cover to cover. I consumed data. I learned about functional systems, thermodynamics, ancient history, and anatomy. I built an entire worldview out of those bound pages, downloading facts and structures into my brain while the gas stove hissed in the kitchen and the smell of bleach hung in the air.\r
+I didn't just look at the pictures. I sat on the floor, my back pressed against the cool wood of the baseboards, and read those encyclopedias cover to cover. I learned about functional systems, thermodynamics, ancient history, and anatomy. I built an entire worldview out of those bound pages while the gas stove hissed in the kitchen and the smell of bleach hung in the air.\r
 \r
-But a young brain running that hot is fragile, and the physical environment of Baltimore in that era wasn't kind.\r
+But a young brain running that hot is fragile, and Baltimore in that era wasn't kind.\r
 \r
-When I was five or six years old, I contracted Tuberculosis.\r
+When I was five or six years old, I contracted tuberculosis.\r
 \r
 TB isn't a modern child's disease. It's an old-world plague. It hollows you out, eats your lungs, and burns through your vitality. I was incredibly sick, fighting a fever that rose so high it warped my grip on reality, turning the familiar kitchen into a surreal landscape of fever dreams.\r
 \r
 I remember sitting at the table in the kitchen, the faint smell of bleach mingling with the warm, salty broth Pauline had placed in front of me. I stared down into the bowl. The surface of the broth started to spin, the oily circles on the surface forming a tight, rapid vortex.\r
 \r
-Suddenly, tiny little chickens - no bigger than pennies, but fully formed and chirping silently - began flying in a spiral, rising right out of the soup, swirling up into the air in front of my face. I watched them in a fever dream, completely entranced by the hallucination.\r
+Suddenly, tiny little chickens — no bigger than pennies, but fully formed and chirping silently — began flying in a spiral, rising right out of the soup, swirling up into the air in front of my face. I watched them in a fever dream, completely entranced.\r
 \r
 I looked up at my grandmother and told her exactly what I was seeing. "Pauline, look at the little chickens. They're flying out of the soup."\r
 \r
 Pauline, the tough, no-bullshit woman who ruled the house with an iron fist and a bottle of bleach, broke down. She started crying. It is a terrifying thing for a child to see the strongest person in their world cry. She knew how sick I was. She knew the hallucination meant the fever was winning, that my brain was boiling, and that my body was on the verge of total failure.\r
 \r
-I survived the TB, obviously. The fever eventually broke, the little chickens disappeared back into the broth, and the Williams Street factory resumed its normal operations.\r
+I survived the TB, obviously. The fever eventually broke, the little chickens disappeared back into the broth, and the Williams Street house resumed its normal operations.\r
 \r
-But I never forgot the lesson. The mind is a powerful machine, capable of absorbing encyclopedias and building complex realities. But it is housed in a physical body that can fail.\r
+But I never forgot it. The mind can absorb encyclopedias and build whole worlds. It is still housed in a body that can fail.\r
 \r
-I learned how to read systems from those books. I learned how to survive from Pauline. And I learned that, eventually, you have to build your own armor, because the people who are supposed to protect you aren't always going to be there. And when your body starts to fail, no one is going to fix it but you.\r
+I learned how to read from those books. I learned how to survive from Pauline. And I learned that, eventually, you have to look out for yourself, because the people who are supposed to protect you aren't always going to be there.\r
 \r
-Let me be clear about Pauline: her strictness wasn't abuse. It was survival.\r
-\r
-She loved me, and that love manifested as an iron-clad demand for discipline. In her house, you did what you were told, and you didn't step out of line. I rarely caught the wrong end of her balled-up fist because I was a good boy. I was smart enough to read the environment and adapt.\r
+Pauline loved me. That love came out as discipline. In her house, you did what you were told, and you didn't step out of line. I rarely caught the wrong end of her balled-up fist because I was a good boy. I was smart enough to read the room.\r
 \r
 But if you were on Pauline's good side, that same ferocity became a shield.\r
 \r
@@ -151,7 +149,7 @@ Pauline went straight to the school, marched into the building, and confronted M
 \r
 It wasn't an idle threat. Pauline had the kind of presence that made you believe every word she said. She put the fear of God into that woman. From that day forward, Ms. Parsons never crossed me again. In fact, for years as I grew older, whenever I saw Ms. Parsons, she would smile nervously and say, "Say hi to your grandmother for me! Tell her how wonderful she is!"\r
 \r
-Pauline taught me that violence - or the credible threat of it - could create boundaries when the system failed to protect you.\r
+Pauline taught me that the credible threat of violence could create boundaries when nobody else would.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
