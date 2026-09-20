@@ -167,6 +167,10 @@ Pauline taught me that violence - or the credible threat of it - could create bo
 \r
 ---\r
 \r
+In my early years, I spent a lot of time being passed around. I lived with my grandparents on and off. My mother and father would get together and try to play house until that shit just fell apart - usually in a cataclysmic eruption of violence.\r
+\r
+I would typically live with my father when my mother ran off. When I was 10 or 11, we moved to Audrey Ave.\r
+\r
 Audrey Avenue was in Brooklyn, a neighborhood in South Baltimore. In the geography of the city, Brooklyn is where you go when you slide. It’s a purgatory of low-cost apartments, chemical tank farms, and a shittier class of people. When you end up in Brooklyn, you are there for one of two reasons: you are there to completely give up and let the city dissolve you, or you are there to get your shit together.\r
 \r
 My dad was trying to get his shit together.\r
