@@ -303,7 +303,7 @@ I stored the information.\r
 \r
 Between Pauline's protective, maternal rage and the Paratrooper's cold, tactical anatomy lessons, I was building a sophisticated operating system for survival. I was learning to view the world through a dual lens: the high-vigilance threat assessment of the streets, and the systematic, mechanical analysis of a process engineer. I didn't know it yet, but I was going to need every single scrap of data they gave me.\r
 \r
-Because Greenmount Avenue was waiting.\r
+Because North Avenue was waiting.\r
 \r
 ---\r
 \r
