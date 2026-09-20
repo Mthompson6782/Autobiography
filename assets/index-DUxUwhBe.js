@@ -1088,11 +1088,15 @@ And just like that, it began.\r
 \r
 ---\r
 \r
-The federal government loves a good narrative. When the prosecutors finally assembled their case against me, they painted a picture of a calculating cartel mastermind who sat down with a blueprinted syndicate design and built a criminal empire from scratch.\r
+Boy, does the federal government love a good narrative. They can put some shit together. Most of it is wrong, and half of it is a lie. \r
 \r
-But the reality of criminal escalation is rarely a grand design. It’s a series of frictionless steps, each one making mathematical sense at the time. I didn't set out to build a multi-state distribution network. I just wanted a discount on my personal gear.\r
+When the prosecutors finally assembled their case against me years later, they painted a picture of a calculating cartel mastermind who sat down with a blueprinted syndicate design and built a criminal empire from scratch. They called me the East Coast, West Coast, and South American wholesale supplier of anabolic steroids. \r
 \r
-After Spartak replied to my first Hushmail message, the transaction was remarkably clean. I wired the funds, and a few weeks later, my first personal order arrived. The quality was flawless. I was running a basic cycle of Testosterone Cypionate, Deca-Durabolin, and Dianabol. \r
+These motherfuckers were just making shit up.\r
+\r
+Admittedly, I\\'m no angel. But the reality of criminal escalation is rarely a grand design. It\\'s a series of frictionless steps, each one making mathematical sense at the time. I didn\\'t set out to build a multi-national distribution network. I just wanted a discount on my personal gear.\r
+\r
+After Spartak reached out via that Ziplip account, the transaction was remarkably clean. I wired the funds, and a few weeks later, my first personal order arrived. The quality was flawless. I was running a basic cycle of Testosterone Cypionate, Deca-Durabolin, and Dianabol. \r
 \r
 The physical sensation of pharmaceutical-grade hormones saturating your system is difficult to articulate. It’s an intoxicating, high-voltage surge of pure physical authority. Within weeks, my strength exploded. I felt like the chassis had finally caught up with the raw horsepower of the engine. I grew into a walking fortress - standing six-foot-three, weighing a lean, dense two hundred and sixty-five pounds, with a fifty-four-inch chest. People stopped looking at my face and started staring at my silhouette. Girls at BWI would stop me on the concourse and ask if I was wearing a muscle suit under my civilian clothes. I felt completely invincible.\r
 \r
