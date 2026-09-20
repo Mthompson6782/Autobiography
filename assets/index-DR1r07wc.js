@@ -1098,7 +1098,9 @@ Admittedly, I\\'m no angel. But the reality of criminal escalation is rarely a g
 \r
 After Spartak reached out via that Ziplip account, the transaction was remarkably clean. I wired the funds, and a few weeks later, my first personal order arrived. The quality was flawless. I was running a basic cycle of Testosterone Cypionate, Deca-Durabolin, and Dianabol. \r
 \r
-The physical sensation of pharmaceutical-grade hormones saturating your system is difficult to articulate. It’s an intoxicating, high-voltage surge of pure physical authority. Within weeks, my strength exploded. I felt like my physical body had finally caught up with the raw horsepower of my brain. I grew into a walking fortress - standing six-foot-three, weighing a lean, dense two hundred and sixty-five pounds, with a fifty-four-inch chest. People stopped looking at my face and started staring at my silhouette. Girls at BWI would stop me on the concourse and ask if I was wearing a muscle suit under my civilian clothes. I felt completely invincible.\r
+When people ask me what the physical sensation of pharmaceutical-grade hormones actually feels like, I tell them it reminds me of that scene in the Bruce Willis movie *Unbreakable* when he learns he has super strength. He just keeps adding weights, and he can still lift the bar. By the end of the scene, he has chains and paint cans hanging off the full rack of weights, and he's still pushing it. \r
+\r
+That’s exactly how I felt. Within weeks, my strength exploded. I stood six-foot-three, weighing a lean, dense two hundred and sixty-five pounds, with a fifty-four-inch chest. The natural plateau was completely gone.\r
 \r
 Then, the market presented an opportunity for optimization.\r
 \r
