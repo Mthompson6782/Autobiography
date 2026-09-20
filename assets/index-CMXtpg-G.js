@@ -1400,7 +1400,7 @@ It was heavy, but it wasn't a coffin. The final tally was a five-year sentence w
 \r
 I walked out of lockup after four months with a federal record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.\r
 \r
-But I had a house. I had a wife. I had my brain.\r
+\r
 \r
 I was on house arrest, but I wasn't dead. The state thought they had permanently sidelined me, turning me into a statistic���another kid from Baltimore who got caught up and ruined his life. They thought the ankle monitor was the end of the story.\r
 \r
