@@ -1118,7 +1118,7 @@ But Spartak was an intelligent businessman. He recognized a highly disciplined, 
 \r
 Slowly, the volume increased. One package a week turned into three. Three turned into ten. Before I fully realized what was happening, the boxes arriving at my Baltimore home were no longer small personal shipments. They were master cartons containing thousands of units of product.\r
 \r
-The delivery mechanisms Spartak utilized to bypass Customs became increasingly intricate, bizarre, and brilliant. \r
+As the packages got bigger, things got a lot more sophisticated. The delivery mechanisms Spartak utilized to bypass Customs became increasingly intricate, bizarre, and brilliant. \r
 \r
 There were no black duffel bags or midnight drop-offs. The shipments originated in Thailand, routed by Bulgarian brokers, and sailed into JFK Airport in New York. The gear was hidden inside seemingly ordinary consumer objects.\r
 \r
