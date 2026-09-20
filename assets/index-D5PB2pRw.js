@@ -1408,7 +1408,9 @@ The feds realized the local case wouldn\\'t hold up under the microscopic scruti
 \r
 The State of Maryland has significantly lower standards.\r
 \r
-I spent about four months locked inside as the case slowly ground its way through the judicial system. If you want to test a man’s psychological resilience, put him in a concrete box for four months while the state tries to figure out how many decades of his life they want to take away.\r
+I spent four months locked inside - from April through July - just trying to get through the bail process. If you want to test a man's psychological resilience, put him in a concrete box for four months while the state tries to figure out how many decades of his life they want to take away.\r
+\r
+I finally made bail in July, getting out of Castle Grayskull to fight the case from the outside. Eventually, the case slowly ground its way through the judicial system and the state prosecutors came to the table.\r
 \r
 Eventually, the state prosecutors came to the table. They knew their case was built on a shaky, corrupt foundation, but they also knew they had the leverage of the system behind them. They gave me an ultimatum.\r
 \r
@@ -1457,7 +1459,7 @@ It was heavy, but it wasn't a coffin. The final tally was a five-year sentence w
 > **Sentence:** Jail Term: 5 Yrs. Suspended Term: 3 Yrs 6 Mos.\r
 > **Probation Supervised:** 3 Yrs.\r
 \r
-I walked out of lockup after four months with a state felony record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.\r
+I took the deal. I walked out of that courtroom with a state felony record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.\r
 \r
 \r
 \r
