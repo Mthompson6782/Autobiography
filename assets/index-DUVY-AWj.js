@@ -293,7 +293,7 @@ He gestured to his own nose. "If you sink your teeth in and tear it off, that wi
 \r
 He paused, letting the weight of the words settle in the quiet room. The rain beat a steady, soft rhythm against the windowpane, and the blue flames of our own stove felt miles away.\r
 \r
-"This isn't about being mean, and it isn't about showing off," the Paratrooper said, his voice dropping to a low, quiet promise. "It is about efficiency. If you are forced to fight, you fight to end it in the first three seconds. You inflict such disproportionate, horrifying damage to their body that they lose the capacity and the will to continue. Peel the ear. Bite the nose. Survive. Remember the math."\r
+"This isn't about being mean, and it isn't about showing off," the Paratrooper said, his voice dropping to a low, quiet promise. "It is about efficiency. If you are forced to fight, you fight to end it in the first three seconds. You inflict such disproportionate, horrifying damage to their body that they lose the capacity and the will to continue. Peel the ear. Bite the nose. Survive. Remember the math." He taught us how to choke someone out or to death. He showed us how to break collarbones. It was way better than taking a bullshit McDojo karate class.\r
 \r
 I went back to my spot on the orange carpet, my ear still burning, my mind downloading the data.\r
 \r
