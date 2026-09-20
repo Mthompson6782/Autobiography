@@ -1335,7 +1335,60 @@ But here I sat.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 16: The Plea Deal\r
+\r
+# Chapter 16: Castle Grayskull\r
+\r
+> *STATUS: DRAFTED - from Gemini sessions.*\r
+\r
+---\r
+\r
+They strip you down when you go into BCDC. They don't call it Baltimore City Detention Center on the inside; everyone just calls it Castle Grayskull. \r
+\r
+I was standing there stripped bare for intake, and I remember the booking officer—the same fat hog who couldn't spell my name right—went and got her friend. They stood there and ogled me together. At six-foot-three and two hundred and sixty-five pounds of pure pharmaceutical muscle, I was an anomaly in their world. \r
+\r
+They kept me locked up in solitary in the beginning. They said I was a "threat to myself and others." Because of my charges, they figured I was going to roid rage and do some crazy shit. \r
+\r
+Personally, I think that roid rage shit is complete bullshit. I never had it, and I was taking a gram a week. But their ignorance was my peace and quiet. Locking me up by myself didn't bother me at all. Honestly, I fucking hate people. I sat in my cell by myself and drew fish on the wall with a broken pencil point I found. \r
+\r
+When they did have to move me, they didn't take any chances. Everywhere they took me, they put me in the fucking "box." It’s a hand-to-leg shackle system that keeps you bent over and completely off balance. You can't walk; you just sort of shuffle, completely physically neutralized. \r
+\r
+Eventually, after almost a week, they realized I wasn't going to tear the bars off the cell and they let me out with the others. \r
+\r
+It was a powderkeg environment in that spot. We were still being sorted. I wasn't in "Killer K" yet—the maximum security block—but I was headed that way. \r
+\r
+I spent my days playing Spades with the old heads and just waiting for the next meal. The boredom is the real enemy in there. The boredom was the mind killer. \r
+\r
+You also realize very quickly who you are locked in a cage with. Half the people in there have the mental capacity of a fucking animal. I'm not kidding. The lights are on, but no one is fucking home. These motherfuckers are barely human. It's a completely different species of survival. \r
+\r
+I saw so many fights, though surprisingly, I didn't get into any myself. Usually, guys take one look at my size and decide they'd rather test somebody else. \r
+\r
+One day, it was getting close to lockdown. There was a young white kid on the phone, minding his own business. A black dude walked up and tried to punk him to get the phone.\r
+\r
+The white kid didn't even blink. He just said into the receiver, "Wait just a second." \r
+\r
+*Boom.* He smashed the heavy phone receiver directly into the black guy's forehead, splitting his shit wide open. Then he grabbed him, dragged him into the shower area, and commenced to stomping a mudhole in the guy. \r
+\r
+The turnkeys came running. The white kid knew the drill immediately. He threw his hands up and pleaded for them not to mace him, but they didn't care. They sprayed everybody in the vicinity. \r
+\r
+As the pepper spray settled and the guards dragged the guys away, one of the old heads I played Spades with stood up and delivered a public service announcement to the rest of the block. \r
+\r
+"These white boys are from the same streets," he announced. "Watch yo ass."\r
+\r
+While I was stuck in that powderkeg, I had to keep going to bail hearings. That was where the federal narrative really started bleeding into the local jail population.\r
+\r
+Every time I went to court, the guys in lockup with me were hearing the absolute shit the prosecutor was saying about me in front of the judge. \r
+\r
+They would call my name. The judge would look over his glasses and say something like, "This case is complex, with international ties and complications beyond a district court." Every guy sitting on the benches around me would slowly turn their heads and stare at me. \r
+\r
+Then the prosecutor would stand up. He took every single piece of normal paper they found in my house and twisted it to make it sound like I was an apex predator. \r
+\r
+"Your Honor, Mr. Thompson is a veteran of the Air Force Special Operations Command," the prosecutor would declare. "He has a passport stamped around the world. He has international connections. We fear if he is released, he has the know-how and the global connections to disappear, and will never be found again."\r
+\r
+You literally cannot make this shit up. \r
+\r
+I was an airplane mechanic who got some free steroids for mailing USPS boxes. But to the court, I was Jason Bourne. And to the guys sitting next to me in the courtroom lockup, I was Rambo. Once again, every head in the room turned and looked at me with this collective expression of: *Who the fuck is this guy?*\r
+\r
+# Chapter 17: The Plea Deal\r
 \r
 > *STATUS: DRAFTED - pending review.*\r
 \r
@@ -1410,7 +1463,7 @@ They didn't realize it was just the beginning of the rebuild.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 17: Hiding the Hardware\r
+# Chapter 18: Hiding the Hardware\r
 \r
 > *STATUS: DRAFTED - pending review.*\r
 \r
@@ -1496,7 +1549,7 @@ But the weight never fully left. Even now, decades later, I sometimes feel the g
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 18: The Cheesecake Factory and the Personals Ad\r
+# Chapter 19: The Cheesecake Factory and the Personals Ad\r
 \r
 > *STATUS: DRAFTED - pending review.*\r
 \r
@@ -1554,7 +1607,7 @@ Cindy became my reference point. And from that night at the harbor forward, I ne
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 19: The Linthicum Theater\r
+# Chapter 20: The Linthicum Theater\r
 \r
 > *STATUS: DRAFTED - pending review.*\r
 \r
@@ -1628,7 +1681,7 @@ We had to get out. It was time to permanently uninstall Maryland from my life.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 20: Spartan Technology\r
+# Chapter 21: Spartan Technology\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -1706,7 +1759,7 @@ It was time to make the jump. But Spartan would always be the era where I proved
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 21: The Safety Queen and the Triconex Puzzle\r
+# Chapter 22: The Safety Queen and the Triconex Puzzle\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -1784,7 +1837,7 @@ And the bill for that negligence was quietly coming due.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 22: The 1.7 Billion Dollar Jump and the Wichita HQ\r
+# Chapter 23: The 1.7 Billion Dollar Jump and the Wichita HQ\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -1898,7 +1951,7 @@ And the warning light on my own dashboard was about to turn solid red.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 23: The Purple Belt and the Gray Hair\r
+# Chapter 24: The Purple Belt and the Gray Hair\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -1962,7 +2015,7 @@ I was heading to the C-suite. But the golden handcuffs were waiting to clamp shu
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 24: The Golden Handcuffs and the Great Escape\r
+# Chapter 25: The Golden Handcuffs and the Great Escape\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -2068,7 +2121,7 @@ The cancer was ticking away like a silent, unmitigated time bomb in the passenge
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 25: Takeda, MITRE, and the Airbnbs\r
+# Chapter 26: Takeda, MITRE, and the Airbnbs\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -2128,7 +2181,7 @@ Beneath the denim of my jeans, the left-groin lump had expanded from a harmless 
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 26: The Double Surgery and the Cold Sweat\r
+# Chapter 27: The Double Surgery and the Cold Sweat\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -2212,7 +2265,7 @@ The tumor was waiting for its turn.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 27: Does It Light Up?\r
+# Chapter 28: Does It Light Up?\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -2363,56 +2416,4 @@ He holds a Master of Science in Systems Engineering from Johns Hopkins Universit
 A convicted felon and former drug kingpin, Michael has rebuilt his life through intellect, resilience, and a systems-engineering mindset, proving that no starting point is too broken to engineer a masterpiece.\r
 \r
 **ORCID:** [0000-0002-0836-244X](https://orcid.org/0000-0002-0836-244X)\r
-\r
-\r
-# Chapter 16: Castle Grayskull\r
-\r
-> *STATUS: DRAFTED - from Gemini sessions.*\r
-\r
----\r
-\r
-They strip you down when you go into BCDC. They don't call it Baltimore City Detention Center on the inside; everyone just calls it Castle Grayskull. \r
-\r
-I was standing there stripped bare for intake, and I remember the booking officer—the same fat hog who couldn't spell my name right—went and got her friend. They stood there and ogled me together. At six-foot-three and two hundred and sixty-five pounds of pure pharmaceutical muscle, I was an anomaly in their world. \r
-\r
-They kept me locked up in solitary in the beginning. They said I was a "threat to myself and others." Because of my charges, they figured I was going to roid rage and do some crazy shit. \r
-\r
-Personally, I think that roid rage shit is complete bullshit. I never had it, and I was taking a gram a week. But their ignorance was my peace and quiet. Locking me up by myself didn't bother me at all. Honestly, I fucking hate people. I sat in my cell by myself and drew fish on the wall with a broken pencil point I found. \r
-\r
-When they did have to move me, they didn't take any chances. Everywhere they took me, they put me in the fucking "box." It’s a hand-to-leg shackle system that keeps you bent over and completely off balance. You can't walk; you just sort of shuffle, completely physically neutralized. \r
-\r
-Eventually, after almost a week, they realized I wasn't going to tear the bars off the cell and they let me out with the others. \r
-\r
-It was a powderkeg environment in that spot. We were still being sorted. I wasn't in "Killer K" yet—the maximum security block—but I was headed that way. \r
-\r
-I spent my days playing Spades with the old heads and just waiting for the next meal. The boredom is the real enemy in there. The boredom was the mind killer. \r
-\r
-You also realize very quickly who you are locked in a cage with. Half the people in there have the mental capacity of a fucking animal. I'm not kidding. The lights are on, but no one is fucking home. These motherfuckers are barely human. It's a completely different species of survival. \r
-\r
-I saw so many fights, though surprisingly, I didn't get into any myself. Usually, guys take one look at my size and decide they'd rather test somebody else. \r
-\r
-One day, it was getting close to lockdown. There was a young white kid on the phone, minding his own business. A black dude walked up and tried to punk him to get the phone.\r
-\r
-The white kid didn't even blink. He just said into the receiver, "Wait just a second." \r
-\r
-*Boom.* He smashed the heavy phone receiver directly into the black guy's forehead, splitting his shit wide open. Then he grabbed him, dragged him into the shower area, and commenced to stomping a mudhole in the guy. \r
-\r
-The turnkeys came running. The white kid knew the drill immediately. He threw his hands up and pleaded for them not to mace him, but they didn't care. They sprayed everybody in the vicinity. \r
-\r
-As the pepper spray settled and the guards dragged the guys away, one of the old heads I played Spades with stood up and delivered a public service announcement to the rest of the block. \r
-\r
-"These white boys are from the same streets," he announced. "Watch yo ass."\r
-\r
-While I was stuck in that powderkeg, I had to keep going to bail hearings. That was where the federal narrative really started bleeding into the local jail population.\r
-\r
-Every time I went to court, the guys in lockup with me were hearing the absolute shit the prosecutor was saying about me in front of the judge. \r
-\r
-They would call my name. The judge would look over his glasses and say something like, "This case is complex, with international ties and complications beyond a district court." Every guy sitting on the benches around me would slowly turn their heads and stare at me. \r
-\r
-Then the prosecutor would stand up. He took every single piece of normal paper they found in my house and twisted it to make it sound like I was an apex predator. \r
-\r
-"Your Honor, Mr. Thompson is a veteran of the Air Force Special Operations Command," the prosecutor would declare. "He has a passport stamped around the world. He has international connections. We fear if he is released, he has the know-how and the global connections to disappear, and will never be found again."\r
-\r
-You literally cannot make this shit up. \r
-\r
-I was an airplane mechanic who got some free steroids for mailing USPS boxes. But to the court, I was Jason Bourne. And to the guys sitting next to me in the courtroom lockup, I was Rambo. Once again, every head in the room turned and looked at me with this collective expression of: *Who the fuck is this guy?*`;function zo(){let[e,t]=(0,v.useState)([]),[n,r]=(0,v.useState)(0),[i,a]=(0,v.useState)(`dark`),[o,s]=(0,v.useState)(!1),[c,l]=(0,v.useState)(!1),[u,d]=(0,v.useState)(``),[f,p]=(0,v.useState)(!1),m=e=>e.split(/(?=# Chapter \d+)/).map((e,t)=>{let n=e.match(/# (.*?)\n/);return{id:t,title:n?n[1]:t===0?`Prologue & Intro`:`Chapter ${t}`,content:e}});(0,v.useEffect)(()=>{t(m(Ro)),document.documentElement.setAttribute(`data-theme`,i)},[]);let h=()=>{let e=i===`light`?`dark`:`light`;a(e),document.documentElement.setAttribute(`data-theme`,e)},g=e=>{r(e),s(!1),l(!1),window.scrollTo({top:0,behavior:`smooth`})};return(0,W.jsxs)(`div`,{className:`app-container`,children:[(0,W.jsx)(`button`,{className:`mobile-nav-toggle hide-on-print`,onClick:()=>s(!o),children:o?(0,W.jsx)(Lo,{size:24}):(0,W.jsx)(jo,{size:24})}),(0,W.jsxs)(`aside`,{className:`sidebar glass hide-on-print ${o?`open`:``}`,children:[(0,W.jsxs)(`div`,{className:`sidebar-header`,children:[(0,W.jsx)(`h1`,{className:`sidebar-title`,children:`Am I the Bad Guy?`}),(0,W.jsx)(`div`,{className:`sidebar-subtitle`,children:`Michael Thompson`})]}),(0,W.jsx)(`ul`,{className:`chapter-list`,children:e.map((e,t)=>(0,W.jsx)(`li`,{className:`chapter-item ${n===t?`active`:``}`,onClick:()=>g(t),children:e.title},t))}),(0,W.jsxs)(`button`,{className:`theme-toggle`,onClick:h,children:[i===`light`?(0,W.jsx)(Mo,{size:18}):(0,W.jsx)(Io,{size:18}),i===`light`?`Dark Mode`:`Light Mode`]})]}),(0,W.jsx)(`main`,{className:`main-content`,children:e.length>0&&(0,W.jsxs)(`div`,{className:`content-wrapper`,children:[(0,W.jsx)(`div`,{className:`content-toolbar hide-on-print`,children:(0,W.jsxs)(`div`,{className:`toolbar-actions`,children:[c?(0,W.jsxs)(`button`,{className:`btn btn-save`,onClick:async()=>{p(!0);let r=[...e];r[n].content=u,t(r);let i=r.map(e=>e.content).join(``);try{if(!(await fetch(`/api/save`,{method:`POST`,headers:{"Content-Type":`application/json`},body:JSON.stringify({content:i})})).ok)throw Error(`Network response was not ok`);l(!1)}catch(e){console.error(`Failed to save:`,e),alert(`Failed to save to disk. Check console.`)}finally{p(!1)}},disabled:f,children:[(0,W.jsx)(Fo,{size:18}),` `,f?`Saving...`:`Save Changes`]}):(0,W.jsxs)(W.Fragment,{children:[(0,W.jsxs)(`button`,{className:`btn btn-edit`,onClick:()=>{c?l(!1):(d(e[n].content),l(!0))},children:[(0,W.jsx)(No,{size:18}),` Edit`]}),(0,W.jsxs)(`button`,{className:`btn btn-print`,onClick:()=>{window.print()},children:[(0,W.jsx)(Po,{size:18}),` Print Chapter`]})]}),c&&(0,W.jsx)(`button`,{className:`btn btn-cancel`,onClick:()=>l(!1),children:`Cancel`})]})}),c?(0,W.jsx)(`textarea`,{className:`markdown-editor`,value:u,onChange:e=>d(e.target.value)}):(0,W.jsx)(`div`,{className:`markdown-body`,children:(0,W.jsx)(go,{children:e[n].content})})]},n)})]})}(0,y.createRoot)(document.getElementById(`root`)).render((0,W.jsx)(v.StrictMode,{children:(0,W.jsx)(zo,{})}));
+`;function zo(){let[e,t]=(0,v.useState)([]),[n,r]=(0,v.useState)(0),[i,a]=(0,v.useState)(`dark`),[o,s]=(0,v.useState)(!1),[c,l]=(0,v.useState)(!1),[u,d]=(0,v.useState)(``),[f,p]=(0,v.useState)(!1),m=e=>e.split(/(?=# Chapter \d+)/).map((e,t)=>{let n=e.match(/# (.*?)\n/);return{id:t,title:n?n[1]:t===0?`Prologue & Intro`:`Chapter ${t}`,content:e}});(0,v.useEffect)(()=>{t(m(Ro)),document.documentElement.setAttribute(`data-theme`,i)},[]);let h=()=>{let e=i===`light`?`dark`:`light`;a(e),document.documentElement.setAttribute(`data-theme`,e)},g=e=>{r(e),s(!1),l(!1),window.scrollTo({top:0,behavior:`smooth`})};return(0,W.jsxs)(`div`,{className:`app-container`,children:[(0,W.jsx)(`button`,{className:`mobile-nav-toggle hide-on-print`,onClick:()=>s(!o),children:o?(0,W.jsx)(Lo,{size:24}):(0,W.jsx)(jo,{size:24})}),(0,W.jsxs)(`aside`,{className:`sidebar glass hide-on-print ${o?`open`:``}`,children:[(0,W.jsxs)(`div`,{className:`sidebar-header`,children:[(0,W.jsx)(`h1`,{className:`sidebar-title`,children:`Am I the Bad Guy?`}),(0,W.jsx)(`div`,{className:`sidebar-subtitle`,children:`Michael Thompson`})]}),(0,W.jsx)(`ul`,{className:`chapter-list`,children:e.map((e,t)=>(0,W.jsx)(`li`,{className:`chapter-item ${n===t?`active`:``}`,onClick:()=>g(t),children:e.title},t))}),(0,W.jsxs)(`button`,{className:`theme-toggle`,onClick:h,children:[i===`light`?(0,W.jsx)(Mo,{size:18}):(0,W.jsx)(Io,{size:18}),i===`light`?`Dark Mode`:`Light Mode`]})]}),(0,W.jsx)(`main`,{className:`main-content`,children:e.length>0&&(0,W.jsxs)(`div`,{className:`content-wrapper`,children:[(0,W.jsx)(`div`,{className:`content-toolbar hide-on-print`,children:(0,W.jsxs)(`div`,{className:`toolbar-actions`,children:[c?(0,W.jsxs)(`button`,{className:`btn btn-save`,onClick:async()=>{p(!0);let r=[...e];r[n].content=u,t(r);let i=r.map(e=>e.content).join(``);try{if(!(await fetch(`/api/save`,{method:`POST`,headers:{"Content-Type":`application/json`},body:JSON.stringify({content:i})})).ok)throw Error(`Network response was not ok`);l(!1)}catch(e){console.error(`Failed to save:`,e),alert(`Failed to save to disk. Check console.`)}finally{p(!1)}},disabled:f,children:[(0,W.jsx)(Fo,{size:18}),` `,f?`Saving...`:`Save Changes`]}):(0,W.jsxs)(W.Fragment,{children:[(0,W.jsxs)(`button`,{className:`btn btn-edit`,onClick:()=>{c?l(!1):(d(e[n].content),l(!0))},children:[(0,W.jsx)(No,{size:18}),` Edit`]}),(0,W.jsxs)(`button`,{className:`btn btn-print`,onClick:()=>{window.print()},children:[(0,W.jsx)(Po,{size:18}),` Print Chapter`]})]}),c&&(0,W.jsx)(`button`,{className:`btn btn-cancel`,onClick:()=>l(!1),children:`Cancel`})]})}),c?(0,W.jsx)(`textarea`,{className:`markdown-editor`,value:u,onChange:e=>d(e.target.value)}):(0,W.jsx)(`div`,{className:`markdown-body`,children:(0,W.jsx)(go,{children:e[n].content})})]},n)})]})}(0,y.createRoot)(document.getElementById(`root`)).render((0,W.jsx)(v.StrictMode,{children:(0,W.jsx)(zo,{})}));
