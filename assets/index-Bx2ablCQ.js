@@ -1138,11 +1138,11 @@ My rowhouse had officially become the primary domestic distribution node for a m
 \r
 The digital side of the operation was just as clean. I logged onto my Pentium-powered PC, booted up our encrypted ZipLip webmail interface, and opened the green-on-black text screens. The interface was sterile, secure, and set to automatically purge messages after reading. On the screen was the master manifest: names, domestic addresses, and the exact quantities of vials and blister packs required.\r
 \r
-I set up a physical assembly line in my dining room. I would receive the package, pop the seals on the Happy Birthday cans, and break the entire shipment down. I would take my personal stuff out first—that was my cut. Then, I would repack the smaller shipments going wherever Spartak told me they needed to go. I packed them all into standard USPS First Class Priority Mail boxes. I never wrote a real return address. I never used my own name.\r
+I set up a physical assembly line in my dining room. I would receive the package, pop the seals on the Happy Birthday cans, and break the entire shipment down. I would take my personal stuff out first—that was my cut. As the shipments scaled up, my cut got larger. I started getting more and more free stuff, way more than I could ever use myself. So, I started selling the excess as a domestic source. I was making pure profit, and essentially getting all my personal gear for free. Then, I would repack the remaining shipments going wherever Spartak told me they needed to go. I packed them all into standard USPS First Class Priority Mail boxes. I never wrote a real return address. I never used my own name.\r
 \r
-My systems-engineering brain treated the entire hustle as an exercise in node isolation. "If one node in a network is compromised, the failure must be structurally contained," I told myself. \r
 \r
-To maintain this isolation, I rotated my vectors. I never dropped packages at the post office down the block. I would load my heavy gym bag, put the boxes in the trunk of my car, and drive random routes through Baltimore. I would drop two boxes in a blue mailbox in Canton, three at a post office in Towson, and four at a cargo terminal near BWI. I was completely invisible, hiding in plain sight, entirely surrounded by Happy Birthday cans.\r
+\r
+I always rotated my routes to stay off the radar. I never dropped packages at the post office down the block. I would load my heavy gym bag, put the boxes in the trunk of my car, and drive random routes through Baltimore. I would drop two boxes in a blue mailbox in Canton, three at a post office in Towson, and four at a cargo terminal near BWI. I was completely invisible, hiding in plain sight, entirely surrounded by Happy Birthday cans.\r
 \r
 ---\r
 \r
