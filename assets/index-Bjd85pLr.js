@@ -371,49 +371,41 @@ They were my first real team. They taught me who I wanted to be, and who I refus
 \r
 # Chapter 6: The City That Bleeds\r
 \r
-> *STATUS: DRAFTED - from Gemini sessions.*\r
+> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
-The irony of the Baltimore City Public School system is that trying to get a better education usually meant increasing your chances of getting killed on the way to class. \r
+The irony of the Baltimore City Public School system is that trying to get a better education usually meant increasing your chances of getting killed on the way to class.\r
 \r
-My father meant well. When it came time for high school, he knew that Southern High School - my designated zoned school - was an absolute shithole. It was a holding pen for the neighborhood's future inmates. So, he pushed for me to go somewhere better.\r
+My father meant well. When it came time for high school, he knew that Southern High School — my designated zoned school — was an absolute shithole. It was a holding pen for the neighborhood's future inmates. So he pushed for me to go somewhere better.\r
 \r
-I got accepted into Baltimore City College High School. \r
+I got accepted into Baltimore City College High School.\r
 \r
-We all loved "City." We were proud of it. Founded in 1839, it’s the third-oldest public high school in the United States. It sits on a hill at 33rd Street and The Alameda, housed in a massive Gothic-style stone building. They literally call it the "Castle on the Hill." It should be noted that City was a magnet school, designed to bring together the top ten percent of students from all of Baltimore City Schools. You didn't just win a lottery to get in there. You had to be smart. It was an intellectual haven. The people there were good people, for the most part, especially after the great filter of freshman year where the intellectually weak were purged from the roster. \r
+We all loved "City." We were proud of it. Founded in 1839, it's the third-oldest public high school in the United States. It sits on a hill at 33rd Street and The Alameda, housed in a massive Gothic-style stone building. They literally call it the Castle on the Hill. City was a magnet school, designed to bring together the top ten percent of students from all of Baltimore City Schools. You didn't just win a lottery to get in there. You had to be smart. The people there were good people, for the most part, especially after freshman year, when the kids who couldn't hang got purged off the roster.\r
 \r
-Inside the Castle, we had teachers who actually cared if we survived. I vividly remember Ms. Stukes Maurice. She sat us down one day and explained the concept of "code switching." She told us, point-blank, that if we wanted to make it in the professional world, we needed to know how to talk like white people. We needed to know how to turn the street off and turn the polish on. She was preparing us for a world that most kids in our neighborhoods would never see. Ms. Stukes Maurice was a Black Panther, and she was very proud of it. She made sure to tell us every chance she got. She was a nice lady. I always kind of felt like she didn't like me because I was white, but she was all right. \r
+Inside the Castle, we had teachers who actually cared if we survived. I vividly remember Ms. Stukes Maurice. She sat us down one day and explained code switching. She told us, point-blank, that if we wanted to make it in the professional world, we needed to know how to talk like white people. We needed to know how to turn the street off and turn the polish on. She was preparing us for a world that most kids in our neighborhoods would never see. Ms. Stukes Maurice was a Black Panther, and she was very proud of it. She made sure to tell us every chance she got. She was a nice lady. I always kind of felt like she didn't like me because I was white, but she was all right.\r
 \r
-But to get to that world, to reach the Castle on the Hill, I had to survive the commute. \r
+But to get to that world, to reach the Castle on the Hill, I had to survive the commute.\r
 \r
-In the late 1980s, Mayor Kurt Schmoke - who happened to be a City College alumni himself - launched a massive literacy campaign with a catchy slogan: *The City That Reads.* They painted it on benches all over town. But this was Baltimore. The murder rate was skyrocketing, and the reality of the streets was far darker than a PR campaign. It didn't take long for the locals to take out their spray cans and correct the benches. Everywhere you looked, the slogan was crossed out and rewritten.\r
+In the late 1980s, Mayor Kurt Schmoke — who happened to be a City College alumnus himself — launched a massive literacy campaign with a catchy slogan: The City That Reads. They painted it on benches all over town. But this was Baltimore. The murder rate was skyrocketing, and the streets were darker than a PR campaign. It didn't take long for the locals to take out their spray cans and correct the benches. Everywhere you looked, the slogan was crossed out and rewritten.\r
 \r
-It became *The City That Bleeds.*\r
+It became The City That Bleeds.\r
 \r
-I was a fresh, fourteen-year-old kid, and to get to my prestigious high school, I had to catch two different city buses straight through the absolute worst, most violent neighborhoods in a bleeding city. The first bus I caught every morning was right in front of Wu's convenience store. Wu was a Korean lady who owned the sub shop on the corner of the 1800 block of Light Street. She knew Gabby's grandmother, who owned the shop over in Westport. They didn't compete; they actually all knew each other. The local Korean business owners participated in a traditional money-pooling system - like a *kye* - where every month, twenty of them would throw in thousands of dollars, and they'd take turns collecting the pot to do renovations or handle big expenses. It was a fascinating way to do business. \r
+I was a fresh fourteen-year-old kid, and to get to my prestigious high school I had to catch two different city buses straight through the worst, most violent neighborhoods in a bleeding city. The first bus I caught every morning was right in front of Wu's convenience store. Wu was a Korean lady who owned the sub shop on the corner of the 1800 block of Light Street. She knew Gabby's grandmother, who owned the shop over in Westport. They didn't compete. They actually all knew each other. The local Korean business owners participated in a traditional money-pooling system — like a kye — where every month twenty of them would throw in thousands of dollars, and they'd take turns collecting the pot to do renovations or handle big expenses. It was a fascinating way to do business.\r
 \r
-But out on the street, business was different. \r
+Out on the street, business was different.\r
 \r
-There is a distinct, unforgettable stink to a Baltimore City bus. It’s a humid mixture of exhaust, stale sweat, cheap malt liquor, and desperation. Those buses were rolling thunderdomes. You were packed into a metal tube with a cross-section of the city’s collapsing social fabric.\r
+There is a distinct, unforgettable stink to a Baltimore City bus. A humid mixture of exhaust, stale sweat, cheap malt liquor, and desperation. Those buses were rolling thunderdomes. Packed metal tubes.\r
 \r
-One of our regular sights on the route was a schizophrenic guy we called the "Devil Dog from Hell." He would stand at the bus stop right in front of Wu's, violently beating a payphone with a black plastic trash bag, screaming at the top of his lungs about the devil dogs from hell and how the phone company was putting things into his head. He was a wild one, but honestly, he was the least of our problems. The crazy ones were predictable. It was the sane ones you had to worry about.\r
+One of our regular sights on the route was a schizophrenic guy we called the Devil Dog from Hell. He would stand at the bus stop right in front of Wu's, violently beating a payphone with a black plastic trash bag, screaming about the devil dogs from hell and how the phone company was putting things into his head. He was a wild one, but honestly he was the least of our problems. The crazy ones were predictable. It was the sane ones you had to worry about.\r
 \r
-On those buses, the threat of violence was just the ambient temperature of the room. Fights would break out over absolutely nothing. Eye contact held a second too long. A scuffed sneaker. A perceived slight. \r
+On those buses, fights broke out over nothing. Eye contact held a second too long. A scuffed sneaker. A perceived slight. That was the baseline. You either looked like you might do something, or you became prey.\r
 \r
-That was the environment. That was the baseline. The absolute, sociopathic desensitization to extreme violence was just what it took to commute to school. You had to project an aura of pure volatility, or you would become prey. \r
-\r
-But I wasn't just projecting. The environment was shaping the hardware. \r
-\r
-A kid named Jake caught on to it. Jake was one of the guys at school, and one day at lunch, he was looking at me, analyzing my behavior. \r
+A kid named Jake caught on to it. Jake was one of the guys at school, and one day at lunch he was looking at me.\r
 \r
 "I act crazy so people don't mess with me," Jake said, shaking his head. "But I'm really actually normal. I feel like you are the other way around. I feel like you are acting normal."\r
 \r
-He was right. Inside the Castle on the Hill, I was learning to code switch. I was learning to turn on the polish. But out on the streets, catching those two buses through the worst neighborhoods in the city, the "normal" kid was dying, and something much darker was taking the wheel. I was adapting to the environment. \r
-\r
-And that adaptation was about to lead directly to North Avenue.\r
-\r
----\r
+He was right. Inside the Castle on the Hill, I was learning to code switch. I was learning to turn on the polish. Out on those two buses, the normal kid was dying. Something else was taking the wheel.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
