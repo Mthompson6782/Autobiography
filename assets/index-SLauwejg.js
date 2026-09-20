@@ -159,7 +159,7 @@ Pauline taught me that the credible threat of violence could create boundaries w
 \r
 ---\r
 \r
-In my early years, I spent a lot of time being passed around. I lived with my grandparents on and off. My mother and father would get together and try to play house until that shit just fell apart - usually in a cataclysmic eruption of violence.\r
+In my early years, I spent a lot of time being passed around. I lived with my grandparents on and off. My mother and father would get together and try to play house until that shit just fell apart — usually in a cataclysmic eruption of violence.\r
 \r
 I would typically live with my father when my mother ran off. When I was 10 or 11, we moved to Audrey Ave.\r
 \r
@@ -167,77 +167,75 @@ Audrey Avenue was in Brooklyn, a neighborhood in South Baltimore. In the geograp
 \r
 My dad was trying to get his shit together.\r
 \r
-Just like my mother lacked maternal instincts, my dad was young and figuring out the father thing as we went. He did his best, but times were incredibly tough. He was working piecemeal work at Locke Insulators. Locke Insulators was probably one of the biggest polluters of the harbor. He used to tell me how they would just throw shit into the harbor. Everybody threw shit into the harbor; it's almost like that's what it's for. It takes shit you no longer want or no longer want to be found. Now, that could be cracked insulators, chemical waste, guns, or bodies. Locke Insulators was adjacent to Cherry Hill; it was an even shittier place.\r
+Just like my mother lacked maternal instincts, my dad was young and figuring out the father thing as we went. He did his best, but times were incredibly tough. He was working piecemeal work at Locke Insulators. Locke Insulators was probably one of the biggest polluters of the harbor. He used to tell me how they would just throw shit into the harbor. Everybody threw shit into the harbor; it’s almost like that’s what it’s for. It takes shit you no longer want or no longer want to be found. Now, that could be cracked insulators, chemical waste, guns, or bodies. Locke Insulators was adjacent to Cherry Hill. It was an even shittier place.\r
 \r
-He would come home late at night, his steel-toed boots making a heavy, tired thud on the floor. He was a kind of skilled laborer, crafting the big industrial insulators you see on electrical distribution lines. My father was actually a fairly intelligent man. He knew those streets, but he took a couple of college classes. He never graduated, but I always remember him having a sharp mind for math. My father has a thick old-school Baltimore City accent. My wife, a native of Detroit, cannot understand him. She's not sure it's actually English.\r
+He would come home late at night, his steel-toed boots making a heavy, tired thud on the floor. He was a kind of skilled laborer, crafting the big industrial insulators you see on electrical distribution lines. My father was actually a fairly intelligent man. He knew those streets, but he took a couple of college classes. He never graduated, but I always remember him having a sharp mind for math. My father has a thick old-school Baltimore City accent. My wife, a native of Detroit, cannot understand him. She’s not sure it’s actually English.\r
 \r
-One of my first lessons of this new area came one day when I was in the alley tossing a football in the air and catching it. Some older kids came by and just took my shit. They were teenagers, probably fourteen or fifteen. They didn't give a fuck. Well, I ran and told my dad. We walked those motherfuckers down. We found them, and they were standing around. \r
+One of my first lessons of this new area came one day when I was in the alley tossing a football in the air and catching it. Some older kids came by and just took my shit. They were teenagers, probably fourteen or fifteen. They didn’t give a fuck. Well, I ran and told my dad. We walked those motherfuckers down. We found them, and they were standing around.\r
 \r
-He said, "Is this them?" \r
+He said, “Is this them?”\r
 \r
-I said yes. \r
+I said yes.\r
 \r
-He said, "Take your shit back." \r
+He said, “Take your shit back.”\r
 \r
-I took my ball. He threatened them, told them if they touched me he was going to fucking kill them. Then he told me to punch the motherfucker in the face that took my ball. I paused, and he yelled at me to hit him. \r
+I took my ball. He threatened them, told them if they touched me he was going to fucking kill them. Then he told me to punch the motherfucker in the face that took my ball. I paused, and he yelled at me to hit him.\r
 \r
-It was like a crack I heard in my mind, like thunder. *Hit him. Hit him again.* \r
+It was like a crack I heard in my mind, like thunder. Hit him. Hit him again.\r
 \r
 I just started punching the kid over and over. He started crying. I had blood on my fist from his nose and mouth. I cut my fist on his teeth. After that, I picked my ball back up off the ground, and we went home.\r
 \r
-We lived in old, World War II-era housing - brick rowhouses that had been chopped up and converted into cheap, run-down apartments. Our place was small, cramped, and entirely stripped of anything resembling luxury. The walls were stark white, and they always smelled faintly of fresh, cheap paint. The landlords didn't actually clean anything between tenants; whenever a new person came along, they would just roll a fresh coat of cheap latex white paint directly over whatever grime, grease, or dead bugs were left behind by the last people. If you looked closely at the walls, you could see the raised outlines of dirt clods and hair permanently sealed under the gloss.\r
+We lived in old, World War II-era housing — brick rowhouses that had been chopped up and converted into cheap, run-down apartments. Our place was small, cramped, and entirely stripped of anything resembling luxury. The walls were stark white, and they always smelled faintly of fresh, cheap paint. The landlords didn’t actually clean anything between tenants. Whenever a new person came along, they would just roll a fresh coat of cheap latex white paint directly over whatever grime, grease, or dead bugs were left behind by the last people. If you looked closely at the walls, you could see the raised outlines of dirt clods and hair permanently sealed under the gloss.\r
 \r
-I didn't even have a bed. I slept on a squeaking metal military cot in the corner of the small room, the canvas stretched tight and thin over the frame.\r
+I didn’t even have a bed. I slept on a squeaking metal military cot in the corner of the small room, the canvas stretched tight and thin over the frame.\r
 \r
-And there were roaches. There are always roaches when you live in places like that, but Audrey Avenue had them on a systemic scale. They infested the hollow sheetrock walls. If you clicked the light switch on, the white walls would instantly come alive as they scattered. That memory branded itself into my nervous system. It created a permanent, hyper-vigilant feedback loop in my brain. To this day, I haven't seen a roach in years, but if my kids leave food, wrappers, or a dirty glass out on the counter, I will lose my temper and scream at them. My brain doesn't see a harmless soda can; it sees the vanguard of a brown, scratching army coming to reclaim my home. I've never been able to shake it.\r
+And there were roaches. There are always roaches when you live in places like that, but Audrey Avenue had them bad. They infested the hollow sheetrock walls. If you clicked the light switch on, the white walls would instantly come alive as they scattered. That memory branded itself into me. To this day, I haven’t seen a roach in years, but if my kids leave food, wrappers, or a dirty glass out on the counter, I will lose my temper and scream at them. My brain doesn’t see a harmless soda can. It sees the start of a brown, scratching army coming to reclaim my home. I’ve never been able to shake it.\r
 \r
-But a neighborhood is defined by its ecosystem, and Audrey Avenue had an ecosystem that bordered on the surreal. The people who lived there were a strange, volatile mix of the broken and the bizarre.\r
+The people on Audrey Avenue were a strange mix of the broken and the bizarre.\r
 \r
-For the most part, the people were nice, bound together by the shared gravity of poverty. There was a lady who worked sanitation - we just called her the garbage lady - who used to comb through the trash on her routes in the wealthier zip codes. Whenever she found toys that people in better neighborhoods had thrown away, she would bring them home in her canvas bag, and hand them out to us poor kids on the block. It was a beautiful, small act of kindness in a place that didn't have much of it to spare.\r
+For the most part, they were nice, bound together by being poor in the same place. There was a lady who worked sanitation — we just called her the garbage lady — who used to comb through the trash on her routes in the wealthier zip codes. Whenever she found toys that people in better neighborhoods had thrown away, she would bring them home in her canvas bag and hand them out to us poor kids on the block. It was a beautiful, small act of kindness in a place that didn’t have much of it to spare.\r
 \r
 There is another story from Brooklyn that brings tears to my eyes even to this day. I had a friend named John. He was a good kid, but his mother had six kids by six different dads, and she kept John out of school a lot to help with all those kids since none of their dads were in the picture. Because of that, he was pretty far behind.\r
 \r
-John's older brother was Tim. Tim was the fucking baddest dude. He did karate and was known as a tough motherfucker in the neighborhood. We all looked up to him. He was like sixteen or seventeen, and we were around eleven or twelve. He was a total ladies' man. All the girls were chasing after him.\r
+John’s older brother was Tim. Tim was the fucking baddest dude. He did karate and was known as a tough motherfucker in the neighborhood. We all looked up to him. He was like sixteen or seventeen, and we were around eleven or twelve. He was a total ladies’ man. All the girls were chasing after him.\r
 \r
-This fucking guy even knew how to use nunchucks! I was actually coming back with a wooden dowel to make my own set of nunchucks - my dad had taken me to the hardware store to get it - when we were hit by a drunk bitch on Hanover Street. We were at a red light on his motorcycle, and she plowed right through us. My shit was fucked up for weeks - it also ruptured my ear drum - and I had a massive scar on my leg from bouncing off her windshield and skidding across the ground. I only remember the sensation of flying through the air. Because of that accident, I never got to make those nunchucks.\r
+This fucking guy even knew how to use nunchucks. I was actually coming back with a wooden dowel to make my own set — my dad had taken me to the hardware store to get it — when we were hit by a drunk bitch on Hanover Street. We were at a red light on his motorcycle, and she plowed right through us. My shit was fucked up for weeks. It also ruptured my eardrum, and I had a massive scar on my leg from bouncing off her windshield and skidding across the ground. I only remember the sensation of flying through the air. Because of that accident, I never got to make those nunchucks.\r
 \r
-Well, it turns out Tim was gay. It wasn't a time or a place for that, especially not in a neighborhood like Brooklyn, and unfortunately, that pressure took its toll on Tim. One day, he blew his brains out with a shotgun in his room. John and I actually found him.\r
+Well, it turns out Tim was gay. It wasn’t a time or a place for that, especially not in a neighborhood like Brooklyn, and that pressure took its toll on him. One day, he blew his brains out with a shotgun in his room. John and I actually found him.\r
 \r
-It's another one of those things burned into my mind. It fucks me up even to this day. I get choked up even just thinking about it.\r
+It’s another one of those things burned into my mind. It fucks me up even to this day. I get choked up even just thinking about it.\r
 \r
 It fucked John up even worse. He wound up catching his apartment on fire. We left Brooklyn shortly after that.\r
 \r
 And then there were Nancy and Sandy.\r
 \r
-If Audrey Avenue was purgatory, Nancy and Sandy were the wardens. They were short and morbidly obese, with rolls upon rolls of fat that pushed up their cheeks and made their eyes look like permanent, squinty slits. They lived on the block, and they operated one of the most terrifying, inexplicable setups I have ever witnessed.\r
+If Audrey Avenue was purgatory, Nancy and Sandy were the wardens. They were short and morbidly obese, with rolls upon rolls of fat that pushed up their cheeks and made their eyes look like permanent, squinty slits. They lived on the block, and they operated one of the most terrifying setups I have ever witnessed.\r
 \r
 They literally kept slaves.\r
 \r
-There were two other girls, sisters named Misty and Pam. Unlike Nancy and Sandy, Misty and Pam were rail-thin, looking like they survived on raw water and fear. I'm not sure how they wound up in this dynamic - whether they were runaways or abandoned relatives - but Nancy claimed ownership over Misty, and Sandy claimed ownership over Pam. It wasn't a metaphor. These girls were forced to do all the housework, the cooking, the cleaning - everything. Whenever Nancy or Sandy would bellow their names from the porch, the two skinny sisters would come running like whipped dogs.\r
+There were two other girls, sisters named Misty and Pam. Unlike Nancy and Sandy, Misty and Pam were rail-thin, looking like they survived on water and fear. I’m not sure how they wound up in this — whether they were runaways or abandoned relatives — but Nancy claimed ownership over Misty, and Sandy claimed ownership over Pam. It wasn’t a metaphor. These girls were forced to do all the housework, the cooking, the cleaning — everything. Whenever Nancy or Sandy would bellow their names from the porch, the two skinny sisters would come running like whipped dogs.\r
 \r
-They weren't chained physically. It was pure psychological terror, an invisible cage built out of isolation and systemic abuse. Nancy and Sandy yelled at them constantly, called them every name in the book, and it wasn't uncommon to see them casually pull the girls' hair or slap them hard in the face in front of the entire neighborhood. The block watched, but no one intervened. In South Baltimore, you didn't call the cops; you minded your own business.\r
+They weren’t chained. It was terror. Nancy and Sandy yelled at them constantly, called them every name in the book, and it wasn’t uncommon to see them casually pull the girls’ hair or slap them hard in the face in front of the entire neighborhood. The block watched, but no one intervened. In South Baltimore, you didn’t call the cops. You minded your own business.\r
 \r
-I never understood why Misty and Pam didn't just walk away. The psychology of poverty and abuse can trap people in invisible cages far more secure than iron bars. The cruelty was normalized, and it extended to the rest of their family, too.\r
+I never understood why Misty and Pam didn’t just walk away. The cruelty was normalized, and it extended to the rest of their family too.\r
 \r
-I remember one chilly afternoon, I was at Nancy's house. Nancy's husband ran like a ghetto video store out of his house. He would get movies and tape them and lend them out. I was hanging out with Nancy's son when Nancy and Sandy's brother, J.R., decided Misty needed to be punished. I don't recall exactly what she did - I think she might have left the gas stove on unattended while boiling water. J.R. was absolutely livid. He was a big, blocky dude, and he stood over her screaming while she cowered on the floor, weeping.\r
+I remember one chilly afternoon, I was at Nancy’s house. Nancy’s husband ran a ghetto video store out of the house. He would get movies and tape them and lend them out. I was hanging out with Nancy’s son when Nancy and Sandy’s brother, J.R., decided Misty needed to be punished. I don’t recall exactly what she did — I think she might have left the gas stove on unattended while boiling water. J.R. was absolutely livid. He was a big, blocky dude, and he stood over her screaming while she cowered on the floor, weeping.\r
 \r
 J.R. ordered her to bang her own head against the concrete floor.\r
 \r
 She cried, shaking, but she did it. She hit her head on the ground.\r
 \r
-"Not hard enough," J.R. said, his voice flat and demanding, ordering her to do it again.\r
+“Not hard enough,” J.R. said, his voice flat, ordering her to do it again.\r
 \r
-Misty slammed her own head into the floor with everything she had. It made a sickening, heavy, hollow thud that vibrated through the apartment. When she finally sat up, she looked completely dazed, blood trickling from her nose. That must have been enough to satisfy his logic, because he finally turned and left her alone.\r
+Misty slammed her own head into the floor with everything she had. It made a sickening, heavy, hollow thud that vibrated through the apartment. When she finally sat up, she looked completely dazed, blood trickling from her nose. That must have been enough, because he finally turned and left her alone.\r
 \r
-I think Misty and Pam eventually escaped, but the memory of them - and the sickening, heavy thud of that floor - stuck with me forever.\r
+I think Misty and Pam eventually escaped, but the memory of them — and that thud — stuck with me forever.\r
 \r
-Audrey Avenue was a masterclass in the extremes of human nature. You had a woman digging toys out of the garbage to make poor kids smile, living right down the street from monsters enforcing a concrete-floor slave state.\r
+You had a woman digging toys out of the garbage to make poor kids smile, living right down the street from that. Same block.\r
 \r
-It was a chaotic, bizarre environment, but my dad kept us moving forward. He used Brooklyn for what it was meant to be used for: a place to grind, get his shit together, and build a platform. Eventually, his double shifts paid off. We climbed out of the slide, left Audrey Avenue behind, and moved up to Johnson Street.\r
+It was a chaotic, bizarre environment, but my dad kept us moving forward. He used Brooklyn for what it was meant to be used for: a place to grind, get his shit together, and build a platform. Eventually his double shifts paid off. We climbed out of the slide, left Audrey Avenue behind, and moved up to Johnson Street.\r
 \r
-But Brooklyn left its mark. It taught me early on that the world isn't just divided into good and evil. Sometimes, it’s just a neighborhood where the garbage lady and the monsters share the exact same sidewalk. And your survival depends entirely on knowing which one you are walking past.\r
-\r
----\r
+But Brooklyn left its mark. Sometimes the world isn’t cleanly divided into good and evil. Sometimes it’s just a neighborhood where the garbage lady and the monsters share the same sidewalk. And your survival depends on knowing which one you are walking past.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
