@@ -1066,7 +1066,17 @@ I walked upstairs, grabbed a pen and paper, and wrote a brief, simple letter. \r
 \r
 *Spartak. This is Michael from the Pattaya bar from a couple years ago. I am ready. How do I get started.*\r
 \r
-I folded the letter, slipped it into an envelope, and wrote down the physical address from the napkin. I dropped it in the mail, sending it off across the Atlantic. That single piece of postage initialized the sequence that would rewrite my entire future.\r
+I folded the letter, slipped it into an envelope, and wrote down the physical address from the napkin. I dropped it in the mail, sending it off across the Atlantic. \r
+\r
+A little over a month later, I checked my mail and found one of those distinct red, white, and blue-striped international envelopes waiting for me. \r
+\r
+Inside was a single piece of paper with a brief instruction: \r
+\r
+*Write me here.* \r
+\r
+Below it was an encrypted email address for a secure Ziplip account.\r
+\r
+And just like that, it began.\r
 \r
 ---\r
 \r
