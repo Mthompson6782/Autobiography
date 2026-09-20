@@ -1251,7 +1251,7 @@ Contradictory commands. If I moved to get down, they might shoot. If I didn't ge
 \r
 I stayed cool. They were nervous.\r
 \r
-I looked at it from their perspective: They saw a 265-pound giant. They knew from their "investigation" that I was former Air Force Special Operations. They had already raided my house and found passports with stamps from all over the world. They found two Social Security numbers (a long story I’ll explain later).\r
+I looked at it from their perspective: They saw a 265-pound giant. They knew from their "investigation" that I was former Air Force Special Operations. They had already raided my house and found passports with stamps from all over the world. They found two Social Security numbers (a long story I’ll explain later). They found my DD-214 and saw the Armed Forces Expeditionary Medals from my desert deployments. I don\\'t know if they checked my federal security clearance—I doubt they were that smart. They claimed they had been watching me for months. I doubt that, too.\r
 \r
 In typical BCPD fashion, they had half the story but got it all wrong. Yeah, I was in AFSOC, but I fixed planes. I wasn\\'t a fucking commando. Unfortunately, there was no time to clear this up. They came at me hard.\r
 \r
