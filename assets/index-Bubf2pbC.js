@@ -1120,7 +1120,7 @@ Slowly, the volume increased. One package a week turned into three. Three turned
 \r
 As the packages got bigger, things got a lot more sophisticated. The delivery mechanisms Spartak utilized to bypass Customs became increasingly intricate, bizarre, and brilliant. \r
 \r
-There were no black duffel bags or midnight drop-offs. The shipments originated in Thailand, routed by Bulgarian brokers, and sailed into JFK Airport in New York. The gear was hidden inside seemingly ordinary consumer objects.\r
+There were no black duffel bags or midnight drop-offs. The shipments always originated in Thailand, were routed by Bulgarian brokers, and sailed right into JFK Airport in New York. We actually had a guy on the inside at JFK. He would just push our shit straight through Customs without a second look. Once it cleared, the gear was sent directly to my house, hidden inside seemingly ordinary consumer objects.\r
 \r
 I remember the day a massive cargo shipment arrived at my house. I cut open the heavy outer bands, peeled back the foam packing, and found dozens of factory-sealed metal cans. They were brightly colored, decorated with cartoon balloons, and printed with the words: *HAPPY BIRTHDAY*.\r
 \r
@@ -1136,7 +1136,7 @@ My rowhouse had officially become the primary domestic distribution node for a m
 \r
 The digital side of the operation was just as clean. I logged onto my Pentium-powered PC, booted up our encrypted ZipLip webmail interface, and opened the green-on-black text screens. The interface was sterile, secure, and set to automatically purge messages after reading. On the screen was the master manifest: names, domestic addresses, and the exact quantities of vials and blister packs required.\r
 \r
-I set up a physical assembly line in my dining room. I would pop the seals on the novelty cans, break down the shipments, pack them into clean white cardboard boxes, and seal them with heavy tape. I never wrote a return address. I never used my own name.\r
+I set up a physical assembly line in my dining room. I would receive the package, pop the seals on the Happy Birthday cans, and break the entire shipment down. I would take my personal stuff out first—that was my cut. Then, I would repack the smaller shipments going wherever Spartak told me they needed to go. I packed them all into standard USPS First Class Priority Mail boxes. I never wrote a real return address. I never used my own name.\r
 \r
 My systems-engineering brain treated the entire hustle as an exercise in node isolation. "If one node in a network is compromised, the failure must be structurally contained," I told myself. \r
 \r
