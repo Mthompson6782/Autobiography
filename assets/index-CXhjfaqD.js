@@ -1064,7 +1064,7 @@ I wasn't thinking about starting an international smuggling operation. I wasn't 
 \r
 I walked upstairs, grabbed a pen and paper, and wrote a brief, simple letter. \r
 \r
-*Spartak. This is Michael from the Pattaya bar. I am ready.*\r
+*Spartak. This is Michael from the Pattaya bar from a couple years ago. I am ready. How do I get started.*\r
 \r
 I folded the letter, slipped it into an envelope, and wrote down the physical address from the napkin. I dropped it in the mail, sending it off across the Atlantic. That single piece of postage initialized the sequence that would rewrite my entire future.\r
 \r
