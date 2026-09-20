@@ -1094,6 +1094,8 @@ When the prosecutors finally assembled their case against me years later, they p
 \r
 These motherfuckers were just making shit up.\r
 \r
+In typical BCPD fashion, they had half the story but got it all wrong. Yeah, I was in AFSOC, but I fixed planes. I wasn\\'t a fucking commando. Unfortunately, there was no time to clear this up. They came at me hard.\r
+\r
 Admittedly, I\\'m no angel. But the reality of criminal escalation is rarely a grand design. It\\'s a series of frictionless steps, each one making mathematical sense at the time. I didn\\'t set out to build a multi-national distribution network. I just wanted a discount on my personal gear.\r
 \r
 After Spartak reached out via that Ziplip account, the transaction was remarkably clean. I wired the funds, and a few weeks later, my first personal order arrived. The quality was flawless. I was running a basic cycle of Testosterone Cypionate, Deca-Durabolin, and Dianabol. \r
@@ -1233,9 +1235,9 @@ I stayed cool. They were nervous.\r
 \r
 I looked at it from their perspective: They saw a 265-pound giant. They knew from their "investigation" that I was former Air Force Special Operations. They had already raided my house and found passports with stamps from all over the world. They found two Social Security numbers (a long story I’ll explain later).\r
 \r
-To the Baltimore City Police Department, I wasn't just a guy who sold some juice. I was Jason fucking Bourne.\r
+In typical BCPD fashion, they had half the story but got it all wrong. Yeah, I was in AFSOC, but I fixed planes. I wasn\\'t a fucking commando. Unfortunately, there was no time to clear this up. They came at me hard.\r
 \r
-They were shaking. They were terrified I was going to snap the handcuffs and start snapping necks.\r
+To the Baltimore County Police Department, I wasn\\'t just a guy who sold some juice. I was Jason fucking Bourne. They were terrified I was going to snap the handcuffs and start snapping necks.\r
 \r
 They flex-cuffed me and dragged me back to my house. It was destroyed. The door was kicked in, the couch was torn apart, holes punched in the sheetrock. Typical.\r
 \r
