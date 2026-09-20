@@ -1297,6 +1297,8 @@ He didn't like that answer. He called for backup, and they restrained me more to
 \r
 The booking officer, a woman who barely spoke English, asked for my information. I gave her my ID. She looked at it and wrote the name down wrong.\r
 \r
+That dumb fucking bitch. BCPD is Baltimore\\'s finest, but that ain\\'t saying much. She was probably crooked as hell, too. Dumb as a box of rocks, so fat her rolls were spilling out of her shitty uniform.\r
+\r
 Just like that, I caught another charge: *Using an Alias.* I didn't use an alias. She just didn't know how to read. Welcome to the system.\r
 \r
 They led me into the holding cell. At Central Booking, everyone waits in the tank. When they process your paperwork, they slide the charge sheet under the door. Every time a paper slides under, everyone gathers around to see what you’re in for. It's the only entertainment in the room.\r
