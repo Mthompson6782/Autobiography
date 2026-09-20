@@ -1398,7 +1398,7 @@ When the federal government kicks down your door, you assume you are going to fe
 \r
 But as the dust settled on my arrest, a different reality started to emerge. The feds looked at the case the local police had built. They looked at the evidence handling. They looked at the procedures. What they saw was classic Baltimore: sloppy and corrupt.\r
 \r
-The feds realized the case wouldn't hold up under the microscopic scrutiny of a federal courtroom. So, they quietly dropped their charges and handed the mess over to the State of Maryland.\r
+The feds realized the local case wouldn\\'t hold up under the microscopic scrutiny of a federal courtroom. So, they quietly backed out and deferred the entire mess over to the State of Maryland. Ultimately, my charges were not federal charges; they were state charges.\r
 \r
 The State of Maryland has significantly lower standards.\r
 \r
@@ -1451,7 +1451,7 @@ It was heavy, but it wasn't a coffin. The final tally was a five-year sentence w
 > **Sentence:** Jail Term: 5 Yrs. Suspended Term: 3 Yrs 6 Mos.\r
 > **Probation Supervised:** 3 Yrs.\r
 \r
-I walked out of lockup after four months with a federal record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.\r
+I walked out of lockup after four months with a state felony record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.\r
 \r
 \r
 \r
