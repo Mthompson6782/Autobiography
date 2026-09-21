@@ -1401,7 +1401,7 @@ I took the deal. I walked out of that courtroom with a state felony record and a
 \r
 \r
 \r
-I was on house arrest, but I wasn't dead. The state thought they had permanently sidelined me, turning me into a statistic���another kid from Baltimore who got caught up and ruined his life. They thought the ankle monitor was the end of the story.\r
+I was on house arrest, but I wasn't dead. The state thought they had permanently sidelined me, turning me into a statistic—another kid from Baltimore who got caught up and ruined his life. They thought the ankle monitor was the end of the story.\r
 \r
 They didn't realize it was just the beginning of the rebuild.\r
 \r
