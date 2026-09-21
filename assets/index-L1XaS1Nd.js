@@ -623,7 +623,7 @@ I jumped off the stoop. I grabbed the bayonet.\r
 \r
 Just like on North Avenue, I had choices. I could've run. I was fast and in great shape from wrestling. No one would've blamed me. I could've gone inside. I didn't. I wasn't brave. I was fucking stupid. That theme would keep showing up.\r
 \r
-I pulled it from its metal sheath. That sound. Real steel. I walked out to the center of the street to meet the line.\r
+I pulled it from its metal sheath. That satisfying rubbing sound of steel on steel. I walked out to the center of the street to meet the line.\r
 \r
 "If it's going to be all of you against me," I said, "it's going to be me and this against all of you."\r
 \r
@@ -669,13 +669,21 @@ I looked at the bayonet. It had done its job without drawing a drop of blood.\r
 \r
 Violence implied can be as effective as violence applied. They just need to know you're willing to take it to the end. I'll never forget how the temperature changed when Chris said I had stabbed people before. I didn't say it. I didn't brag. He said it calm and matter-of-fact, and the mob went quiet.\r
 \r
+<div style="page-break-after: always;"></div>\r
+\r
+# Chapter 9: The Truck\r
+\r
+> *STATUS: DRAFTED - expanded & polished.*\r
+\r
+---\r
+\r
 I personally was never a thief. I have a disdain for thievery. I think it's the absolute lowest form of shit you can be. But not everyone in my crew shared that sentiment.\r
 \r
 Around that time, Eddie Aaron got his driver's license and picked up a cheap old truck — maybe a Toyota Tacoma or something like that. Beat-up, but it meant freedom. We would put our pennies together, pile in, and drive out to a place in Glen Burnie called Doc Ribs. Tragic story. The man who owned it made incredible food, but he got robbed so many times — not by us, for the record — that it eventually drove him out of business. In Baltimore they say you only need a lid on the basket if you catch one crab. Drop a second crab in and you don't need the lid. Whenever one tries to climb out, the others pull him back down. Doc Ribs couldn't get out.\r
 \r
 Eddie would usually bring Artie Buckalew and Big Head along. Big Head was a huge pussy who betrayed me every chance he got. For whatever reason there must be some overlap between being a coward and being a thief, because Big Head was a master at it. He could steal the toast from underneath the butter before it even melted.\r
 \r
-Eddie would drive us out to Marley Station Mall, and Big Head would basically go shopping. Sam Goody for CDs. Trench coat, load up. Sports Authority, Dick's, anything he could get his hands on. This motherfucker once stole an entire hockey stick by shoving it down his shirt, threading it through his pant leg, and stiff-walking bow-legged right out the front doors.\r
+Eddie would drive us out to Marley Station Mall, and Big Head would basically go shopping. Sam Goody for CDs. Trench coat, load up. Sports Authority, Dick's, anything he could get his hands on.\r
 \r
 Artie was right there with him. Another one who could lift just about anything. And Eddie was a genius at getting CDs out of those rigid plastic security cases. Wasted mind. Wasted potential. Brilliant at that. If he slipped and the door alarms went off, Eddie would just stop, put his hands up with a confused look like, "What's going on?" The mall cops would usually wave him through. None of them ever got busted. None of them ever paid the consequences.\r
 \r
@@ -683,7 +691,7 @@ Just the daily crime wave of these assholes riding around in a cheap truck, stea
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 9: The Stet Docket\r
+# Chapter 10: The Stet Docket\r
 \r
 > *STATUS: DRAFTED - from Gemini sessions.*\r
 \r
@@ -797,7 +805,7 @@ I laid low for the next couple of months. And on January 3, 1995, I shipped out,
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 10: Bo Derek and the ASVAB\r
+# Chapter 11: Bo Derek and the ASVAB\r
 \r
 The United States Air Force was my exit strategy. But I wasn't going to let Baltimore go without a proper send-off. My friends planned a party for me at Jay's, a restaurant where my Aunt Mimi Carol worked. Mr. Jay was an interesting fellow with his own things about him, but anyway, we threw a little party to send me off. \r
 \r
@@ -867,7 +875,7 @@ When I finally graduated from tech school, my father and my grandfather came dow
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 11: Culture Shock and Cobra Gold\r
+# Chapter 12: Culture Shock and Cobra Gold\r
 \r
 > *STATUS: DRAFTED - from user dictation.*\r
 \r
@@ -1002,7 +1010,7 @@ I didn't know it yet, but that night in Thailand, sitting in the humid air of a 
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 12: The Note from Spartak\r
+# Chapter 13: The Note from Spartak\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -1070,7 +1078,7 @@ And just like that, it began.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 13: The Happy Birthday Cans\r
+# Chapter 14: The Happy Birthday Cans\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -1144,7 +1152,7 @@ I always rotated my routes to stay off the radar. I never dropped packages at th
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 14: The Orange Bank Account and the Seized Cans\r
+# Chapter 15: The Orange Bank Account and the Seized Cans\r
 \r
 > *STATUS: DRAFTED - heavily revised to reflect actual financial logistics.*\r
 \r
@@ -1200,7 +1208,7 @@ I was wrong. \r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 15: The Jason Bourne Misunderstanding\r
+# Chapter 16: The Jason Bourne Misunderstanding\r
 \r
 > *STATUS: DRAFTED - from Gemini sessions.*\r
 \r
@@ -1324,7 +1332,7 @@ But here I sat.\r
 <div style="page-break-after: always;"></div>\r
 \r
 \r
-# Chapter 16: Castle Grayskull\r
+# Chapter 17: Castle Grayskull\r
 \r
 > *STATUS: DRAFTED - from Gemini sessions.*\r
 \r
@@ -1384,7 +1392,7 @@ Killer K was located in the annex, and it was an open barracks style. While I wa
 \r
 I was an airplane mechanic who got some free steroids for mailing USPS boxes. But to the court, I was Jason Bourne. And to the guys sitting next to me in the courtroom lockup, I was Rambo. Once again, every head in the room turned and looked at me with this collective expression of: *Who the fuck is this guy?*\r
 \r
-# Chapter 17: The Plea Deal\r
+# Chapter 18: The Plea Deal\r
 \r
 > *STATUS: DRAFTED - pending review.*\r
 \r
@@ -1461,7 +1469,7 @@ They didn't realize it was just the beginning of the rebuild.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 18: Hiding the Hardware\r
+# Chapter 19: Hiding the Hardware\r
 \r
 > *STATUS: DRAFTED - pending review.*\r
 \r
@@ -1547,7 +1555,7 @@ But the weight never fully left. Even now, decades later, I sometimes feel the g
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 19: The Cheesecake Factory and the Personals Ad\r
+# Chapter 20: The Cheesecake Factory and the Personals Ad\r
 \r
 > *STATUS: DRAFTED - pending review.*\r
 \r
@@ -1605,7 +1613,7 @@ Cindy became my reference point. And from that night at the harbor forward, I ne
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 20: The Linthicum Theater\r
+# Chapter 21: The Linthicum Theater\r
 \r
 > *STATUS: DRAFTED - pending review.*\r
 \r
@@ -1679,7 +1687,7 @@ We had to get out. It was time to permanently uninstall Maryland from my life.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 21: Spartan Technology\r
+# Chapter 22: Spartan Technology\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -1757,7 +1765,7 @@ It was time to make the jump. But Spartan would always be the era where I proved
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 22: The Safety Queen and the Triconex Puzzle\r
+# Chapter 23: The Safety Queen and the Triconex Puzzle\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -1835,7 +1843,7 @@ And the bill for that negligence was quietly coming due.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 23: The 1.7 Billion Dollar Jump and the Wichita HQ\r
+# Chapter 24: The 1.7 Billion Dollar Jump and the Wichita HQ\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -1949,7 +1957,7 @@ And the warning light on my own dashboard was about to turn solid red.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 24: The Purple Belt and the Gray Hair\r
+# Chapter 25: The Purple Belt and the Gray Hair\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -2013,7 +2021,7 @@ I was heading to the C-suite. But the golden handcuffs were waiting to clamp shu
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 25: The Golden Handcuffs and the Great Escape\r
+# Chapter 26: The Golden Handcuffs and the Great Escape\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -2119,7 +2127,7 @@ The cancer was ticking away like a silent, unmitigated time bomb in the passenge
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 26: Takeda, MITRE, and the Airbnbs\r
+# Chapter 27: Takeda, MITRE, and the Airbnbs\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -2179,7 +2187,7 @@ Beneath the denim of my jeans, the left-groin lump had expanded from a harmless 
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 27: The Double Surgery and the Cold Sweat\r
+# Chapter 28: The Double Surgery and the Cold Sweat\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
@@ -2263,7 +2271,7 @@ The tumor was waiting for its turn.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
-# Chapter 28: Does It Light Up?\r
+# Chapter 29: Does It Light Up?\r
 \r
 > *STATUS: DRAFTED - expanded & polished.*\r
 \r
