@@ -411,7 +411,7 @@ He was right. Inside the Castle on the Hill, I was learning to code switch. I wa
 \r
 # Chapter 7: Mechanical Failures\r
 \r
-> *STATUS: DRAFTED - from Gemini sessions.*\r
+> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -419,144 +419,151 @@ I was fourteen the first time I had to stab someone.\r
 \r
 It's a fucking shame that a kid growing up in America has to say that sentence out loud. People hear it and assume I'm bragging or exaggerating. I'm not. I was a tall, lanky kid, still soft around the edges, who hadn't fully grown into his bones yet. Baltimore didn't care what I looked like. Baltimore only cared that I was standing in the wrong place.\r
 \r
-I had just gotten the hang of catching the buses needed to get to and from school. From my house, it was the 64 to the 3, or the 64 to the 36. I preferred the 64 to the 3. It didn't take me through any nicer an area, but if I was coming home I could take the 3 to the Inner Harbor, and in a worst-case scenario, I could always walk home. It's not like the ride was any nicer; it was still a shithole regardless of the bus line.\r
+I had just gotten the hang of the buses to and from school. From my house it was the 64 to the 3, or the 64 to the 36. I preferred the 64 to the 3. It didn't take me through any nicer an area, but if I was coming home I could take the 3 to the Inner Harbor, and in a worst-case scenario I could always walk home. It's not like the ride was any nicer. It was still a shithole regardless of the bus line.\r
 \r
-Sometimes you just had to take what you get. One day, as is often the case in Baltimore, the temperature hit 90 early enough in the morning that they had to send us home. You see, Baltimore City schools didn't have air conditioning. All that money in that school system and no AC. Where did it go? I think we all know.\r
+Sometimes you just had to take what you get. One day, as is often the case in Baltimore, the temperature hit 90 early enough in the morning that they had to send us home. Baltimore City schools didn't have air conditioning. All that money in that school system and no AC. Where did it go? I think we all know.\r
 \r
-So there I was, catching the 36 at my school to get to the 64 bus stop. Well, as luck would have it, the 36 broke down on North Ave. The driver kicked everyone off. No explanations. No backup plan. Just "everybody off." That was MTA back then. It still is in some places.\r
+So there I was, catching the 36 at school to get to the 64. As luck would have it, the 36 broke down on North Ave. The driver kicked everyone off. No explanations. No backup plan. Just "everybody off." That was MTA back then. It still is in some places.\r
 \r
 It was only a few more blocks to the next connecting stop, so me and Big Ed decided to walk it.\r
 \r
-Bad idea.\r
-That walk took us down North Avenue, right across the street from Greenmount Cemetery. If you know Baltimore, you know Greenmount. High stone walls, miles of graves, dead leaves, and silence. A city of the dead sitting in the middle of the city of the living, or what passes for living. We were on the opposite side of the street, just trying to get past it.\r
-We were halfway down the block when it happened.\r
-I didn’t hear footsteps. I didn’t hear yelling. I just felt my body jerk violently sideways. A grown man came flying in from behind and clotheslined me so hard my feet left the ground. I hit the pavement hard. Before I could get up, they grabbed me and dragged me into a side street.\r
-Ed didn’t wait. He ran. I can’t blame him. He was fourteen too. But that moment burned something into me: when things go bad, you might be completely alone.\r
-Two grown men stood over me, screaming.\r
-“Why you do that, yo? Why you do that, yo?”\r
-I hadn’t said a word. I hadn’t even looked at them. But they kept repeating it like it gave them a reason to beat the hell out of a white kid. They punched me, kicked me into the brick wall, cracked my ribs. My confusion lasted maybe three seconds. Then instinct woke up.\r
-I thought they were going to beat me to death.\r
-I reached into my pocket. All I had was a cheap pen. I wasn't carrying a knife yet. I was still innocent enough to think I didn't need one. One of them grabbed my collar and yanked me up to his face. \r
+Bad idea. That walk took us down North Avenue, right across the street from Greenmount Cemetery. If you know Baltimore, you know Greenmount. High stone walls, miles of graves, dead leaves, and silence. A city of the dead sitting in the middle of the city of the living, or what passes for living. We were on the opposite side of the street, just trying to get past it.\r
 \r
-That was the moment my brain snapped from confusion to survival.\r
+We were halfway down the block when it happened. I didn't hear footsteps. I didn't hear yelling. I just felt my body jerk violently sideways. A grown man came flying in from behind and clotheslined me so hard my feet left the ground. I hit the pavement hard. Before I could get up, they grabbed me and dragged me into a side street.\r
 \r
-No thought. No hesitation. Just a wild, desperate swing.\r
+Ed didn't wait. He ran. I can't blame him. He was fourteen too. But that moment burned something into me: when things go bad, you might be completely alone.\r
 \r
-I came in with a looping, icepick-style stab using everything I had. It felt like stabbing Play-Doh. The pen lodged deep in his neck. To this day I can't remember the guy's face. People have told me that's the mind protecting a fourteen-year-old boy. I do remember the satisfying feeling of it sticking in there good, though. Even now it brings a smile to my face thinking of that feeling. I hope that fucking loser lived and changed his ways. I believe in second chances.\r
+Two grown men stood over me, screaming. "Why you do that, yo? Why you do that, yo?" I hadn't said a word. I hadn't even looked at them. They kept repeating it like it gave them a reason to beat the hell out of a white kid. They punched me, kicked me into the brick wall, cracked my ribs.\r
 \r
-His friend saw the motion, saw the pen pierce his buddy's neck, and his face twisted into pure horror before he took off running like he'd been shot. \r
+My confusion lasted maybe three seconds. Then I thought they were going to beat me to death. I reached into my pocket. All I had was a cheap pen. I wasn't carrying a knife yet. I was still innocent enough to think I didn't need one.\r
+\r
+One of them grabbed my collar and yanked me up to his face.\r
+\r
+No thought. No hesitation. Just a wild, desperate swing. The pen went into his neck. To this day I can't remember the guy's face. People have told me that's the mind protecting a fourteen-year-old boy. I do remember the feeling of it sticking. Even now it brings a smile to my face. I hope that fucking loser lived and changed his ways. I believe in second chances.\r
+\r
+His friend saw it and took off running like he'd been shot.\r
 \r
 I bolted. Full sprint. No looking back. I walked the rest of the way home, a long way, thinking one stupid thing the whole time: I hope I don't catch hell from my dad for tearing my dorky white-and-green striped shirt.\r
 \r
-I don't know what happened to the guy I stabbed. All I know is he didn't chase me.\r
-That moment changed something in me. Not in a dramatic “this is the day I became a man” way. More like a quiet switch flipping. At fourteen I learned: grown men will hurt a kid, the world will not pause to help you, and your friends might run. Your only chance is whatever you can do in the next quarter-second.\r
-People hear stories like this and think trauma. Pain. Psychological scars. For me it wasn’t a wound. It was information. The world showed me how it worked. I adjusted.\r
+I don't know what happened to the guy I stabbed. All I know is he didn't chase me. That moment changed something in me. Not in a dramatic "this is the day I became a man" way. More like a quiet switch flipping. At fourteen I learned: grown men will hurt a kid, the world will not pause to help you, and your friends might run. Your only chance is whatever you can do in the next quarter-second.\r
 \r
-That adjustment became the new baseline. Sometime later that same year, I was catching the bus from City College to the number 64 switch at North Avenue. It was me, Big Ed - who had fled during the pen stabbing - and a kid named Rob Croft. \r
+People hear stories like this and think trauma. Pain. Psychological scars. For me it wasn't a wound. It was information. The world showed me how it worked. I adjusted.\r
 \r
-Rob was a ginger with strawberry blonde hair, and he had the most hollow, dead eyes I had ever seen on a kid. He was white trash like me, but he was broken on a level I couldn't even comprehend. The rumor was that he was a victim of the local "pay for play" pedophiles in his neighborhood. Whatever happened to him, it left him profoundly damaged. But we were school friends, and I liked talking to him. \r
+Sometime later that same year I was catching the bus from City College to the 64 switch at North Avenue. It was me, Big Ed — who had fled during the pen stabbing — and a kid named Rob Croft.\r
 \r
-We were on the bus when this skinny little skater punk and his friends started running their mouths. He was with a fat kid who looked like the Hawaiian Punch mascot, a tall, goofy kid in a trench coat, and a pretty girl named Sasha. They were all white kids. The skater punk had a piece of paper with a printed-out joke on it - something stupid like, "Speak slowly, I'm blonde."\r
+Rob was a ginger with strawberry-blonde hair, and he had the most hollow, dead eyes I had ever seen on a kid. He was white trash like me, but he was broken on a level I couldn't even comprehend. The rumor was that he was a victim of the local "pay for play" pedophiles in his neighborhood. Whatever happened to him, it left him profoundly damaged. But we were school friends, and I liked talking to him.\r
 \r
-I didn't get the joke. I told him as much. \r
+We were on the bus when this skinny little skater punk and his friends started running their mouths. He was with a fat kid who looked like the Hawaiian Punch mascot, a tall goofy kid in a trench coat, and a pretty girl named Sasha. They were all white kids. The skater punk had a piece of paper with a printed-out joke on it — something stupid like, "Speak slowly, I'm blonde."\r
+\r
+I didn't get the joke. I told him as much.\r
 \r
 "Well, you're fucking retarded," he said.\r
 \r
-I was instantly furious. I hadn't even engaged this kid, and he was taking shots. The argument escalated for the entire fifteen-minute ride to North Avenue. I finally told him to get off the bus at the next stop so I could beat his ass. \r
+I was instantly furious. I hadn't even engaged this kid, and he was taking shots. The argument escalated for the entire fifteen-minute ride to North Avenue. I finally told him to get off the bus at the next stop so I could beat his ass.\r
 \r
 I turned to Big Ed. "There's three of them. You got my back?"\r
-"No," Ed said. "I don't want to get involved."\r
-"Can you at least hold my books? If they beat my ass and throw my books down the sewer, my dad is going to kill me."\r
-"I don't want to be involved," Ed repeated. \r
 \r
-That was Big Ed. Always reliable when the temperature rose. \r
+"No," Ed said. "I don't want to get involved."\r
+\r
+"Can you at least hold my books? If they beat my ass and throw my books down the sewer, my dad is going to kill me."\r
+\r
+"I don't want to be involved," Ed repeated.\r
+\r
+That was Big Ed. Always reliable when the temperature rose.\r
 \r
 Rob Croft, sitting there in a cheap grey jacket with black sleeves, looked at me. His voice was ice-cold. "I got your back. Don't worry about it."\r
 \r
-We got off the bus at North Avenue. The skater punk, Hawaiian Punch, Trench Coat, and Sasha followed us out. \r
+We got off the bus at North Avenue. The skater punk, Hawaiian Punch, Trench Coat, and Sasha followed us out.\r
 \r
 The bus driver didn't pull away. He put the bus in park, leaned out the window, and settled in to watch the show.\r
 \r
-The skater punk started yapping again, trying to build himself up. Before I could even swing, Rob Croft stepped forward. He didn't yell. He didn't posture. He just looked at Hawaiian Punch and Trench Coat with those dead eyes and pointed at Sasha. \r
+The skater punk started yapping again. Before I could even swing, Rob Croft stepped forward. He didn't yell. He didn't posture. He just looked at Hawaiian Punch and Trench Coat with those dead eyes and pointed at Sasha.\r
 \r
-"If one of you motherfuckers jump in," Rob said, his voice flat and calm, "when we're done beating your ass, I'm gonna rape your girlfriend right here."\r
+"If one of you motherfuckers jump in," Rob said, flat and calm, "when we're done beating your ass, I'm gonna rape your girlfriend right here."\r
 \r
-The temperature on the street plummeted to absolute zero. I was kind of stunned by this myself. I mean, who fucking says that? Well, Rob did, because he was dead inside and broken. It was his way of standing up for his friend.\r
+I was stunned. Who the fuck says that? Rob did, because he was dead inside and broken. It was his way of standing up for his friend.\r
 \r
-The two friends froze. They were expecting a standard teenage fistfight. They were not accustomed to that level of pure, sociopathic darkness. There were no skateboards to hit me with. They were defenseless against that kind of threat. They completely backed off. It was just me and the skater punk. \r
+The two friends froze. They were expecting a standard teenage fistfight. They were not expecting that. They backed off. It was just me and the skater punk.\r
 \r
-The kid panicked and dove at me, trying to grab my balls for a desperate takedown. In South Baltimore, we are taught from an early age to protect our balls from cheap shots. I easily stuffed it, sprawled, and brawled, dropping him to the pavement. I just rained punches on him. *Boom, boom, boom.* Beating the absolute hell out of him. He was crying like a little bitch. Not an ounce of self-respect. I didn't even stab him. I just gave him an ass-whipping on the same level I would've given anyone. There was no malice to it. They might have suffered some emotional damage from Rob threatening to beat their asses and rape their female friend, but rest assured, they don't know how lucky they were that he was there. If I was alone and they jumped me, they would've got stabbed. At that point in my life, I had some practice stabbing people that jumped me. The thought definitely crossed my mind. The fight going the way it did saved their lives.\r
+The kid panicked and dove at me, trying to grab my balls for a takedown. In South Baltimore we are taught early to protect against cheap shots. I stuffed it, dropped him to the pavement, and beat the hell out of him. Boom, boom, boom. He was crying like a little bitch. Not an ounce of self-respect. I didn't stab him. I just gave him an ass-whipping. They don't know how lucky they were that Rob was there. If I was alone and they jumped me, it would have gone differently. At that point in my life I had already been jumped once with a pen in my pocket. The thought crossed my mind. The fight going the way it did saved their lives.\r
 \r
 And the entire time, the adult bus driver was hanging out of his window, cheering. "You go, champ! You go, champ!"\r
 \r
-The kid eventually scrambled up, wiped the blood off his face, and wandered off with his friends. I never saw any of them again. A lot of kids disappeared during the "great filter" of freshman year at City. Rob Croft was probably one of them. He was another tragic loss to the streets of Baltimore. I don't know what happened to him, but if he didn't kill himself, he almost certainly ended up in prison for murder. There was no coming back from where he was.\r
+The kid eventually scrambled up, wiped the blood off his face, and wandered off with his friends. I never saw any of them again. A lot of kids disappeared during the great filter of freshman year at City. Rob Croft was probably one of them. Another tragic loss to the streets of Baltimore. I don't know what happened to him, but if he didn't kill himself, he almost certainly ended up in prison. There was no coming back from where he was.\r
 \r
-But the next day, when I got on the bus, that same driver pointed to the seat right behind him. \r
+The next day, when I got on the bus, that same driver pointed to the seat right behind him.\r
 \r
-"I got a seat for you, Champ," he said. He saved that seat for me and called me "Champ" for the rest of the year. \r
+"I got a seat for you, Champ," he said. He saved that seat for me and called me Champ for the rest of the year.\r
 \r
-That was North Avenue. That was the environment. And a year later, on that same road, that environment was tested again.\r
-The corner of St. Paul and North Avenue was the kind of place where something bad could find you even if you weren’t looking for it. It was November, creeping up on Thanksgiving. The sky was flat, cloudy gray. North Avenue was a busy four-lane divided street. The tall brick and concrete buildings on either side acted like a canyon, trapping the heavy smell of diesel and gas from the MTA buses. That constant hum of traffic and sharp, impatient horns mixed with the greasy scent of lake trout and chicken boxes drifting down the block.\r
-It was busted pavement and a big black cast-iron fence in front of the old cathedral, a place that looked holy from a distance but meant nothing on the ground. God didn’t hang around there. The crackheads did. The stickup crews did. Kids like me did, because that was where the bus stopped.\r
-I was fifteen and already carried myself like someone who knew the rules of the street. Not because I was tough, but because the alternative was getting hurt.\r
-I saw them coming from a mile away.\r
-My friend Matt and I were waiting for the next bus when a group of five guys walked by and eyed us. They saw Matt’s Starter jacket and went around the corner to plan their move. When they came back they walked straight up to him.\r
-“I like your jacket, yo.”\r
-Matt said, “I like it too.”\r
-“Give it to me,” one of them said, and punched him.\r
-Matt was a soccer player, not a fighter. He ran his ass off. I probably could have run too, but I had a secret.\r
-Marcello came at me first.\r
-Five of them circled in, tightening the space, my back pinned against the cast-iron fence. I remember his face like a sketch: hard eyes, lip curled.\r
-“White motherfucker.”\r
-He was talking shit, trying to get in my head. I was already past listening. My pulse was too loud. The only things that mattered were distance and timing. If he got close enough to grab me, the others would pile on and it would be over.\r
-Instinct took over. Not training. Not technique. Just a kid who had fought enough to know you go first or you go down.\r
-I snapped a front kick straight into his face. Fast. Clean. Reflex. The ball of my foot split his lip. For one second the circle hesitated.\r
-Marcello wiped his mouth and grinned. “A karate boy. We like karate boys around here.”\r
-Before the words finished, another one came in from behind and smashed me over the head with a board. The shock split my scalp open. Warm blood ran instantly. The world rang like metal. I staggered, and that was the opening Jesse needed.\r
-He rushed me, grabbing, pulling, trying to drag me to the ground. He was bigger, older, heavier. If he got me down they would stomp me until there was nothing left. These guys didn’t like it when you fought back. They liked broken kids, not problems.\r
-The world snapped into slow motion.\r
-My left hand was already in my pocket, fingers wrapped around the handle of my old folding Buck knife. As Jesse tried to drag me down I turned sideways, flicked the blade open, and swung. It wasn’t a flashy move. It was a left hook to the body, with a knife. I didn’t show it to him. I just drove it straight into his chest like a hard punch.\r
-I felt the blade pierce his thick jacket. I felt it slide through skin and muscle. Then I felt it hit bone.\r
-That impact is what did it.\r
-A sudden, sickening mechanical snap ran through my hand. The force driving into his ribs was too much for the pin. The locking mechanism failed. The blade collapsed violently back against the handle and cut me. It didn’t take my fingers off, but it was close.\r
-I snapped my arm back to stab him again, ready to keep going, but I didn’t have to.\r
-I heard the wet hiss of air leaving his chest like someone letting air out of a tire. The fight left him instantly. He deflated, practically melting off me as his legs gave out. His eyes went wide with the confused look of an animal asking why while he was in the middle of attacking me. The rest of the circle froze, paralyzed by the shock of a fifteen-year-old kid pulling steel.\r
-That shock was the only gap I was going to get.\r
-The circle broke for half a second. I ran straight through it and sprinted into North Avenue traffic without looking. Tires shrieked. Horns blasted. Cars swerved. I didn’t care. I hit the far sidewalk, grabbed the heavy door, and burst into the Kentucky Fried Chicken like a live grenade.\r
-I had maybe ten seconds.\r
-I ran to the counter and yelled at the workers behind the bulletproof plexiglass to call 911. They just stared and laughed like it was a joke.\r
-Then the heavy glass doors blew open. The crew flooded in behind me.\r
-They dragged Jesse inside and laid him across a booth. His chest barely moved. The moment he was down, the entire atmosphere shifted. The laughter behind the glass stopped. This wasn’t a joke anymore. This was one of their own bleeding out on a plastic table.\r
-Suddenly it wasn’t just the crew. Grown adults who had nothing to do with the fight started shouting from the corners.\r
-“Kill that white motherfucker!”\r
-I was completely on my own again. Me against an entire neighborhood.\r
-I looked down at my hand. The knife was useless, the lock sheared, the blade loose and dangerous. A mechanical failure in the middle of a war. But they didn’t know that. From the outside the lock still looked fine. All they knew was that a crazy white kid backed into a corner was holding a knife and clearly willing to use it.\r
-The circle started forming again, tighter this time. They were trying to get behind me. I scrambled for anything I could throw: salt shakers, pepper shakers, plastic trays, anything to buy a few more seconds.\r
-Then someone swung from my blind spot and smashed a forty-ounce bottle over my head.\r
-The world detonated in white pain. The shockwave snapped front to back through my skull. My forehead split open. Blood poured into my eye, hot and thick, turning everything into a black-red blur. I tasted iron. I felt myself slipping.\r
-Move.\r
-I fought through a side gap and ran for the hallway to the bathroom. If I could get into a narrow space, only one or two could come at a time. Like Leonidas at Thermopylae. I hit them with the door, pushed inside, and slammed the lock.\r
-The broken Buck knife went into the toilet. Evidence gone.\r
-I looked in the mirror. My short spiked hair was matted with blood. One eye was swollen shut. I looked like the Terminator: half dead, half alive, all fight. I laughed. Not because it was funny. Because survival can make a man feel invincible for a second.\r
-Then the knock came. Baltimore Police Department.\r
-At first I didn’t believe them. I dropped to the floor, looked through the vent, and saw the blue pants. Real uniforms. I opened the door.\r
-They kicked the shit out of me immediately. I don’t blame them. All they knew was that a crazy white kid had stabbed someone and was on a rampage inside a packed KFC on North Avenue. I kept saying, “They jumped me. They jumped me.” Eventually the story sorted itself out.\r
-One cop stood in the hallway blocking Jesse’s aunt from reaching me. She was screaming that I killed her boy, that she wanted me dead. The officer, a big blond blocky dude, didn’t flinch.\r
-“Bitch, if you come down this hall I will blow your fucking brains out. This place is a war zone. This is how you act in war.”\r
+That was North Avenue. A year later, on that same road, it got tested again.\r
+\r
+The corner of St. Paul and North Avenue was the kind of place where something bad could find you even if you weren't looking for it. November, creeping up on Thanksgiving. Flat, cloudy gray sky. North Avenue a busy four-lane divided street. Tall brick and concrete on either side like a canyon, diesel and gas from the MTA buses, horns, the greasy smell of lake trout and chicken boxes drifting down the block. Busted pavement and a big black cast-iron fence in front of the old cathedral. A place that looked holy from a distance and meant nothing on the ground. God didn't hang around there. The crackheads did. The stickup crews did. Kids like me did, because that was where the bus stopped.\r
+\r
+I was fifteen. I saw them coming from a mile away. My friend Matt and I were waiting for the next bus when a group of five guys walked by and eyed us. They saw Matt's Starter jacket and went around the corner to plan their move. When they came back they walked straight up to him.\r
+\r
+"I like your jacket, yo."\r
+\r
+Matt said, "I like it too."\r
+\r
+"Give it to me," one of them said, and punched him.\r
+\r
+Matt was a soccer player, not a fighter. He ran his ass off. I probably could have run too.\r
+\r
+Marcello came at me first. Five of them circled in, my back pinned against the cast-iron fence. I remember his face like a sketch: hard eyes, lip curled. "White motherfucker." He was talking shit, trying to get in my head. I was already past listening.\r
+\r
+I kicked him in the face. Split his lip. For one second the circle hesitated. Marcello wiped his mouth and grinned.\r
+\r
+"A karate boy. We like karate boys around here."\r
+\r
+Before the words finished, another one came in from behind and smashed me over the head with a board. The shock split my scalp open. Warm blood ran instantly. The world rang like metal. I staggered, and that was the opening Jesse needed. He rushed me, grabbing, pulling, trying to drag me to the ground. He was heavier, older. If he got me down they would stomp me.\r
+\r
+My left hand was already in my pocket, on my old folding Buck knife. As Jesse tried to drag me down I turned sideways, flicked the blade open, and swung. It wasn't flashy. It was a left hook to the body, with a knife. I didn't show it to him. I drove it into his chest.\r
+\r
+I felt the blade go through the jacket. Then I felt it hit bone. A sudden snap ran through my hand. The force was too much for the pin. The lock failed. The blade collapsed back against the handle and cut me. It didn't take my fingers off, but it was close.\r
+\r
+I snapped my arm back to go again, but I didn't have to. I heard the air leave his chest like someone letting the air out of a tire. The fight left him. He melted off me. Eyes wide, confused, still in the middle of attacking me.\r
+\r
+The circle froze. That shock was the only gap I was going to get. I ran straight through it and sprinted into North Avenue traffic without looking. Tires shrieked. Horns blasted. Cars swerved. I didn't care. I hit the far sidewalk, grabbed the heavy door, and burst into the Kentucky Fried Chicken.\r
+\r
+I had maybe ten seconds. I ran to the counter and yelled at the workers behind the bulletproof plexiglass to call 911. They just stared and laughed like it was a joke.\r
+\r
+Then the heavy glass doors blew open. The crew flooded in behind me. They dragged Jesse inside and laid him across a booth. His chest barely moved. The laughter behind the glass stopped. This wasn't a joke anymore.\r
+\r
+Suddenly it wasn't just the crew. Grown adults who had nothing to do with the fight started shouting from the corners. "Kill that white motherfucker!"\r
+\r
+I was on my own again. Me against an entire neighborhood.\r
+\r
+I looked down at my hand. The knife was useless. Lock sheared. Blade loose. They didn't know that. From the outside it still looked like a knife in a kid's hand who had just used it.\r
+\r
+The circle started forming again, tighter this time, trying to get behind me. I scrambled for anything I could throw: salt shakers, pepper shakers, plastic trays.\r
+\r
+Then someone swung from my blind spot and smashed a forty-ounce bottle over my head. The world went white. My forehead split open. Blood poured into my eye. I tasted iron. I felt myself slipping.\r
+\r
+I fought through a side gap and ran for the hallway to the bathroom. Narrow space. One or two at a time. I hit them with the door, pushed inside, and slammed the lock. The broken Buck knife went into the toilet.\r
+\r
+I looked in the mirror. Short spiked hair matted with blood. One eye swollen shut. I looked half dead. I laughed. Not because it was funny. Because for a second I was still standing.\r
+\r
+Then the knock came. Baltimore Police Department. At first I didn't believe them. I dropped to the floor, looked through the vent, and saw the blue pants. Real uniforms. I opened the door.\r
+\r
+They kicked the shit out of me immediately. I don't blame them. All they knew was that a crazy white kid had stabbed someone and was locked in a bathroom in a packed KFC on North Avenue. I kept saying, "They jumped me. They jumped me."\r
+\r
+Eventually the story sorted itself out. One cop stood in the hallway blocking Jesse's aunt from reaching me. She was screaming that I killed her boy, that she wanted me dead. The officer, a big blond blocky dude, didn't flinch.\r
+\r
+"Bitch, if you come down this hall I will blow your fucking brains out. This place is a war zone. This is how you act in war."\r
+\r
 Paramedics finally got inside. They wrapped my head in so much gauze I looked like a mummy. When they rolled me out the crowd still wanted blood. I gave them the finger. Got one in.\r
-In the ambulance the escorting cop told me not to worry. I did what I had to do. He even gave advice no cop would ever say on record:\r
-“When you stab one of those animals, always yank the knife up to finish the job.”\r
-They took Jesse and me to different hospitals on opposite sides of the city. The doctor dug glass out of my scalp, poked into the wound to make sure nothing was lodged, then stitched me closed. I felt every pull.\r
-A few days later I went back to school. Instant legend.\r
-My father told me flat out they would kill me if they saw me again. He handed me a .38 and said, “If they come at you, you better start shooting.”\r
-Even the principal looked at me like she knew I was armed. To this day I appreciate Dr. Harris. She could have caused me a lot of trouble, but I think she understood I was just trying to go to school. There were certain realities when navigating the streets of Baltimore trying to get from A to B.\r
-And I knew something else, too.\r
-I never carried a folding knife again.\r
-A lock is a promise, and promises break. A hinge is a weakness, a single point of failure in a safety-critical system. In engineering you learn that every moving part is a liability, a statistical probability of mechanical collapse under load. From that day on I only carried a fixed blade. Simple. One piece of steel. No moving parts to fail you when the world ends.\r
-If the system was going to break, it wasn’t going to be because of the hardware.\r
-I was still learning.\r
 \r
----\r
+In the ambulance the escorting cop told me not to worry. I did what I had to do. Then he said something no cop would ever say on record: "When you stab one of those animals, always yank the knife up to finish the job."\r
+\r
+They took Jesse and me to different hospitals on opposite sides of the city. The doctor dug glass out of my scalp, poked into the wound to make sure nothing was lodged, then stitched me closed. I felt every pull.\r
+\r
+A few days later I went back to school. Instant legend. My father told me flat out they would kill me if they saw me again. He handed me a .38 and said, "If they come at you, you better start shooting." Even the principal looked at me like she knew I was armed. To this day I appreciate Dr. Harris. She could have caused me a lot of trouble, but I think she understood I was just trying to go to school.\r
+\r
+There were certain realities when you were just trying to get from A to B in Baltimore.\r
+\r
+And I knew something else, too. I never carried a folding knife again. A lock is a promise, and promises break. From that day on I only carried a fixed blade. One piece of steel. No moving parts to fail you when it counted.\r
+\r
+I was still learning.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
