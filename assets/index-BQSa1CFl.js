@@ -1176,33 +1176,7 @@ When the cops eventually raided my house and seized my life, they tore my financ
 \r
 The physical side of the operation was running flawlessly. The product flowed West through JFK, pushed right past Customs by our inside guy. \r
 \r
-Until the day the cans stopped arriving.\r
-\r
-I checked the Ziplip account. There was a terse message from Spartak.\r
-\r
-*Problem at JFK. The guy is spooked. A master carton got pulled for secondary inspection.*\r
-\r
-Our Customs guy hadn't been able to divert a massive shipment. An inspector had pulled one of the Happy Birthday cans, popped the seal, and found thousands of ampoules of Testosterone and Deca-Durabolin.\r
-\r
-The shipment was seized.\r
-\r
-The system was compromised. The physical routing node at JFK was burned.\r
-\r
-My immediate reaction was calculated panic. If Customs had the cans, they had the shipping labels. And if they had the shipping labels, they had the addresses of the destination nodes. Including my rowhouse in Baltimore.\r
-\r
-I waited for the door to get kicked in. I waited for the DEA or Customs agents to swarm the block. I stopped picking up packages. I went dark.\r
-\r
-Days passed. Then weeks.\r
-\r
-Nothing happened.\r
-\r
-The federal bureaucracy is a slow, lumbering beast. A seized package at JFK doesn't immediately trigger a SWAT raid in Baltimore. It triggers paperwork. It triggers a slow, methodical investigation that gets handed off from Customs, to the FDA, to the DEA, and eventually, to local law enforcement.\r
-\r
-I didn't know it at the time, but the seizure of the Happy Birthday cans was the inciting incident. The federal government was slowly, methodically connecting the dots. \r
-\r
-I thought I had survived the scare. I thought the system had successfully contained the failure.\r
-\r
-I was wrong. \r
+<!-- NEED ACTUAL STORY ON HOW THE OPERATION WAS COMPROMISED HERE --> \r
 \r
 ---\r
 \r
