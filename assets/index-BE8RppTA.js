@@ -569,99 +569,97 @@ I was still learning.\r
 \r
 # Chapter 8: The Bayonet and the Rules of Engagement\r
 \r
-> *STATUS: DRAFTED - from Gemini sessions.*\r
+> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
 There are shitholes, and then there is Curtis Bay.\r
 \r
-It sits on the southern tip of the city, smelling like chemical runoff and industrial exhaust. I was there hanging out at my friend Chris’s grandmother’s house. I had brought something with me that day. A piece of history. My grandfather, Charlie Thompson, was a Marine in World War II. He had given me his old service bayonet. Heavy steel. Bakelite handle. A weapon designed for the Pacific theater, now sitting on a stoop in South Baltimore because Chris’s grandmother’s husband liked war memorabilia. Chris's grandfather was a good man. He died of cancer. Everyone in Curtis Bay dies of cancer.\r
+It sits on the southern tip of the city, smelling like chemical runoff and industrial exhaust. I was there hanging out at my friend Chris's grandmother's house. I had brought something with me that day. A piece of history. My grandfather, Charlie Thompson, was a Marine in World War II. He had given me his old service bayonet. Heavy steel. Bakelite handle. A weapon designed for the Pacific theater, now sitting on a stoop in South Baltimore because Chris's grandmother's husband liked war memorabilia. Chris's grandfather was a good man. He died of cancer. Everyone in Curtis Bay dies of cancer.\r
 \r
 We were sitting out front when the trouble started. It was stupid. Trouble in Baltimore usually is.\r
 \r
 Some neighborhood girls were walking by, messing with Chris. They were flirting in that aggressive way people do around there, throwing shaving cream at him. Chris wiped it off his face and flicked it back. It was playing. It was nothing.\r
 \r
-Except the foam didn’t hit the girls. It landed on Jerry Rose.\r
+Except the foam didn't hit the girls. It landed on Jerry Rose.\r
 \r
-Jerry was a local guy who, in typical Baltimore fashion, had an ego made of glass. He didn’t see the joke. He became inconsolable. He started screaming, posturing, demanding respect. He wanted to fight Chris.\r
+Jerry was a local guy who, in typical Baltimore fashion, had an ego made of glass. He didn't see the joke. He became inconsolable. He started screaming, posturing, demanding respect. He wanted to fight Chris.\r
 \r
-Now, Chris was a good friend, but he wasn’t built for that. I knew it, and he knew it. I stepped in.\r
+Chris was a good friend, but he wasn't built for that. I knew it, and he knew it. I stepped in.\r
 \r
-“Come on,” Jerry said, turning his focus to me. “I’ll knock you out.”\r
+"Come on," Jerry said, turning his focus to me. "I'll knock you out."\r
 \r
-I didn’t respond.\r
+I didn't respond.\r
 \r
 Then he added the line that somehow hit different:\r
 \r
-“I’ll knock you out, big boy.”\r
+"I'll knock you out, big boy."\r
 \r
-For some reason that one phrase struck a nerve I still can’t explain. Something in me flipped.\r
+For some reason that one phrase struck a nerve I still can't explain. Something in me flipped.\r
 \r
-“Let’s go then.”\r
+"Let's go then."\r
 \r
-I didn’t wait. I walked him down. He started backpedaling across the street, realizing too late that I wasn’t playing. I caught him in the middle of Church Street.\r
+I didn't wait. I walked him down. He started backpedaling across the street, realizing too late that I wasn't playing. I caught him in the middle of Church Street.\r
 \r
-I threw a low kick into his calf. I had success doing this sparring with my friends, so I kept it in my bag. Being my friend wasn’t always easy. I used to practice on them and would routinely knock them down with that same leg sweep. We played rough as hell.\r
+I threw a low kick into his calf. I had success doing this sparring with my friends, so I kept it in my bag. Being my friend wasn't always easy. I used to practice on them and would routinely knock them down with that same sweep. We played rough as hell.\r
 \r
 The moment his leg buckled I followed with a straight cross that dropped him to the asphalt.\r
 \r
-He wasn’t out, but he was done. He scrambled up, humiliated, and ran down the alley.\r
+He wasn't out, but he was done. He scrambled up, humiliated, and ran down the alley.\r
 \r
-“I’ll be back, motherfucker!”\r
+"I'll be back, motherfucker!"\r
 \r
 I walked back to the stoop and sat down. Me and Chris laughed about it. We thought it was over.\r
 \r
 Ten minutes later, the alley filled up.\r
 \r
-Chris nudged me. “I bet Jerry is in that crowd.”\r
+Chris nudged me. "I bet Jerry is in that crowd."\r
 \r
-He was right. A mob was moving toward us, and right in the front was Jerry’s little muppet ass, bouncing around, pointing, yelling, “I told you I’d be back, bitch!”\r
+He was right. A mob was moving toward us, and right in the front was Jerry's little muppet ass, bouncing around, pointing, yelling, "I told you I'd be back, bitch!"\r
 \r
-The math had changed. One on one is a fight. One on ten is a hospitalization.\r
+One on one is a fight. One on ten is a hospitalization.\r
 \r
 I jumped off the stoop. I grabbed the bayonet.\r
 \r
-Just like back on North Avenue, I had choices. I could’ve run. I was fast and in great shape from being on the wrestling team. No one would’ve known, and if they did, they would’ve done the same thing facing what I faced. But I didn’t. I just had a problem with that concept. I wasn’t brave. I was fucking stupid. I could’ve just gone inside, but unfortunately my risk analysis was still maturing. I had the opportunity to do the smart thing but I didn’t have the capability. A theme that would continue to trouble me.\r
+Just like on North Avenue, I had choices. I could've run. I was fast and in great shape from wrestling. No one would've blamed me. I could've gone inside. I didn't. I wasn't brave. I was fucking stupid. That theme would keep showing up.\r
 \r
-I pulled it from its metal sheath. It made a loud, satisfying shiiiing sound. The sound of real steel. I walked out to the center of the street to meet the line. I didn’t hold it like a knife. I held it like the tool of war it was.\r
+I pulled it from its metal sheath. That sound. Real steel. I walked out to the center of the street to meet the line.\r
 \r
-“If it’s going to be all of you against me,” I said, sweeping the blade across the horizon of them, “it’s going to be me and this against all of you.”\r
+"If it's going to be all of you against me," I said, "it's going to be me and this against all of you."\r
 \r
-The crowd hesitated. They wanted to stomp a kid, not get gutted by an antique Marine weapon.\r
+The crowd hesitated. They wanted to stomp a kid, not get cut by a Marine's bayonet.\r
 \r
-Chris chimed in from the back, his voice matter-of-fact but with a melancholy tone. Like he already knew the outcome and almost felt bad for them. “He will stab you. He has stabbed people before.”\r
+Chris, from the back, matter-of-fact, almost melancholy, like he already knew the outcome and felt a little bad for them: "He will stab you. He has stabbed people before."\r
 \r
-It was the best reference letter I ever got. The tone and statement were chilling. The riled-up mob suddenly got real quiet. No one wants to get stabbed.\r
+Best reference letter I ever got. The mob got quiet. No one wants to get stabbed.\r
 \r
-The hesitation turned into a full stop. One of the guys stepped forward, hands up. “It don’t gotta be like that, man. Jerry just wants another go.”\r
+One of the guys stepped forward, hands up. "It don't gotta be like that, man. Jerry just wants another go."\r
 \r
 I looked at Jerry. I looked at the crowd.\r
 \r
-Truth is, I was way more balls than brains back then. I was fucking dumb. It was far more likely they would just jump me the second the bayonet was out of reach. But man, it felt so good beating Jerry’s ass earlier. My risk analysis was terrible, but I went ahead with it anyway.\r
+Truth is, I was way more balls than brains back then. Far more likely they jump me the second the bayonet is out of reach. But beating Jerry's ass earlier had felt so good. I went ahead with it anyway.\r
 \r
-“Fine,” I said.\r
+"Fine," I said.\r
 \r
-I turned to Chris and handed him the bayonet. “Hold this. If they jump me, just bring it to me. I’ll handle the rest.” While I know Chris wasn't built for that life, I was confident that he knew I would fuck him up if he let me get jumped and didn't at least bring me the bayonet.\r
-\r
-I was a little nervous. Handing away my force multiplier was a risk. But I’ve done dumber shit.\r
+I turned to Chris and handed him the bayonet. "Hold this. If they jump me, just bring it to me. I'll handle the rest." Chris wasn't built for that life. I was still pretty sure he'd bring it, if only because he knew what I'd do if he didn't.\r
 \r
 I met Jerry on the street line. Here we go again.\r
 \r
-As soon as I got close enough, I threw the exact same combination. Muscle memory. The leg kick landed hard. I missed the cross, but the damage was done. Jerry stumbled back limping and looking panicked.\r
+Same combination. The leg kick landed hard. I missed the cross, but the damage was done. Jerry stumbled back limping and looking panicked.\r
 \r
-“Hey!” he yelled. “No kicking!”\r
+"Hey!" he yelled. "No kicking!"\r
 \r
-I actually laughed. “You asked for this. There ain’t no rules.”\r
+I actually laughed. "You asked for this. There ain't no rules."\r
 \r
-“No kicking,” he pleaded. The crowd was silent. They were watching their champion try to negotiate the terms of his own ass-kicking.\r
+"No kicking," he pleaded. The crowd was silent. They were watching their champion try to negotiate the terms of his own ass-kicking.\r
 \r
-“The next time I touch you,” I said, “it’s going to be worse.”\r
+"The next time I touch you," I said, "it's going to be worse."\r
 \r
-Jerry started rethinking his life choices. That pain from the second unchecked leg kick he ate must’ve been setting in. He lost his nerve. He looked back at his friends, hoping they would save him, but they just encouraged him to get back in there. They wanted blood, even if it was his.\r
+Jerry started rethinking his life choices. That second kick was setting in. He lost his nerve. He looked back at his friends, hoping they would save him. They just told him to get back in there. They wanted blood, even if it was his.\r
 \r
-He came back out for one last try. He was slow, hesitant.\r
+He came back out for one last try. Slow. Hesitant.\r
 \r
-I didn’t even punch him. I just bitch-slapped the shit out of him. The sound cracked through the street. It was worse than a punch. A punch is violence. A slap is disrespect.\r
+I didn't even punch him. I just bitch-slapped the shit out of him. The sound cracked through the street. A punch is violence. A slap is disrespect.\r
 \r
 Jerry wilted. He turned around, walked back into the crowd, and disappeared down the alley.\r
 \r
@@ -669,23 +667,19 @@ His friends lingered for a second. Some of them actually came over and nodded, s
 \r
 I looked at the bayonet. It had done its job without drawing a drop of blood.\r
 \r
-Another lesson learned: Violence implied can sometimes be as effective as violence applied. Sometimes you don’t need to use the weapon. They just need to know you’re willing to take it to the end. I’ll never forget how the temperature changed when Chris mentioned I stabbed people before. I didn’t say it, I didn’t brag, I didn’t talk shit, but the calm matter-of-fact manner that he mentioned the prior events just took everyone from a riled up mob to a much more demure group. No one really wants to get stabbed.\r
+Violence implied can be as effective as violence applied. They just need to know you're willing to take it to the end. I'll never forget how the temperature changed when Chris said I had stabbed people before. I didn't say it. I didn't brag. He said it calm and matter-of-fact, and the mob went quiet.\r
 \r
----\r
+I personally was never a thief. I have a disdain for thievery. I think it's the absolute lowest form of shit you can be. But not everyone in my crew shared that sentiment.\r
 \r
-I personally was never a thief. I have a disdain for thievery. I think it's the absolute lowest form of shit that you could be. But not everyone in my crew shared that sentiment.\r
+Around that time, Eddie Aaron got his driver's license and picked up a cheap old truck — maybe a Toyota Tacoma or something like that. Beat-up, but it meant freedom. We would put our pennies together, pile in, and drive out to a place in Glen Burnie called Doc Ribs. Tragic story. The man who owned it made incredible food, but he got robbed so many times — not by us, for the record — that it eventually drove him out of business. In Baltimore they say you only need a lid on the basket if you catch one crab. Drop a second crab in and you don't need the lid. Whenever one tries to climb out, the others pull him back down. Doc Ribs couldn't get out.\r
 \r
-Around that time, Eddie Aaron got his driver's license and picked up a cheap old truck - maybe a Toyota Tacoma or something like that. It was a little beat-up truck, but it meant freedom. We would put our pennies together, pile in, and drive out to a place in Glen Burnie called Doc Ribs. It’s a tragic story, really. The man who owned it made incredible food, but he got robbed so many times - not by us, for the record - that it eventually drove him completely out of business. It reminds me of a saying they have in Baltimore about catching crabs: you only need to put a lid on the basket if you catch one crab. The second you drop another crab in there, you don't need the lid anymore. Whenever one tries to climb out and escape, the others will just reach up and pull him back down. Doc Rib just couldn't get out. The other crabs just kept pulling him back down into the bucket.\r
+Eddie would usually bring Artie Buckalew and Big Head along. Big Head was a huge pussy who betrayed me every chance he got. For whatever reason there must be some overlap between being a coward and being a thief, because Big Head was a master at it. He could steal the toast from underneath the butter before it even melted.\r
 \r
-Eddie would usually bring Artie Buckalew and Big Head along. Now, as I mentioned before, Big Head was a huge pussy who betrayed me at every possible chance he got. But for whatever reason, there must be some overlap between being a coward and being a thief, because Big Head was a master at it. He could steal the toast from underneath butter before it even melted.\r
+Eddie would drive us out to Marley Station Mall, and Big Head would basically go shopping. Sam Goody for CDs. Trench coat, load up. Sports Authority, Dick's, anything he could get his hands on. This motherfucker once stole an entire hockey stick by shoving it down his shirt, threading it through his pant leg, and stiff-walking bow-legged right out the front doors.\r
 \r
-Eddie would drive us out to Marley Station Mall, and Big Head would basically go shopping. He’d wander around Sam Goody and steal CDs. Because he was built like a combine, he would wear a trench coat and just load up. He’d hit up Sports Authority or Dick's Sporting Goods and steal anything he could get his hands on. This motherfucker once stole an entire hockey stick by shoving it down his shirt, threading it through his pant leg, and stiff-walking bow-legged right out the front doors. \r
+Artie was right there with him. Another one who could lift just about anything. And Eddie was a genius at getting CDs out of those rigid plastic security cases. Wasted mind. Wasted potential. Brilliant at that. If he slipped and the door alarms went off, Eddie would just stop, put his hands up with a confused look like, "What's going on?" The mall cops would usually wave him through. None of them ever got busted. None of them ever paid the consequences.\r
 \r
-Artie Buckalew was right there with him - another master thief who could lift just about anything. And Eddie? Eddie was a genius at getting CDs out of those rigid, theft-resistant plastic security cases. Again, a totally wasted mind and wasted potential, but he was brilliant at it. If he ever slipped up and the door alarms went off, Eddie would just stop, put his hands up with a confused look on his face like, "What's going on?" The mall cops would usually just wave him through. None of them ever got busted. None of them ever had to pay the consequences. \r
-\r
-It was just the daily crime wave of these assholes riding around in a cheap truck, stealing everything they could get their hands on, completely immune to the rules of the civilized world.\r
-\r
----\r
+Just the daily crime wave of these assholes riding around in a cheap truck, stealing everything they could get their hands on.\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
