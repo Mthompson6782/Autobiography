@@ -1225,7 +1225,7 @@ I looked at it from their perspective: They saw a 265-pound giant. They knew fro
 \r
 In typical BCPD fashion, they had half the story but got it all wrong. Yeah, I was in AFSOC, but I fixed planes. I wasn\\'t a fucking commando. Unfortunately, there was no time to clear this up. They came at me hard.\r
 \r
-To the Baltimore County Police Department, I wasn\\'t just a guy who sold some juice. I was Jason fucking Bourne. They were terrified I was going to snap the handcuffs and start snapping necks.\r
+To the Baltimore City Police Department, I wasn\\'t just a guy who sold some juice. I was Jason fucking Bourne. They were terrified I was going to snap the handcuffs and start snapping necks.\r
 \r
 They flex-cuffed me and dragged me back to my house. It was destroyed. The door was kicked in, the couch was torn apart, holes punched in the sheetrock. Typical.\r
 \r
