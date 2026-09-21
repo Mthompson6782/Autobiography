@@ -49,8 +49,6 @@ orcid: "0000-0002-0836-244X"\r
 \r
 # Chapter 1: Am I the Bad Guy?\r
 \r
-> *STATUS: DRAFTED - expanded & polished.*\r
-\r
 ---\r
 \r
 I was a spectacular fuckup. The guy they point at and say don't be that motherfucker.\r
@@ -78,8 +76,6 @@ The gold is the scar. This is me.\r
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 2: The Little Chickens and the Bleach\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -154,8 +150,6 @@ Pauline taught me that the credible threat of violence could create boundaries w
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 3: Audrey Avenue\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -241,8 +235,6 @@ But Brooklyn left its mark. Sometimes the world isn’t cleanly divided into goo
 \r
 # Chapter 4: Peeling Ears with the Paratrooper\r
 \r
-> *STATUS: DRAFTED - expanded & polished.*\r
-\r
 ---\r
 \r
 By the time I was twelve, my environment shifted. I moved out of Pauline's house and went to live exclusively with my dad on Johnson Street.\r
@@ -294,8 +286,6 @@ North Avenue was waiting.\r
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 5: The Neighborhood Boys\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -371,8 +361,6 @@ They were my first real team. They taught me who I wanted to be, and who I refus
 \r
 # Chapter 6: The City That Bleeds\r
 \r
-> *STATUS: DRAFTED - expanded & polished.*\r
-\r
 ---\r
 \r
 The irony of the Baltimore City Public School system is that trying to get a better education usually meant increasing your chances of getting killed on the way to class.\r
@@ -410,8 +398,6 @@ He was right. Inside the Castle on the Hill, I was learning to code switch. I wa
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 7: Mechanical Failures\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -569,8 +555,6 @@ I was still learning.\r
 \r
 # Chapter 8: The Bayonet and the Rules of Engagement\r
 \r
-> *STATUS: DRAFTED - expanded & polished.*\r
-\r
 ---\r
 \r
 There are shitholes, and then there is Curtis Bay.\r
@@ -673,8 +657,6 @@ Violence implied can be as effective as violence applied. They just need to know
 \r
 # Chapter 9: The Truck\r
 \r
-> *STATUS: DRAFTED - expanded & polished.*\r
-\r
 ---\r
 \r
 I personally was never a thief. I have a disdain for thievery. I think it's the absolute lowest form of shit you can be. But not everyone in my crew shared that sentiment.\r
@@ -692,8 +674,6 @@ Just the daily crime wave of these assholes riding around in a cheap truck, stea
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 10: The Stet Docket\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -877,8 +857,6 @@ When I finally graduated from tech school, my father and my grandfather came dow
 \r
 # Chapter 12: Culture Shock and Cobra Gold\r
 \r
-> *STATUS: DRAFTED - from user dictation.*\r
-\r
 ---\r
 \r
 If Baltimore was a lesson in how to survive in fucking chaos, Japan was a lesson in how to live in order. \r
@@ -1012,8 +990,6 @@ I didn't know it yet, but that night in Thailand, sitting in the humid air of a 
 \r
 # Chapter 13: The Note from Spartak\r
 \r
-> *STATUS: DRAFTED - expanded & polished.*\r
-\r
 ---\r
 \r
 I didn't start building an international drug distribution network while I was wearing a uniform. I wasn't that stupid.\r
@@ -1079,8 +1055,6 @@ And just like that, it began.\r
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 14: The Happy Birthday Cans\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -1154,8 +1128,6 @@ I always rotated my routes to stay off the radar. I never dropped packages at th
 \r
 # Chapter 15: The Orange Bank Account and the Seized Cans\r
 \r
-> *STATUS: DRAFTED - heavily revised to reflect actual financial logistics.*\r
-\r
 ---\r
 \r
 Scaling a clandestine operation introduces friction. But contrary to what the feds tried to claim later, I was never Spartak's international money launderer. \r
@@ -1183,8 +1155,6 @@ The physical side of the operation was running flawlessly. The product flowed We
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 16: The Jason Bourne Misunderstanding\r
-\r
-> *STATUS: DRAFTED - from Gemini sessions.*\r
 \r
 ---\r
 \r
@@ -1308,8 +1278,6 @@ But here I sat.\r
 \r
 # Chapter 17: Castle Grayskull\r
 \r
-> *STATUS: DRAFTED - from Gemini sessions.*\r
-\r
 ---\r
 \r
 They strip you down when you go into BCDC. They don't call it Baltimore City Detention Center on the inside; everyone just calls it Castle Grayskull. \r
@@ -1367,8 +1335,6 @@ Killer K was located in the annex, and it was an open barracks style. While I wa
 I was an airplane mechanic who got some free steroids for mailing USPS boxes. But to the court, I was Jason Bourne. And to the guys sitting next to me in the courtroom lockup, I was Rambo. Once again, every head in the room turned and looked at me with this collective expression of: *Who the fuck is this guy?*\r
 \r
 # Chapter 18: The Plea Deal\r
-\r
-> *STATUS: DRAFTED - pending review.*\r
 \r
 ---\r
 \r
@@ -1444,8 +1410,6 @@ They didn't realize it was just the beginning of the rebuild.\r
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 19: Hiding the Hardware\r
-\r
-> *STATUS: DRAFTED - pending review.*\r
 \r
 ---\r
 \r
@@ -1531,8 +1495,6 @@ But the weight never fully left. Even now, decades later, I sometimes feel the g
 \r
 # Chapter 20: The Cheesecake Factory and the Personals Ad\r
 \r
-> *STATUS: DRAFTED - pending review.*\r
-\r
 ---\r
 \r
 Before Cindy, I was a disaster with women.\r
@@ -1588,8 +1550,6 @@ Cindy became my reference point. And from that night at the harbor forward, I ne
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 21: The Linthicum Theater\r
-\r
-> *STATUS: DRAFTED - pending review.*\r
 \r
 ---\r
 \r
@@ -1662,8 +1622,6 @@ We had to get out. It was time to permanently uninstall Maryland from my life.\r
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 22: Spartan Technology\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -1741,8 +1699,6 @@ It was time to make the jump. But Spartan would always be the era where I proved
 \r
 # Chapter 23: The Safety Queen and the Triconex Puzzle\r
 \r
-> *STATUS: DRAFTED - expanded & polished.*\r
-\r
 ---\r
 \r
 Dr. Angela Summers lived up to every inch of her formidable, terrifying legend. \r
@@ -1818,8 +1774,6 @@ And the bill for that negligence was quietly coming due.\r
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 24: The 1.7 Billion Dollar Jump and the Wichita HQ\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -1933,8 +1887,6 @@ And the warning light on my own dashboard was about to turn solid red.\r
 \r
 # Chapter 25: The Purple Belt and the Gray Hair\r
 \r
-> *STATUS: DRAFTED - expanded & polished.*\r
-\r
 ---\r
 \r
 I was moving at the absolute speed of light, running my systems engine at maximum RPM. \r
@@ -1996,8 +1948,6 @@ I was heading to the C-suite. But the golden handcuffs were waiting to clamp shu
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 26: The Golden Handcuffs and the Great Escape\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -2103,8 +2053,6 @@ The cancer was ticking away like a silent, unmitigated time bomb in the passenge
 \r
 # Chapter 27: Takeda, MITRE, and the Airbnbs\r
 \r
-> *STATUS: DRAFTED - expanded & polished.*\r
-\r
 ---\r
 \r
 The Great American Loop was exactly the reset my brain desperately needed. Four months on the open highway with Cindy and the kids, watching the flat Texas highways dissolve into the cool, towering granite geology of the Pacific Northwest, did more than wash the corporate grease of the CETO sales grinder off my soul. It recalibrated my internal sensor arrays. \r
@@ -2162,8 +2110,6 @@ Beneath the denim of my jeans, the left-groin lump had expanded from a harmless 
 <div style="page-break-after: always;"></div>\r
 \r
 # Chapter 28: The Double Surgery and the Cold Sweat\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
@@ -2247,8 +2193,6 @@ The tumor was waiting for its turn.\r
 \r
 # Chapter 29: Does It Light Up?\r
 \r
-> *STATUS: DRAFTED - expanded & polished.*\r
-\r
 ---\r
 \r
 Here is the cold, physical truth about having your hip sawed in half and replaced with a modern titanium alloy joint: it really wasn't that bad.\r
@@ -2310,8 +2254,6 @@ What remained was a calibrated, resilient system: a man with a titanium femur, o
 <div style="page-break-after: always;"></div>\r
 \r
 # Epilogue: The Calculation\r
-\r
-> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
