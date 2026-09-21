@@ -693,115 +693,115 @@ Just the daily crime wave of these assholes riding around in a cheap truck, stea
 \r
 # Chapter 10: The Stet Docket\r
 \r
-> *STATUS: DRAFTED - from Gemini sessions.*\r
+> *STATUS: DRAFTED - expanded & polished.*\r
 \r
 ---\r
 \r
-The years rolled on, and the walls of Baltimore started to feel closer together. I needed an exit strategy.\r
+The years rolled on, and the walls of Baltimore started to feel closer together. I needed an exit.\r
 \r
-My buddy from Baltimore City College High School, Kareem, had a plan. "Let's go be Marines," he said.\r
+My buddy from City, Kareem, had a plan. "Let's go be Marines," he said.\r
 \r
-I figured, all right, whatever. It made sense. The Marines were tough, they were respected, and more importantly, they were away from fucking Baltimore. I wanted money for school, I wanted to see the world, and specifically, I wanted to go to Japan. I had been studying Japanese since the sixth grade - a little piece of discipline and culture that just didn't fit with the chaos around me.\r
+I figured, all right, whatever. It made sense. The Marines were tough, they were respected, and more importantly they were away from fucking Baltimore. I wanted money for school. I wanted to see the world. Specifically, I wanted to go to Japan. I had been studying Japanese since the sixth grade — a little piece of discipline and culture that just didn't fit with the chaos around me.\r
 \r
 We went to the enlistment office, ready to sign our lives away to the Corps. But the Marine recruiter was out to lunch or doing PT, or whatever Marines do. The office was empty. Just as we turned to leave, Tech Sergeant Cartwright walked out of the Air Force office next door. He looked at us and smiled.\r
 \r
-"What are you boys here for?" he asked.\r
+"What are you boys here for?"\r
 \r
-"We want to be Marines," we said.\r
+"We want to be Marines."\r
 \r
-Tech Sergeant Cartwright shook his head like a disappointed father. "Don't do that to yourself, son," he said. "You join the Air Force, I will fly you around the world. I will give you access to fine wine and fine women. You'll sleep in a bed, not in a foxhole."\r
+Cartwright shook his head like a disappointed father. "Don't do that to yourself, son. You join the Air Force, I will fly you around the world. I will give you access to fine wine and fine women. You'll sleep in a bed, not in a foxhole."\r
 \r
-I didn't need to hear about the wine. I just needed to hear "around the world." Anything that got me out of Baltimore was the right path. I signed the papers for the Delayed Enlistment Program right then and there. I was seventeen. My ship date was set for January 3, 1995. I had a few months to kill. I just had to stay out of trouble.\r
+I didn't need to hear about the wine. I just needed to hear "around the world." Anything that got me out of Baltimore was the right path. I signed the papers for the Delayed Enlistment Program right then and there. I was seventeen. Ship date: January 3, 1995. I had a few months to kill. I just had to stay out of trouble.\r
 \r
-Well, that's not always as easy as it sounds.\r
+That's not always as easy as it sounds.\r
 \r
-One night, I was sitting at home. I was sick, feeling under the weather, just trying to keep a low profile, when the phone rang. It was Charlie O'Heron - Big Ed's younger brother. He was up the street at the School 84 Rec Center, and he was panicked. Some guys were threatening to kill him.\r
+One night I was sitting at home. I was sick, feeling under the weather, just trying to keep a low profile, when the phone rang. Charlie O'Heron — Big Ed's younger brother. He was up the street at the School 84 Rec Center, and he was panicked. Some guys were threatening to kill him.\r
 \r
-"Where's Ed? Where's your big brother?" I asked.\r
+"Where's Ed? Where's your big brother?"\r
 \r
 "I'm on my own," Charlie said. "Ed told me to figure it out."\r
 \r
-That fucking burned me up. You don't leave your brother on his own. That's a direct violation of the code. "Call your brother," I said. "This is big brother shit." But if Ed wasn't going to step up, I had to.\r
+That fucking burned me up. You don't leave your brother on his own. That's a direct violation of the code.\r
+\r
+"Call your brother," I said. "This is big brother shit." But if Ed wasn't going to step up, I had to.\r
 \r
 "I'll be right there."\r
 \r
-I called my best friend, Mike Hammonds, and told him the situation. Mike didn't ask how many guys there were, or if they had guns. He just asked, "Are we going to do this?" He told me he'd be right there. Minutes later, he rolled up.\r
+I called Mike Hammonds and told him the situation. Mike didn't ask how many guys there were, or if they had guns. He just asked, "Are we going to do this?" He said he'd be right there. Minutes later, he rolled up.\r
 \r
-Charlie told us it was a whole group of them, so I decided I needed an equalizer. I grabbed a small sword. It wasn't my favorite weapon - hacking feels awkward to me, much less precise than stabbing - but a sword has a good psychological weight to it. People see that wide blade and they freeze. I tucked it inside my jacket, under my arm, and we walked up to the Rec Center.\r
+Charlie told us it was a whole group of them, so I grabbed a small sword and tucked it inside my jacket, under my arm. People see a wide blade and they freeze. We walked up to the Rec Center.\r
 \r
-Mike and I walked into the rec, Charlie was already there. Charlie pointed out the issue. He had been playing ball, things got rough, and he tried to walk away. Someone threw a basketball at his face. Charlie just caught it and set it down. It was a small act of defiance, but it enraged the guy. They told Charlie that the second he stepped outside, they were going to beat him to death.\r
+Mike and I walked in. Charlie was already there. He pointed out the issue. He'd been playing ball, things got rough, and he tried to walk away. Someone threw a basketball at his face. Charlie just caught it and set it down. Small act of defiance. It enraged the guy. They told Charlie that the second he stepped outside, they were going to beat him to death.\r
 \r
-There was no fighting inside the 84 Rec Center. If you got caught fighting in there, you got kicked out permanently. Then where would you go? So everybody kind of respected it. It was like holy ground.\r
+There was no fighting inside the 84 Rec. You got caught fighting in there, you got kicked out permanently. Then where would you go? So everybody kind of respected it. Holy ground.\r
 \r
 "Come on," I said. "Let's go."\r
 \r
-We walked out the doors. Mike went out first, Charlie went next, and I was just a couple of feet behind. As soon as we crossed the threshold, it was like stepping through a portal into pure pandemonium. It happened in seconds. The crowd swarmed. I saw Charlie cowering on the ground, getting pummeled. I saw Mike Hammonds throwing bombs, fighting off two or three guys at once.\r
+We walked out the doors. Mike first, Charlie next, me a couple of feet behind. As soon as we crossed the threshold, it was pandemonium. Seconds. The crowd swarmed. Charlie on the ground, getting pummeled. Mike throwing bombs, fighting off two or three guys at once.\r
 \r
-I moved toward Charlie. I figured Hammonds had his shit under control. There were two guys stomping Charlie, so I rushed them and knocked them off. One of the guys ran up a little ramp by the Rec Center - like a small retaining wall - and jumped off it like he thought he was Bruce Lee.\r
+I moved toward Charlie. I figured Hammonds had his shit under control. Two guys stomping Charlie. I rushed them and knocked them off. One of them ran up a little ramp by the Rec — a small retaining wall — and jumped off it like he thought he was Bruce Lee.\r
 \r
-I just swung with my left hand - a hard, overhand left - and completely connected. I punched that motherfucker right in his forearm, and I heard a loud snap. That was Mike Lowry. That little force basically broke his fucking arm. He was laying there on the ground crying like a bitch.\r
+I swung with my left, a hard overhand, and completely connected. I punched that motherfucker right in his forearm and heard a loud snap. That was Mike Lowry. Broke his arm. He was on the ground crying like a bitch.\r
 \r
-But that's when I realized things were getting serious. I pulled out the sword.\r
+That's when I realized things were getting serious. I pulled out the sword.\r
 \r
-"Alright, here we go," I thought.\r
+Everybody started yelling, "He's got a sword! He's got a knife!"\r
 \r
-As soon as I pulled it out, everybody started yelling, "He's got a sword! He's got a knife!"\r
-\r
-I looked over at Mike. He had some guy locked up in a WWF DDT-style hold, ready to just smash the guy's head straight into the concrete. Mike looked over at me, calm and honestly looking like he was legit having a good time.\r
+I looked over at Mike. He had some guy locked up in a WWF DDT-style hold, ready to smash the guy's head into the concrete. Mike looked over at me, calm, honestly looking like he was having a good time.\r
 \r
 "Come over here and break this motherfucker's ribs," Mike said.\r
 \r
-I walked over to Mike, and the sea of people just parted. I didn't even need to use the blade. I delivered a kick right to that guy's ass.\r
+I walked over. The sea of people parted. I didn't use the blade. I kicked that guy in the ass.\r
 \r
-"Come on, we gotta go," I said. "Ain't got time for this shit. Let's get going."\r
+"Come on, we gotta go," I said. "Ain't got time for this shit."\r
 \r
 We walked away. No one followed.\r
 \r
-I went back to my house. The high-voltage adrenaline was rapidly fading, and I was just back to being sick. I sat down. \r
+I went back to my house. The adrenaline faded and I was just sick again. I sat down.\r
 \r
-Then came a knock. It wasn't a normal knock. It was a violent battery that rattled the wooden frame of the house.\r
+Then came a knock. Not a normal knock. It rattled the wooden frame.\r
 \r
 "POLICE! OPEN THE GODDAMN DOOR!"\r
 \r
-I bolted up, my heart hammering against my ribs. I looked at my younger sister. She was already headed for the door.\r
+I bolted up. I looked at my younger sister. She was already headed for the door.\r
 \r
-"Don't let 'em in!" I yelled.\r
+"Don't let 'em in!"\r
 \r
-But she was young, and the sheer authority of the badge just had a presence over her. She didn't know what to do, so she just opened the door.\r
+She was young, and the badge had a presence over her. She didn't know what to do. She opened the door.\r
 \r
-In came two Baltimore Police officers from the Southern District. They didn't care about procedural decorum, warrants, or civil rights. They were just hyped up on their own shit.\r
+In came two Baltimore Police officers from the Southern District. They didn't care about warrants or civil rights. They were hyped up on their own shit.\r
 \r
-"Where's the fucking sword?" they demanded. So much for "snitches get stitches." Those little bitches ratted me out to the police.\r
+"Where's the fucking sword?"\r
 \r
-"What sword?" I said. "I don't have a sword. I don't even own a sword."\r
+So much for snitches get stitches. Those little bitches ratted me out.\r
 \r
-"If you're gonna be a little prick, then you're gonna go to fucking Southern District," one of them said.\r
+"What sword? I don't have a sword. I don't even own a sword."\r
 \r
-They handcuffed me and hauled me down to the Southern District lockup. I was hanging out in the cell with all kinds of wonderful and interesting people. The Black guy in the cell next to me leaned over.\r
+"If you're gonna be a little prick, then you're gonna go to fucking Southern District."\r
 \r
-"What you in here for, big youngin?" he asked.\r
+They cuffed me and hauled me down to Southern District lockup. I was hanging out in the cell with all kinds of wonderful and interesting people. The Black guy in the cell next to me leaned over.\r
 \r
-"I don't know, they picked me up for a fight," I said. "But I was just sitting in my house."\r
+"What you in here for, big youngin?"\r
 \r
-He looked at me and said, "The violent crime task force picked me up."\r
+"I don't know, they picked me up for a fight. But I was just sitting in my house."\r
 \r
-"Oh man, all right, cool," I said. "Good to know." He was pretty chill.\r
+He looked at me. "The violent crime task force picked me up."\r
 \r
-I sat there and waited. And waited. And waited. The next morning, the police came by. They brought me a goddamn Egg McMuffin and a cup of black coffee. I don't even drink coffee, but that's just what they gave you in the Southern District holding tank, so I sat there eating a shitty McMuffin and drinking shitty black coffee.\r
+"Oh man, all right, cool. Good to know." He was pretty chill.\r
 \r
-Eventually, my dad - Thompson - came to get me. I think my father had a connection and was able to talk the commissioner down. "Hey, this kid is already signed up for the Air Force. Don't fucking destroy his life over this stupid shit."\r
+I sat there and waited. And waited. And waited. The next morning the police came by. They brought me a goddamn Egg McMuffin and a cup of black coffee. I don't even drink coffee, but that's what they gave you in the Southern District holding tank, so I sat there eating a shitty McMuffin and drinking shitty black coffee.\r
 \r
-The commissioner saw it my dad's way. There was no real trial or anything. I stood in front of the commissioner, and he gave me a Stet docket. Basically, it was an indefinite postponement of the charges.\r
+Eventually my dad came to get me. I think he had a connection and was able to talk the commissioner down. This kid is already signed up for the Air Force. Don't destroy his life over this stupid shit.\r
 \r
-He was pretty straightforward. "If I even get a fucking whiff of you doing something between now and January when you ship out," the commissioner told me, "I'm gonna put you away."\r
+The commissioner saw it my dad's way. No real trial. I stood in front of him and he gave me a Stet docket. Indefinite postponement of the charges.\r
 \r
-"Understood," I said. "You won't hear a peep out of me."\r
+He was pretty straightforward. "If I even get a fucking whiff of you doing something between now and January when you ship out, I'm gonna put you away."\r
+\r
+"Understood. You won't hear a peep out of me."\r
 \r
 Charlie actually just died a few months ago. He had a lot of demons he fought over the years.\r
 \r
 I laid low for the next couple of months. And on January 3, 1995, I shipped out, leaving Baltimore behind.\r
-\r
----\r
 \r
 <div style="page-break-after: always;"></div>\r
 \r
