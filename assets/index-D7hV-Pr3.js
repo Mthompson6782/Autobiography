@@ -1136,7 +1136,7 @@ People bought from Spartak directly. Spartak's massive network of American buyer
 \r
 My only financial exposure was my own personal side hustle. \r
 \r
-With 35 loyal clients ordering $150 to $200 worth of gear every six or seven weeks, I was pulling in roughly $4,000 a month in pure, untaxed cash. Because Spartak gave me the gear for free in exchange for my logistics work, I had zero overhead. It was 100% profit.\r
+With 15 loyal clients ordering $150 to $200 worth of gear every six or seven weeks, I was pulling in roughly $4,000 a month in pure, untaxed cash. Because Spartak gave me the gear for free in exchange for my logistics work, I had zero overhead. It was 100% profit.\r
 \r
 But a young guy pulling in an extra $4,000 a month in street cash has a problem: you can't just walk into a Bank of America and start depositing stacks of hundreds without answering questions. You have to put the money somewhere.\r
 \r
