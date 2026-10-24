@@ -48,3 +48,11 @@ Second: **I completed the conflict check you and Michael requested and resolved 
    - **Chapter 15 (`<!-- NEED ACTUAL STORY ON HOW THE OPERATION WAS COMPROMISED HERE -->`) & The Two Social Security Numbers** (promised in Ch. 15 and Ch. 16).
    - **The "Hopkins" Chapter (*From Hoodlum to Hopkins*)** — earning his M.S. in Systems Engineering at Johns Hopkins with a felony record.
    - **Expanding Chapters 23–30** from their clean 400–600 word Oct 15 factual skeletons using real voice interviews with Michael.
+
+## Grok Bot Sloane, Oct 24: restorations
+
+Base: 81aab4a (Oct 15 text treated as trusted; Michael: "The Oct 15th draft might be the good one"). Compared backup MERGED_pre_81aab4a.md for Ch 1, 3, 4, 5, 7, 8, 10, 12-15. Not committed.
+
+- **Restored (Ch 12, +~360 words):** the drunk Staff Sergeant / rear-naked-choke / "Stand Before The Man" story, inserted after the wallet "culture shock" beat, before Cobra Gold. Text is Michael's own wording from his Dec 11 2025 ChatGPT session (not the backup's polished version). It was absent from the Oct 15 draft but present in the Oct 23 copy, so it looks like a later addition, not a deliberate cut.
+- **Not restored:** Ch 4 backup sensory padding (Hoppe's/Pall Mall/Colt .45/orange carpet, "operating system" dialogue, Vietnam claim). The Oct 15 text supersedes it (mid-80s service; adds choke/collarbone/McDojo). Ch 1, 3, 5, 7, 10, 13, 14: same facts, rewritten. Ch 8: the cut half duplicates Ch 9. Ch 15: the backup's JFK "secondary inspection" seizure account isn't corroborated, so the placeholder stays.
+- Open for Michael: the Kyokushin sparring scene (Ch 12 backup), the Big Head hockey-stick theft, the JFK Customs inside-guy account, the Ch 4 Vietnam vs mid-80s question, and Taco Rice/Hushmail details (already covered).

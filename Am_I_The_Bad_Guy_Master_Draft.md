@@ -902,6 +902,38 @@ The guy had chased me for blocks, sprinting in the suffocating heat, just to bri
 
 Now *that* was culture shock.
 
+But the military is still the military, and you can't escape human nature completely.
+
+My boss at the time was a newly minted Staff Sergeant. He had just squeaked by to get his stripe before the Buck Sergeant rank was phased out. He was feeling himself. He thought the extra stripe made him a tough guy.
+
+One night in the barracks, he got drunk. He decided he was going to be "Billy Badass" at my expense. He started talking shit, getting loud, trying to son me in front of the other guys.
+
+I talked shit back.
+
+He didn't like that. He threw a punch. It was the weakest, most uncoordinated loop I had ever seen. It was slow motion.
+
+I ducked under it, took his back, and gently sunk in the hooks. I wrapped my arm around his neck for a rear naked choke. But I didn't squeeze. I just held him there, controlling him, giving him a chance to cool off.
+
+"I'm going to break your legs!" he screamed.
+
+He was one of those "I see red and bodies hit the floor" weirdos. I knew he wasn't going to break anything.
+
+"You aren't doing anything from here," I whispered.
+
+He tried to raise his elbows high and slam them down into my thighs to break my grip. It was pathetic. It tickled more than it hurt. I actually laughed.
+
+"Okay," I said. "Nap time."
+
+I squeezed. He went limp in seconds. I let him slide to the floor and walked away.
+
+My friend saw the whole thing and lost his mind. "Whoa! You just choked out the Staff Sergeant!"
+
+He told the story to everyone. That was the mistake. You can fight, but you can't embarrass the chain of command.
+
+I got called in to "Stand Before The Man." The higher-ups weren't mad about the fight. They knew the Sergeant was drunk and out of line, but they couldn't have the story circulating. It undermined authority.
+
+We came to an understanding. I shut up about it, and nothing went on my record. Me and the Staff Sergeant actually became good friends after that. As is often the case, violence clears the air.
+
 Then came Operation Cobra Gold.
 
 We deployed to U-Tapao, Thailand, an airfield just outside of Pattaya, for the massive, joint-force military exercise. We were put up in the Merlin Pattaya hotel. It was a beautiful place. I remember walking into the lobby, looking around at the sheer luxury of it, and thinking, *Jesus Christ, I'm glad the Marine recruiter was out of the office that day I went in to enlist.* It was the nicest place this South Baltimore dirtball had ever stayed in.
