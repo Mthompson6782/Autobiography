@@ -1508,7 +1508,7 @@ Sinclair and I would talk from time to time. Not about my case—he never brough
 
 I owe Sinclair Holly tremendously. He didn't just give me a job. He gave me proof of concept. He proved that the rebuild was possible—that a man with a monitor on his ankle and a felony on his record could still walk into a building with "Northrop Grumman" on the door and do meaningful, competent work.
 
-The ankle monitor eventually came off. The eighteen months expired, and a parole officer removed the band. My ankle was pale and slightly indented where the plastic had pressed against the skin for a year and a half.
+The ankle monitor eventually came off around 2007. The eighteen months expired, and a parole officer removed the band. My ankle was pale and slightly indented where the plastic had pressed against the skin for a year and a half.
 
 I rubbed the spot where it had been. It felt strange to be free of it. I had grown so accustomed to the weight that its absence felt like a phantom limb.
 
@@ -1570,7 +1570,7 @@ In my whole life, almost nobody had ever shown me the gap between what I thought
 
 ---
 
-I trained at Ground Control for four years, roughly 2004 to 2007.
+I trained at Ground Control for four years, roughly 2005 to 2009.
 
 That room was a murderer's row. Every night you got your ego handed back to you by somebody. Big guys, small guys, wrestlers, guys who'd been doing it longer than I'd known it existed. You didn't get a night off. You didn't get to coast on your size. If you got lazy for one second, somebody put you to sleep or bent something the wrong way.
 
