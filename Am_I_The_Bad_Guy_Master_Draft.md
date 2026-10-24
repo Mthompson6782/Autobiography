@@ -1372,7 +1372,7 @@ I was an airplane mechanic who got some free steroids for mailing USPS boxes. Bu
 
 ---
 
-When the federal government kicks down your door, you assume you are going to federal prison. The feds have a 98% conviction rate for a reason—they don't go to trial unless they have a slam dunk.
+When the federal government kicks down your door, you assume you are going to federal prison. And it wasn't just the feds. It was a joint operation: federal agents, Baltimore PD, and even the Postmaster. The feds have a 98% conviction rate for a reason—they don't go to trial unless they have a slam dunk.
 
 But as the dust settled on my arrest in 2003, a different reality started to emerge. The feds looked at the case the local police had built. They looked at the evidence handling. They looked at the procedures. What they saw was classic Baltimore: sloppy and corrupt.
 
@@ -1420,7 +1420,7 @@ Luckily for both of us, it didn't come to that. He didn't throw out the deal. He
 
 It was heavy, but it wasn't a coffin. I received a ten-year suspended sentence, three years of probation, and eighteen months of house arrest.
 
-I walked out of lockup after four months, in August or September of 2003, with a federal record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.
+I walked out of lockup after four months, in August or September of 2003, with a felony record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.
 
 But I had a house. I had a wife. I had my brain.
 
@@ -1664,7 +1664,7 @@ I need to be clear: it wasn't love at first sight. By any stretch of the imagina
 
 But Cindy marked a profound shift in my timeline. She marked the "time to grow up" phase of my life. I still had plenty of maturing to do, but she was the pivot point. She became the reason to grow up.
 
-I didn't tell her everything that night. You don't drop "I was a federal drug distribution node" on a first date at the Cheesecake Factory. But I was honest about who I was in the present tense: a guy working nights at FMC, rebuilding his life, trying to figure out the next move.
+I didn't tell her everything that night. You don't drop "I was a drug distribution node" on a first date at the Cheesecake Factory. But I was honest about who I was in the present tense: a guy working nights at FMC, rebuilding his life, trying to figure out the next move.
 
 That was around 2007. I was wrapping up my time at FMC, and my career was about to launch into the stratosphere. But more importantly, I had finally found the one person who would stand next to me through everything that came after—the nuclear plants, the Koch boardrooms, the miserable CETO job in Houston, the cancer, the surgeries, and the cross-country road trip where a time bomb was riding in the passenger seat.
 
@@ -1820,7 +1820,7 @@ I was permanently redlined, running on pure caffeine, adrenaline, and the addict
 
 The profound difference was that this time, the hustle was completely legal. The intelligence and guile - the exact same strategic mechanics I had once used to coordinate international shipping drops, rotate postal boxes, and manage secure email accounts for the steroid network - were now being applied to a legitimate, high-value enterprise. 
 
-I was a convicted felon with a federal rap sheet who had been labeled a "Kingpin" by the state of Maryland and told he was too dangerous to ever hold a position of trust. And yet, here I was - the CEO of my own booming industrial consulting firm, signing seven-figure contracts with massive corporations, and helping to secure the critical infrastructure of the country.
+I was a convicted felon with a state rap sheet who had been labeled a "Kingpin" by the state of Maryland and told he was too dangerous to ever hold a position of trust. And yet, here I was - the CEO of my own booming industrial consulting firm, signing seven-figure contracts with massive corporations, and helping to secure the critical infrastructure of the country.
 
 Spartan Technology was my ultimate proof of concept. It proved to me, and to the world, that the failure wasn't in my operating system. It was just a matter of finding the right environment to run the code.
 
@@ -2014,7 +2014,7 @@ They also handed me a critical corporate "side job": leading the company’s **D
 
 I was sitting in executive boardrooms in Boston and Wichita, advising on national-level critical infrastructure protection, and pulling in a salary that made my old "Kingpin" steroid remailing income look like pocket change. 
 
-I had reached the absolute mountaintop of my professional career. I had proven to the world that a convicted felon with a federal rap sheet could master the most complex, safety-critical systems on the planet. 
+I had reached the absolute mountaintop of my professional career. I had proven to the world that a convicted felon with a rap sheet could master the most complex, safety-critical systems on the planet. 
 
 But as I stood at the peak, looking out over the corporate landscape, the high-voltage redline grind was taking its toll. My brain was running at a million miles an hour, but my body was starting to break down. 
 
@@ -2464,7 +2464,7 @@ My mornings are quiet now, a slow, peaceful routine that would have felt complet
 
 I sit at the solid oak kitchen island with Cindy, drinking a hot cup of fresh, black coffee. Her steady, calm presence is the ultimate reference point keeping my drifting system calibrated. We don't talk about court dates, ankle monitors, or cancer cells. We talk about the kids, about the garden, about the simple mechanics of a peaceful day. Gabby, Leonidas, and Alex are asleep in their rooms - kids who will never have to know the raw, metallic taste of fear, or what it feels like to wait for a bus on a street corner where grown men want to kill you.
 
-When I look back at the thick, dust-covered folder the government built on me - the one that labeled me a "Kingpin," the one that said my intelligence and guile made me the most dangerous man in a federal courtroom - it almost feels like it belongs to someone else. Almost.
+When I look back at the thick, dust-covered folder the government built on me - the one that labeled me a "Kingpin," the one that said my intelligence and guile made me the most dangerous man in a courtroom - it almost feels like it belongs to someone else. Almost.
 
 But I know it belongs to me. I had to survive the rap sheet to build the résumé.
 
