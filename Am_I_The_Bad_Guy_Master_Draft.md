@@ -1374,7 +1374,7 @@ I was an airplane mechanic who got some free steroids for mailing USPS boxes. Bu
 
 When the federal government kicks down your door, you assume you are going to federal prison. The feds have a 98% conviction rate for a reason—they don't go to trial unless they have a slam dunk.
 
-But as the dust settled on my arrest, a different reality started to emerge. The feds looked at the case the local police had built. They looked at the evidence handling. They looked at the procedures. What they saw was classic Baltimore: sloppy and corrupt.
+But as the dust settled on my arrest in 2003, a different reality started to emerge. The feds looked at the case the local police had built. They looked at the evidence handling. They looked at the procedures. What they saw was classic Baltimore: sloppy and corrupt.
 
 The feds realized the case wouldn't hold up under the microscopic scrutiny of a federal courtroom. So, they quietly dropped their charges and handed the mess over to the State of Maryland.
 
@@ -1420,7 +1420,7 @@ Luckily for both of us, it didn't come to that. He didn't throw out the deal. He
 
 It was heavy, but it wasn't a coffin. I received a ten-year suspended sentence, three years of probation, and eighteen months of house arrest.
 
-I walked out of lockup after four months with a federal record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.
+I walked out of lockup after four months, in August or September of 2003, with a federal record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.
 
 But I had a house. I had a wife. I had my brain.
 
@@ -1508,7 +1508,7 @@ Sinclair and I would talk from time to time. Not about my case—he never brough
 
 I owe Sinclair Holly tremendously. He didn't just give me a job. He gave me proof of concept. He proved that the rebuild was possible—that a man with a monitor on his ankle and a felony on his record could still walk into a building with "Northrop Grumman" on the door and do meaningful, competent work.
 
-The ankle monitor eventually came off around 2007. The eighteen months expired, and a parole officer removed the band. My ankle was pale and slightly indented where the plastic had pressed against the skin for a year and a half.
+The ankle monitor eventually came off in early 2005. The eighteen months expired, and a parole officer removed the band. My ankle was pale and slightly indented where the plastic had pressed against the skin for a year and a half.
 
 I rubbed the spot where it had been. It felt strange to be free of it. I had grown so accustomed to the weight that its absence felt like a phantom limb.
 
@@ -1650,11 +1650,11 @@ So I did what any engineer does when the conventional approach fails: I looked f
 
 I found a personals ad.
 
-Her name was Cindy. Her ad was straightforward, no games, no elaborate fantasy about who she wanted to attract. I responded. She thought I was goofy. I probably was—I was a 6'3" former steroid monster with a felony record and a freshly removed ankle monitor, trying to write a charming personal message. The contrast between my résumé and my dating profile must have been absurd.
+Her name was Cindy. Her ad was straightforward, no games, no elaborate fantasy about who she wanted to attract. I responded. She thought I was goofy. I probably was—I was a 6'3" former steroid monster with a felony record and a removed ankle monitor, trying to write a charming personal message. The contrast between my résumé and my dating profile must have been absurd.
 
 But she agreed to meet me.
 
-We had dinner at the Cheesecake Factory at the Inner Harbor in Baltimore. It has since shut down, because anything that stays in Baltimore long enough shrivels and dies. But that night, the place was alive. The harbor lights reflected off the water, the restaurant was loud and warm, and I was sitting across from a woman who didn't know a single thing about North Avenue, the Kingpin indictment, or the ankle monitor I had just freshly gotten off my leg.
+We had dinner at the Cheesecake Factory at the Inner Harbor in Baltimore. It has since shut down, because anything that stays in Baltimore long enough shrivels and dies. But that night, the place was alive. The harbor lights reflected off the water, the restaurant was loud and warm, and I was sitting across from a woman who didn't know a single thing about North Avenue, the Kingpin indictment, or the ankle monitor I had gotten off my leg.
 
 In fact, I must have looked like a complete mess. I literally had a bolster sewn into my ear that night to correct a fresh case of cauliflower ear from jiu-jitsu.
 
