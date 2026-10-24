@@ -15,12 +15,13 @@ function App() {
   const [editContent, setEditContent] = useState('')
   const [isSaving, setIsSaving] = useState(false)
 
-  // Parse manuscript
+  // Split on every top-level heading so chapter order matches the master draft,
+  // including the title page, Epilogue, and About the Author.
   const parseManuscript = (rawText) => {
-    const parts = rawText.split(/(?=# Chapter \d+)/)
+    const parts = rawText.split(/(?=^# )/m).filter((part) => part.trim() !== '')
     return parts.map((part, index) => {
-      const match = part.match(/# (.*?)\n/)
-      const title = match ? match[1] : (index === 0 ? "Prologue & Intro" : `Chapter ${index}`)
+      const match = part.match(/^# ([^\r\n]+)/)
+      const title = match ? match[1].trim() : `Section ${index + 1}`
       return { id: index, title, content: part }
     })
   }
