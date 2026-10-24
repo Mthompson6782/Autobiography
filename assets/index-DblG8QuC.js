@@ -1539,7 +1539,111 @@ But the weight never fully left. Even now, decades later, I sometimes feel the g
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 20: The Cheesecake Factory and the Personals Ad
+# Chapter 20: Did I Win?
+
+The first thing I did when that band came off my ankle was sit down at the computer and type three letters into Google.
+
+BJJ. Baltimore.
+
+That was it. That was the whole search.
+
+Back then there weren't a dozen jiu-jitsu schools on every strip mall in Maryland. There was one. Baltimore Ground Control. It was in an old broom factory, and it was the only gym in town.
+
+I drove over there feeling pretty good about myself. I want to be honest about that, because the whole story turns on it. I had wrestled in high school. I had trained karate in Japan. In my head, I was well-rounded. I had stand-up, I had takedowns, I had been in real fights on real streets. What was some guy in pajamas going to show me?
+
+I was about 6'3" and 220 pounds. The steroids had tapered off and I was slimming down, but I was still big, and I was still fast.
+
+The coach was John Rallo. John was 6'4" and 260, a Renzo Gracie brown belt. He didn't give me a speech. He didn't ask about my background. He looked at me, and he sent me over to wrestle a guy named Rick Desper.
+
+Fine by me.
+
+I shot a double-leg on Rick. Clean. I picked him up and slammed him. Then I cradled him up, the way I'd been taught on a high school mat, and I remember thinking: this is easy.
+
+I was proud. I was actually proud.
+
+Then Rick triangle-choked me unconscious.
+
+I don't remember the choke finishing. Nobody does. That's the point of it. One second I'm winning, and the next thing I know, somebody is tapping me on the face.
+
+I opened my eyes and asked the only question that mattered to me.
+
+"Did I win?"
+
+"No. Rick choked you out."
+
+I lay there for a second and let that sink in.
+
+"Well shit," I said. "Sign me up."
+
+---
+
+People ask me why getting choked unconscious by a stranger made me want to pay that gym money. I get it. It sounds backwards.
+
+But think about where I was. I had just spent a year and a half with the State of Maryland strapped to my leg. I had a felony on my record. I had been the guy who thought he had it all figured out, the guy who ran the numbers and decided the risk was worth it, and I had been wrong. Dead wrong. The plea deal and the house arrest were the error code.
+
+And here was this mat telling me the exact same thing, in about two minutes, with no lawyers involved.
+
+I thought I was well-rounded. I wasn't. I thought I was winning. I wasn't. The guy underneath me wasn't losing. He was setting a trap, and I walked into it with my chest out.
+
+That's not humiliating. That's information.
+
+In my whole life, almost nobody had ever shown me the gap between what I thought I knew and what was actually true that fast and that clean. Rick did it with his legs. I wanted to learn whatever that was.
+
+---
+
+I trained at Ground Control for four years, roughly 2004 to 2007.
+
+That room was a murderer's row. Every night you got your ego handed back to you by somebody. Big guys, small guys, wrestlers, guys who'd been doing it longer than I'd known it existed. You didn't get a night off. You didn't get to coast on your size. If you got lazy for one second, somebody put you to sleep or bent something the wrong way.
+
+That's what made me good. Not me. Them.
+
+I started competing at ISWA and NAGA tournaments, several times, at 205. And here's the thing I noticed right away: I was stronger than the guys I was fighting. Not because I was some kind of freak. Because I had spent every week getting crushed by Ground Control's training partners. When you get beat up by the best in the building all week, the guy across from you on Saturday feels light.
+
+One tournament, they merged the 205 division with the heavyweights, all the way up to 265.
+
+My opponent was a Division One football player type. Huge. He had a Gracie Barra tattoo, so I knew he'd been around a gym. When the match started, he wrestled like a dinosaur. Big, heavy, all power, coming straight forward.
+
+And then, about thirty seconds in, he gassed.
+
+You could see it happen. The arms got heavy. The breathing went ragged. All that size needed fuel, and the tank was empty.
+
+I submitted him.
+
+I never saw him again.
+
+I think about that guy sometimes, because I was that guy once. Big, strong, proud, sure that what worked before was going to keep working. The difference is I got choked out on my first day and learned it for free. He learned it on a tournament mat in front of people.
+
+---
+
+Around 2007, Renzo Gracie came to the Ground Control Christmas party.
+
+If you don't know jiu-jitsu, that might not mean much. If you do, you understand. Renzo is one of the names. And that night he was handing out belts.
+
+I got my blue belt directly from Renzo Gracie.
+
+I'm not going to pretend I was cool about it. A few years earlier I was sitting on a couch staring at a black plastic band on my ankle. Now a Gracie was tying a belt around my waist in an old broom factory in Baltimore.
+
+That's what rebuilding looks like. It doesn't happen in one move. It happens one night at a time, getting tapped, getting up, coming back.
+
+---
+
+I've thought a lot about that first question.
+
+*Did I win?*
+
+It's the question I'd been asking my whole life. On North Avenue. In the military. In every scheme, every calculation, every risk I took. Did I win? Did I come out ahead?
+
+For a long time, I kept asking it even when the answer was obviously no.
+
+What Ground Control gave me was the ability to hear the answer. No, you didn't win. Rick choked you out. And then to say: okay. Now teach me.
+
+Well shit. Sign me up.
+
+---
+
+<div style="page-break-after: always;"></div>
+
+# Chapter 21: The Cheesecake Factory and the Personals Ad
 
 > *STATUS: DRAFTED — pending review.*
 
@@ -1597,7 +1701,7 @@ Cindy became my reference point. And from that night at the harbor forward, I ne
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 21: The Linthicum Theater
+# Chapter 22: The Linthicum Theater
 
 > *STATUS: DRAFTED — pending review.*
 
@@ -1671,7 +1775,7 @@ We had to get out. It was time to permanently uninstall Maryland from my life.
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 22: Spartan Technology
+# Chapter 23: Spartan Technology
 
 > *STATUS: DRAFTED - expanded & polished.*
 
@@ -1749,7 +1853,7 @@ It was time to make the jump. But Spartan would always be the era where I proved
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 23: The Safety Queen and the Triconex Puzzle
+# Chapter 24: The Safety Queen and the Triconex Puzzle
 
 > *STATUS: DRAFTED - expanded & polished.*
 
@@ -1827,7 +1931,7 @@ And the bill for that negligence was quietly coming due.
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 24: The 1.7 Billion Dollar Jump and the Wichita HQ
+# Chapter 25: The 1.7 Billion Dollar Jump and the Wichita HQ
 
 > *STATUS: DRAFTED - expanded & polished.*
 
@@ -1941,7 +2045,7 @@ And the warning light on my own dashboard was about to turn solid red.
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 25: The Purple Belt and the Gray Hair
+# Chapter 26: The Purple Belt and the Gray Hair
 
 > *STATUS: DRAFTED - expanded & polished.*
 
@@ -2005,7 +2109,7 @@ I was heading to the C-suite. But the golden handcuffs were waiting to clamp shu
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 26: The Golden Handcuffs and the Great Escape
+# Chapter 27: The Golden Handcuffs and the Great Escape
 
 > *STATUS: DRAFTED - expanded & polished.*
 
@@ -2111,7 +2215,7 @@ The cancer was ticking away like a silent, unmitigated time bomb in the passenge
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 27: Takeda, MITRE, and the Airbnbs
+# Chapter 28: Takeda, MITRE, and the Airbnbs
 
 > *STATUS: DRAFTED - expanded & polished.*
 
@@ -2171,7 +2275,7 @@ Beneath the denim of my jeans, the left-groin lump had expanded from a harmless 
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 28: The Double Surgery and the Cold Sweat
+# Chapter 29: The Double Surgery and the Cold Sweat
 
 > *STATUS: DRAFTED - expanded & polished.*
 
@@ -2255,7 +2359,7 @@ The tumor was waiting for its turn.
 
 <div style="page-break-after: always;"></div>
 
-# Chapter 29: Does It Light Up?
+# Chapter 30: Does It Light Up?
 
 > *STATUS: DRAFTED - expanded & polished.*
 
