@@ -1481,7 +1481,7 @@ But the weight never fully left. Even now, decades later, I sometimes feel the g
 
 ---
 
-The first thing I did when that band came off my ankle was sit down at the computer and type three letters into Google.
+The first thing I did when that band came off my ankle was sit down at the computer and type three letters and a city into Google.
 
 BJJ. Baltimore.
 
