@@ -1727,7 +1727,7 @@ But Johnny and I stayed in touch. We were cut from the same Baltimore cloth — 
 
 Over a couple of beers, we hatched a plan to start our own industrial consulting and instrumentation firm: Spartan Technology.
 
-By then, I had moved from TAI over to BGE/Exelon. I was stationed down at Spring Gardens on the Patapsco River, re-engineering the natural gas distribution system for Baltimore City and working on the plant's Liquefied Natural Gas (LNG) control systems. It was serious, high-consequence work — the kind where a bad calibration doesn't just cost money, it levels a city block.
+By then, I had moved from TAI over to BGE/Exelon. I was stationed down at Spring Gardens on the Patapsco River, re-engineering the natural gas distribution system for Baltimore City and working on the plant's Liquefied Natural Gas (LNG) control systems. It was serious, high-consequence work — the kind where a bad calibration doesn't just cost money, it levels a city block. That's also when I started at The Johns Hopkins University Whiting School of Engineering, way back in Baltimore, and I kept chipping away at it from there.
 
 I wasn't content with just one job. The same restless drive that had gotten me in trouble with the Happy Birthday cans was still running at full speed, only now it was pointed in a legal direction.
 
@@ -1834,7 +1834,7 @@ By day, I was a Director at Koch. By night, I was on the mats at the **Wichita J
 
 If you know American jiu-jitsu, you know rank under Haines isn't handed out for attendance. You earn it in deep water. That's where I earned my **Purple Belt** — the rank where you stop just collecting moves and start understanding the entire system of leverage.
 
-Between the corporate pressure at Koch, the MIT Sloan coursework, going to The Johns Hopkins University Whiting School of Engineering (and yes, we pronounce the "The"), and grinding on the mats every night, I was redlining my body and ignoring the fatigue building up underneath.
+Between the corporate pressure at Koch, the MIT Sloan coursework, still chipping away at The Johns Hopkins University Whiting School of Engineering (and yes, we pronounce the "The"), and grinding on the mats every night, I was redlining my body and ignoring the fatigue building up underneath.
 
 I set my sights on the next rung up the ladder: **President of Koch Specialty Plant Services (KSPS)**.
 
