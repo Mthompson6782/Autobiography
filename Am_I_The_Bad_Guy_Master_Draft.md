@@ -1474,6 +1474,8 @@ I was about 6'3" and 220 pounds. The steroids had tapered off and I was slimming
 
 The coach was John Rallo. John was 6'4" and 260, a Renzo Gracie brown belt. He didn't give me a speech. He didn't ask about my background. He looked at me, and he sent me over to wrestle a guy named Rick Desper.
 
+So about Rick. Rick was like 5'7" and maybe 150 pounds.
+
 Fine by me.
 
 I shot a double-leg on Rick. Clean. I picked him up and slammed him. Then I cradled him up, the way I'd been taught on a high school mat, and I remember thinking: this is easy.
