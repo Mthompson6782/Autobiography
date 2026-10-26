@@ -67,3 +67,4 @@ Confirmed by Michael on Oct 25, 2026, and worked into the master:
 5. Hockey-stick shoplifting line goes back in The Truck (Ch. 9).
 6. JFK: the insider who was in on the take got popped, the master carton was opened, and that set things in motion. (Fills the Ch. 15 placeholder; timing and how he found out are still open.)
 7. Spartak: his own gear became free as the operation grew; at the peak Spartak gave him a lot of free stuff; that's when he started selling it on the side. No "half price."
+8. Ed = Big Head = Big Ed (same person). The hockey-stick story is told once, in Ch. 5; removed the duplicate from Ch. 9.
