@@ -1834,7 +1834,7 @@ By day, I was a Director at Koch. By night, I was on the mats at the **Wichita J
 
 If you know American jiu-jitsu, you know rank under Haines isn't handed out for attendance. You earn it in deep water. That's where I earned my **Purple Belt** — the rank where you stop just collecting moves and start understanding the entire system of leverage.
 
-Between the corporate pressure at Koch, the MIT Sloan coursework, and grinding on the mats every night, I was redlining my body and ignoring the fatigue building up underneath.
+Between the corporate pressure at Koch, the MIT Sloan coursework, going to The Johns Hopkins University Whiting School of Engineering (and yes, we pronounce the "The"), and grinding on the mats every night, I was redlining my body and ignoring the fatigue building up underneath.
 
 I set my sights on the next rung up the ladder: **President of Koch Specialty Plant Services (KSPS)**.
 
