@@ -243,7 +243,7 @@ Johnson Street was different. It was a place where boys had to figure out how to
 
 But the real education didn't come from the streets. It came from Mike's living room.
 
-Mike's dad, Mr. Hammonds, was an Army paratrooper who had served during the mid-80s. He wasn't some towering action hero. He was short and stout, the kind of guy who smiled often — but it was a smile that thinly veiled the violence he was capable of. He was a genuinely nice guy, but he absolutely wasn't the "ask twice" kind of guy. Sometimes he didn't ask once. I remember one afternoon Mike and I were in his room fixing a bike tire, and Mike had his stereo playing too loud. Instead of yelling for us to turn it down, Mr. Hammonds walked down the hall and kicked a massive hole straight through Mike's bedroom door. Message received.
+Mike's dad, Mr. Hammonds, was an Army paratrooper who had served in the 1980s. He wasn't some towering action hero. He was short and stout, the kind of guy who smiled often — but it was a smile that thinly veiled the violence he was capable of. He was a genuinely nice guy, but he absolutely wasn't the "ask twice" kind of guy. Sometimes he didn't ask once. I remember one afternoon Mike and I were in his room fixing a bike tire, and Mike had his stereo playing too loud. Instead of yelling for us to turn it down, Mr. Hammonds walked down the hall and kicked a massive hole straight through Mike's bedroom door. Message received.
 
 When he wasn't kicking in doors, he sat in a cracked vinyl recliner in their narrow rowhouse living room. Mike and I would sit on the carpet at his feet, twelve years old, looking up at him.
 
@@ -665,7 +665,7 @@ Around that time, Eddie Aaron got his driver's license and picked up a cheap old
 
 Eddie would usually bring Artie Buckalew and Big Head along. Big Head was a huge pussy who betrayed me every chance he got. For whatever reason there must be some overlap between being a coward and being a thief, because Big Head was a master at it. He could steal the toast from underneath the butter before it even melted.
 
-Eddie would drive us out to Marley Station Mall, and Big Head would basically go shopping. Sam Goody for CDs. Trench coat, load up. Sports Authority, Dick's, anything he could get his hands on.
+Eddie would drive us out to Marley Station Mall, and Big Head would basically go shopping. Sam Goody for CDs. Trench coat, load up. Sports Authority, Dick's, anything he could get his hands on. This motherfucker once stole an entire hockey stick by shoving it down his shirt, threading it through his pant leg, and stiff-walking bow-legged right out the front doors.
 
 Artie was right there with him. Another one who could lift just about anything. And Eddie was a genius at getting CDs out of those rigid plastic security cases. Wasted mind. Wasted potential. Brilliant at that. If he slipped and the door alarms went off, Eddie would just stop, put his hands up with a confused look like, "What's going on?" The mall cops would usually wave him through. None of them ever got busted. None of them ever paid the consequences.
 
@@ -933,7 +933,7 @@ I talked shit back.
 
 He didn't like that. He threw a punch. It was the weakest, most uncoordinated loop I had ever seen. It was slow motion.
 
-I ducked under it, took his back, and gently sunk in the hooks. I wrapped my arm around his neck for a rear naked choke. But I didn't squeeze. I just held him there, controlling him, giving him a chance to cool off.
+I ducked under it, took his back, and gently sunk in the hooks. I wrapped my arm around his neck for a rear naked choke. I learned that choke from Mike's dad, Mr. Hammonds, the paratrooper. But I didn't squeeze. I just held him there, controlling him, giving him a chance to cool off.
 
 "I'm going to break your legs!" he screamed.
 
@@ -1019,6 +1019,8 @@ I didn't start building an international drug distribution network while I was w
 
 When I was stationed at Kadena Air Base in Okinawa, my focus was on the military and my own physical development. I spent my off-duty hours at a cramped, sweat-drenched dojo off Highway 58, training in Kyokushin Karate — one of the hardest, most punishing knockdown styles on the planet. It was how I channeled the violence of Baltimore into actual discipline.
 
+The dudes there kicked the shit out of me for months. They didn't really teach me anything. I was essentially a big mobile punching bag. Until one day we did randori. I shot double legs on all of them and choked them out one after the other. Only two could hang, and they were judo black belts.
+
 After Okinawa, the Air Force sent me to the 94th Fighter Squadron at Langley Air Force Base in Virginia for my final year. I figured I was on the glide path to out-processing — just running out the clock on my contract before sliding back into civilian life. Instead, I got sent to the desert twice for war operations, landing at Prince Sultan Air Base (PSAB) in Saudi Arabia, turning wrenches on jets in blistering heat.
 
 Life on that base was surreal. The food was terrible. Our dining facility was officially called the "Camel Lot," which we immediately renamed "Camel Snot." The base was heavily staffed by TCNs — Third Country Nationals — and they were an absolute shit show, constantly getting into wild fights to the point where they would literally stab each other in the legs.
@@ -1075,17 +1077,19 @@ When people ask what pharmaceutical-grade steroids actually feel like, I tell th
 
 Then Spartak reached out on ZipLip with a proposition.
 
-He had another big buyer in the United States, and shipping straight to him from Eastern Europe was getting tricky. He asked if he could route that guy's boxes to my house in Baltimore. All I had to do was peel off the international label, slap a domestic USPS Priority Mail label on it, and drop it at the post office. In exchange, Spartak would give me all my personal gear for free.
+He had another big buyer in the United States, and shipping straight to him from Eastern Europe was getting tricky. He asked if he could route that guy's boxes to my house in Baltimore. All I had to do was peel off the international label, slap a domestic USPS Priority Mail label on it, and drop it at the post office. In exchange, Spartak would take care of me on my personal gear. <!-- NEED: what the deal on his personal gear was at the start, before it became free -->
 
-I ran the math in about three seconds. I wasn't standing on a corner. I wasn't dealing in locker rooms. I was just dropping a box in the mail to get free gear.
+I ran the math in about three seconds. I wasn't standing on a corner. I wasn't dealing in locker rooms. I was just dropping a box in the mail.
 
 "Sure," I typed back.
 
 That one word lit the fuse.
 
-It started with one package. I re-boxed it, mailed it, and got my free cycle. But Spartak was a smart businessman, and he realized he had just found a reliable, disciplined contact in the States. I wasn't some flaky gym rat who dipped into the product; I showed up on time and followed instructions.
+It started with one package. I re-boxed it, mailed it, and got my cycle. But Spartak was a smart businessman, and he realized he had just found a reliable, disciplined contact in the States. I wasn't some flaky gym rat who dipped into the product; I showed up on time and followed instructions.
 
 Slowly, one box a week turned into three. Three turned into ten. Before long, the shipments showing up at my rowhouse weren't personal orders — they were master cartons holding thousands of units.
+
+My own gear became free as it got larger. In fact, at the peak he gave me a shit load of free stuff. That's when I started selling it as a side quest.
 
 To get that kind of volume through JFK Airport in New York, Spartak had a guy on the inside at U.S. Customs who pushed our boxes straight through without a second look. Even then, the packaging was wild.
 
@@ -1129,7 +1133,9 @@ Back then, there was an online-only bank called ING Direct, famous for its brigh
 
 When the cops eventually kicked my door in and tore my finances apart looking for the "Kingpin's" fortune, they never found the Orange account. They never got a dime of that money.
 
-<!-- NEED ACTUAL STORY ON HOW THE OPERATION WAS COMPROMISED HERE -->
+Then the guy at JFK who was in on the take got popped. A master carton got opened, and that set everything in motion.
+
+<!-- NEED: when this happened, how Michael found out, and what he knew about how the insider got caught -->
 
 ---
 
