@@ -56,3 +56,14 @@ Base: 81aab4a (Oct 15 text treated as trusted; Michael: "The Oct 15th draft migh
 - **Restored (Ch 12, +~360 words):** the drunk Staff Sergeant / rear-naked-choke / "Stand Before The Man" story, inserted after the wallet "culture shock" beat, before Cobra Gold. Text is Michael's own wording from his Dec 11 2025 ChatGPT session (not the backup's polished version). It was absent from the Oct 15 draft but present in the Oct 23 copy, so it looks like a later addition, not a deliberate cut.
 - **Not restored:** Ch 4 backup sensory padding (Hoppe's/Pall Mall/Colt .45/orange carpet, "operating system" dialogue, Vietnam claim). The Oct 15 text supersedes it (mid-80s service; adds choke/collarbone/McDojo). Ch 1, 3, 5, 7, 10, 13, 14: same facts, rewritten. Ch 8: the cut half duplicates Ch 9. Ch 15: the backup's JFK "secondary inspection" seizure account isn't corroborated, so the placeholder stays.
 - Open for Michael: the Kyokushin sparring scene (Ch 12 backup), the Big Head hockey-stick theft, the JFK Customs inside-guy account, the Ch 4 Vietnam vs mid-80s question, and Taco Rice/Hushmail details (already covered).
+
+## Grok Bot Sloane, Oct 25: Michael's answers
+
+Confirmed by Michael on Oct 25, 2026, and worked into the master:
+1. He learned the rear naked choke (Ch. 12 Staff Sergeant story) from Mike's dad, Mr. Hammonds, the paratrooper.
+2. Kyokushin on Okinawa: the guys beat on him for months and didn't teach him much; he was "a big mobile punching bag." One day at randori he shot double legs on all of them and choked them out one after another. Only two could hang, both judo black belts. The "baseball bat hitting a tree" mawashi geri scene is AI-sounding and must NOT be restored.
+3. Mr. Hammonds served in the 1980s (not Vietnam).
+4. Ch. 4 ends "North Avenue was waiting."
+5. Hockey-stick shoplifting line goes back in The Truck (Ch. 9).
+6. JFK: the insider who was in on the take got popped, the master carton was opened, and that set things in motion. (Fills the Ch. 15 placeholder; timing and how he found out are still open.)
+7. Spartak: his own gear became free as the operation grew; at the peak Spartak gave him a lot of free stuff; that's when he started selling it on the side. No "half price."
