@@ -7,7 +7,7 @@ orcid: "0000-0002-0836-244X"
 
 ---
 
-![The Improbability of Me Book Cover](book_cover.png)
+![Am I the Bad Guy Book Cover](book_cover.png)
 
 # AM I THE BAD GUY?
 
@@ -19,8 +19,6 @@ orcid: "0000-0002-0836-244X"
 
 > *"Intelligence and Guile."*
 > - The Judge
-
----
 
 ---
 
@@ -60,7 +58,7 @@ The gold is the scar. This is me.
 
 If you want to understand the machine, you have to look at the factory where it was built.
 
-My factory was a row house on Williams Street, right in the Federal Hill neighborhood of Baltimore. My grandfather, Jim, a career railroad man and Air Force veteran from WWII, bought the place with a GI loan for three thousand dollars. Jim was a physically large man. 6'2" with a thick frame. Even into his 80s he was hunting and pulling deer out of the woods in West Virginia. Jim would go to sleep at sundown or 7 o'clock. Whichever came first. Then he would be up the next morning at 4:30 a.m. He was a man of incredible routine. He walked or rode the train everywhere. I don't think he ever actually got a driver's license.
+My factory was a row house on Williams Street, right in the Federal Hill neighborhood of Baltimore. My grandfather, Jim, a career railroad man who served in the Army Air Forces in WWII, bought the place with a GI loan for three thousand dollars. Jim was a physically large man. 6'2" with a thick frame. Even into his 80s he was hunting and pulling deer out of the woods in West Virginia. Jim would go to sleep at sundown or 7 o'clock. Whichever came first. Then he would be up the next morning at 4:30 a.m. He was a man of incredible routine. He walked or rode the train everywhere. I don't think he ever actually got a driver's license.
 
 Today, Federal Hill is gentrified and expensive — a playground of high-end bistros and young professionals. Back then, it was just Baltimore — working-class, gritty, and smelling faintly of McCormick's spices drifting off the harbor. On humid days, the air was heavy with the sweet, sharp scent of cinnamon and nutmeg, a bizarre, pleasant mask over the city's harder realities.
 
@@ -284,7 +282,7 @@ Frank was a legend in our circle — a rotund man with a voice that rattled the 
 
 To The Reverend Frank, I was simply "Blade." He would roar it out whenever I walked through the door: "Make way for the Blade! The boy who don't wait for the law!"
 
-We spent a lot of time sitting on Light Street on Chris's front stoop, just watching what was going on. That stoop was our theater, and we saw some wild shit. Up the street there was a little corner store owned by an old man. Directly across from it was Woo's sub shop, where I would catch the bus for school. Across from the corner store was the Light House bar, and across from that was an old-man bar where you could get a coddie — a very Baltimore delicacy. A little codfish cake on a cracker with a pack of mustard. You got them for like 50 cents. The old-man bar had all the staples: the pickled onion, those little red hot sausages in the red water. Hmm hmm good. I forget the name of it. We saw countless fights between drunks pouring out of those bars. It was our version of Friday night fights.
+We spent a lot of time sitting on Light Street on Chris's front stoop, just watching what was going on. That stoop was our theater, and we saw some wild shit. Up the street there was a little corner store owned by an old man. Directly across from it was Wu's sub shop, where I would catch the bus for school. Across from the corner store was the Light House bar, and across from that was an old-man bar where you could get a coddie — a very Baltimore delicacy. A little codfish cake on a cracker with a pack of mustard. You got them for like 50 cents. The old-man bar had all the staples: the pickled onion, those little red hot sausages in the red water. Hmm hmm good. I forget the name of it. We saw countless fights between drunks pouring out of those bars. It was our version of Friday night fights.
 
 From that stoop we would watch the Kirby house directly across from Chris's place. Catfish Kirby lived there. The house would get raided by the police and it would look like something straight out of a movie. The cops would rush in through the front door, and a split second later you'd see Catfish throw himself out the second-floor window trying to escape. He almost never got away. They always get you. That same house sat there for years with absolutely no electricity. It was a crackhouse, but I'd say it was a crackhouse for a slightly higher caliber of crackhead. It was South Baltimore after all, not some Westport shithole or Cherry Hill fucking bullshit. We were better than them.
 
@@ -294,7 +292,7 @@ Fat Charlie was a huge fat slob who bullied the younger kids. He was not fond of
 
 I remember once I was getting off the 64 at the Light Street stop and some of the Cherry Hill boys were talking shit as I got off. They were losers from Southern High School, which was my zone school. I said, "Come on, get off the bus, bitch." It might've been more than "bitch," with a smirk, because I knew they wouldn't. I could see Fat Charlie standing on the corner. I've seen it happen before. I watched him throw, with pinpoint accuracy, a full bottle of beer across the street and brain this dude who I assumed wandered in from Cherry Hill. He threw that shit like Dan Marino and the guy dropped. He jumped back up as Charlie was running across the street. He tried to run, but his shit was all fucked up. He stumbled and tripped, but lucky for him, even concussed, he was faster than that fat fuck.
 
-That boundary didn't mean you were safe from the local pack either. You didn't know if Fat Charlie was going to tackle you and pound your head in until you lost consciousness, or bite you — he was a biter — but he would guard against anybody coming in and starting shit. He was actually one of the first fights I got into after moving to South Baltimore. He was around seventeen or eighteen, and I was only eleven or twelve. He beat me up outside Woo's. The reason? I beat his high score on the Burger Time arcade game.
+That boundary didn't mean you were safe from the local pack either. You didn't know if Fat Charlie was going to tackle you and pound your head in until you lost consciousness, or bite you — he was a biter — but he would guard against anybody coming in and starting shit. He was actually one of the first fights I got into after moving to South Baltimore. He was around seventeen or eighteen, and I was only eleven or twelve. He beat me up outside Wu's. The reason? I beat his high score on the Burger Time arcade game.
 
 I fought him a second time at the basketball court outside my house. I had just gotten done whipping his cousin Bruno's ass. That little bitch scrambled off crying, yelling, "I'm going to get my cousin!" I just laughed. "Go get your fat fuck cousin!" By the time Fat Charlie lumbered onto the court, my adrenaline had dumped. I felt like a newborn kitten. Charlie threw me down on the concrete, punched me, and then bit me on my chest. Who the fuck bites a little kid on the chest? A fucking psycho, that's who.
 
@@ -302,7 +300,7 @@ We had Eddie, a good guy whose family was even poorer than ours, but they did hu
 
 We had Artie Buckalew. Artie was probably the poorest kid in the group, wearing the same faded, oil-stained t-shirt for days, but you wouldn't know it from hanging out with him. Hilarious, loyal, good-hearted, with a thick speech impediment — a mushy, rapid-fire South Baltimore drawl. He had a heated rivalry with Mike for a reason no one could remember. It might have been Mike finding an old discarded guitar and smashing it over his head.
 
-Then there was Jesse. Jesse lived on the street directly behind my house, and he was a complete dirtball. Greasy, grimy, always filthy. Kind of a pussy too. He lived under the protection of his two older brothers. His one older brother used to say he had a dream where a plane load of Mexicans crashed into Cherry Hill. He would say it was the best dream he ever had. I'm not sure where his hatred for Mexicans came from. There weren't that many back then in Baltimore.
+Then there was Jesse Wright. Jesse lived on the street directly behind my house, and he was a complete dirtball. Greasy, grimy, always filthy. Kind of a pussy too. He lived under the protection of his two older brothers. His one older brother used to say he had a dream where a plane load of Mexicans crashed into Cherry Hill. He would say it was the best dream he ever had. I'm not sure where his hatred for Mexicans came from. There weren't that many back then in Baltimore.
 
 And then there was Spunky.
 
@@ -480,7 +478,7 @@ I kicked him in the face. Split his lip. For one second the circle hesitated. Ma
 
 "A karate boy. We like karate boys around here."
 
-Before the words finished, another one came in from behind and smashed me over the head with a board. The shock split my scalp open. Warm blood ran instantly. The world rang like metal. I staggered, and that was the opening Jesse needed. He rushed me, grabbing, pulling, trying to drag me to the ground. He was heavier, older. If he got me down they would stomp me.
+Before the words finished, another one came in from behind and smashed me over the head with a board. The shock split my scalp open. Warm blood ran instantly. The world rang like metal. I staggered, and that was the opening Jesse Davis needed (a different Jesse, not my friend Jesse Wright). He rushed me, grabbing, pulling, trying to drag me to the ground. He was heavier, older. If he got me down they would stomp me.
 
 My left hand was already in my pocket, on my old folding Buck knife. As Jesse tried to drag me down I turned sideways, flicked the blade open, and swung. It wasn't flashy. It was a left hook to the body, with a knife. I didn't show it to him. I drove it into his chest.
 
@@ -670,7 +668,7 @@ We went to the enlistment office, ready to sign our lives away to the Corps. But
 
 Cartwright shook his head like a disappointed father. "Don't do that to yourself, son. You join the Air Force, I will fly you around the world. I will give you access to fine wine and fine women. You'll sleep in a bed, not in a foxhole."
 
-I didn't need to hear about the wine. I just needed to hear "around the world." Anything that got me out of Baltimore was the right path. I signed the papers for the Delayed Enlistment Program right then and there. I was seventeen. Ship date: January 3, 1995. I had a few months to kill. I just had to stay out of trouble.
+I didn't need to hear about the wine. I just needed to hear "around the world." Anything that got me out of Baltimore was the right path. I signed the papers for the Delayed Enlistment Program right then and there. I was seventeen. I signed up before my birthday. Ship date: January 3, 1995. I had months to kill. I just had to stay out of trouble.
 
 That's not always as easy as it sounds.
 
@@ -766,6 +764,8 @@ I laid low for the next couple of months. And on January 3, 1995, I shipped out,
 
 # Chapter 11: Bo Derek and the ASVAB
 
+---
+
 The United States Air Force was my exit strategy. But I wasn't going to let Baltimore go without a proper send-off. My friends planned a party for me at Jay's, a restaurant where my Aunt Mimi Carol worked. Mr. Jay was an interesting fellow with his own things about him, but anyway, we threw a little party to send me off. 
 
 Before I went to the Air Force, I knew they were going to shave me bald, so I figured I’d go ahead and do something crazy with my hair. I went to a spot called Afrolistics and got a head full of dreadlocks. The woman running the shop took one look at me, shook her head, and said, "Your hair is so soft and beautiful. Why you want to do this?" I told her I was shipping off to boot camp in a few days and they were gonna shave it all off anyway. She thought that was hilarious. We hit it off immediately. She was super cool and gave me some of her lunch - a Baltimore classic, some fried lake trout. I walked out of Afrolistics with a head full of tight braids, ready to introduce myself to the federal government. 
@@ -780,7 +780,7 @@ The instructor stopped. The sheer audacity short-circuited his fucking brain. Th
 
 "Get over here, Bo Derek!"
 
-For most recruits, the first day of boot camp is terrifying. They break you down to build you back up. But coming from where I came from? It wasn't intimidating in the least. It was just a fucking guy in a hat screaming at me for standing wrong. It didn't carry the same weight as a guy pulling a machete on me back at the rec center. It was a completely different thing. 
+For most recruits, the first day of boot camp is terrifying. They break you down to build you back up. But coming from where I came from? It wasn't intimidating in the least. It was just a fucking guy in a hat screaming at me for standing wrong. It didn't carry the same weight as a mob waiting for me outside the rec center. It was a completely different thing. 
 
 I actually kind of enjoyed the Air Force. I liked the structure. I loved the discipline. For the first time in my life, the rules made sense. The expectations were clear. More than anything, it was just good to finally be free of Baltimore. 
 
@@ -827,8 +827,6 @@ It was also in Texas where I saw bison for the first time. We went to a conserva
 I really took to the Electrical Environmental Systems training. It was actually quite fun - a lot of science. We had to learn about LOX, liquefied oxygen, because it was cryogenically stored on the planes for the pilots to breathe. We learned about all the pressurization systems and the electrical systems. I had a great time with it. 
 
 When I finally graduated from tech school, my father and my grandfather came down to Texas to see me. Shortly after that, I shipped off to Okinawa, Japan.
-
----
 
 ---
 
@@ -940,7 +938,7 @@ We deployed to U-Tapao, Thailand, an airfield just outside of Pattaya, for the m
 
 But the contrast outside the hotel was stark. If I thought I knew poverty from the brick rowhouses of South Baltimore, Thailand showed me I knew absolutely nothing. Dirt floors, tin roofs, open sewage running down the sides of the streets. It was a humbling reality check that ground away my remaining adolescent arrogance.
 
-Down at the open airfield where our planes were parked, local life bled right onto the tarmac. There was a Kao Pad fried rice stand set up nearby, and one day I noticed a couple of local kids wandering around the flight line. I was told to go shoo them away. As I was walking over to them, I startled a massive lizard. This motherfucker stood straight up on two feet and ran away. I had never seen shit like that in my life.
+Down at the open airfield where our planes were parked, local life bled right onto the tarmac. There was a Khao Pad fried rice stand set up nearby, and one day I noticed a couple of local kids wandering around the flight line. I was told to go shoo them away. As I was walking over to them, I startled a massive lizard. This motherfucker stood straight up on two feet and ran away. I had never seen shit like that in my life.
 
 The two kids saw it too and followed the lizard to a bush. I didn't speak Thai, but I walked over, pointed at the lizard, and held up a couple of military chem-lights - glowsticks. I told them I'd give them each a glowstick if they caught it. They didn't understand the English, but they definitely understood the glowsticks. To the locals, glowsticks were a hot commodity. We had shitloads of them in all colors, even infrared ones. We used them to line the airfields and tie down gear; they were incredibly handy.
 
@@ -951,8 +949,6 @@ My Chief was standing nearby watching the whole thing, laughing his ass off. "Th
 It wasn't just the kids on the airfield that operated differently; it was the entire Thai infrastructure. One afternoon, I was sitting on the flight line waiting for the local crew to bring over a Liquid Oxygen (LOX) tank so we could service our planes. I watched a Thai tech doing the exact same procedure a little further down the tarmac on one of their aircraft, and the contrast was staggering.
 
 When I serviced a LOX system on an American jet, I was decked out in a full face shield, a heavy protective apron, thick gloves, and carrying a toolbox full of non-sparking bronze and beryllium tools. The Thai dude? He rolled up to his plane with no shirt on, wearing absolutely zero PPE, with a lit cigarette hanging out of his mouth. He casually connected the LOX tank nozzle and just let that bitch fly. No worries, no stress, just highly reactive liquid oxygen and a burning cigarette. I sat there sweating in my heavy protective gear, thinking, *That Thai dude must think we are some real pussies.*
-
-
 
 But we were young, and when the shifts ended, we went looking for local trouble. One night, a group of us were sitting at a noisy, open-air Muay Thai bar in Pattaya. The air was thick and suffocating, smelling like fried chilies, cheap whiskey, and the sharp wintergreen sting of *Namman Muay* — the yellow liniment the fighters used to numb their legs. In the center of the bar was a crude wooden ring where wiry local fighters were chopping each other down. The sound of shins slamming against ribs echoed through the rafters like gunshots.
 
@@ -1068,7 +1064,7 @@ It started with one package. I re-boxed it, mailed it, and got my cycle. But Spa
 
 Slowly, one box a week turned into three. Three turned into ten. Before long, the shipments showing up at my rowhouse weren't personal orders — they were master cartons holding thousands of units.
 
-My own gear became free as it got larger. In fact, at the peak he gave me a shit load of free stuff. That's when I started selling it as a side quest.
+My own gear became free as it got larger. In fact, at the peak he gave me a shitload of free stuff. That's when I started selling it as a side quest.
 
 To get that kind of volume through JFK Airport in New York, Spartak had a guy on the inside at U.S. Customs who pushed our boxes straight through without a second look. Even then, the packaging was wild.
 
@@ -1081,8 +1077,6 @@ I sat at my kitchen table, clamped a heavy cast-iron can opener onto the rim of 
 I tipped the can over and out tumbled dozens of amber glass vials and silver blister packs — Testosterone, Trenbolone, Anadrol, Winstrol, and growth hormone.
 
 Without ever applying for the job, my dining room had become the main U.S. hub for a massive Eastern European operation. I'd log onto my ZipLip account, pull down the manifest of names and addresses, pop open the Happy Birthday cans, and repack everything into flat-rate USPS Priority boxes. I never used my name or a real return address, and I rotated post offices and blue drop boxes all over Baltimore — Canton, Towson, BWI — so no single clerk ever saw me twice.
-
-As the volume grew, my free cut grew with it — way more than I could ever put in my own body. So I started selling the extra to guys locally.
 
 Jesus fucking Christ, I was so retarded. I actually had business cards printed up. If you know me, of course I did. The company was called *Bad Boy Pharmaceuticals*. It had my actual name on it, and my official title printed right below it was: *Professional Street Nigga*.
 
@@ -1108,7 +1102,7 @@ With 15 loyal clients ordering $150 to $200 worth of gear every six or seven wee
 
 Still, a young guy with an extra $2,000 a month in cash has a problem: you can't just walk into Bank of America and keep depositing stacks of hundreds without raising eyebrows.
 
-Back then, there was an online-only bank called ING Direct, famous for its bright orange logo. You could open a high-yield savings account entirely over the internet. So I opened an "Orange" bank account — not under my primary Social Security Number, but under my second Social Security Number (a byproduct of my messy childhood, which I'll explain shortly). I funneled my side-hustle money into that account, completely separate from my regular bank.
+Back then, there was an online-only bank called ING Direct, famous for its bright orange logo. You could open a high-yield savings account entirely over the internet. So I opened an "Orange" bank account — not under my primary Social Security Number, but under my second Social Security Number (a byproduct of my messy childhood: my mother and father were always on again, off again, and they both wound up submitting the paperwork; since computers were still a new thing in '76, I wound up with two Social Security numbers). I funneled my side-hustle money into that account, completely separate from my regular bank.
 
 When the cops eventually kicked my door in and tore my finances apart looking for the "Kingpin's" fortune, they never found the Orange account. They never got a dime of that money.
 
@@ -1126,11 +1120,11 @@ Then the guy at JFK who was in on the take got popped. A master carton got opene
 
 Incrementalism was my downfall.
 
-It didn't start as a criminal empire. It started small and transactional. I bought a few vials of Test. A pack of Anadrol, some Deca, Dianabol. Eventually, some HGH. I was treating my body like a science experiment, mixing compounds to see what I responded to. I had even learned how to buy Trenbolone Acetate meant for bovine use, extract the cattle pellets, separate the binder, and purify it into top-notch liquid Tren. I never sold it - it was strictly for my own personal use - but that little home-chemistry experiment was exactly how they eventually managed to slap me with a \'Manufacturing\' charge.
+I was treating my body like a science experiment, mixing compounds to see what I responded to. I had even learned how to buy Trenbolone Acetate meant for bovine use, extract the cattle pellets, separate the binder, and purify it into top-notch liquid Tren. I never sold it - it was strictly for my own personal use - but that little home-chemistry experiment was exactly how they eventually managed to slap me with a 'Manufacturing' charge.
 
-The results were undeniable. I grew into a monster. I had a 54-inch chest. I was walking around at 6'3", 265 pounds of lean, steroided mass. People who hadn't seen me in a while stopped staring at my face and started staring at my silhouette. Girls at the mall would stop me and ask if I was real, or if I was wearing some kind of muscle suit under my clothes.
+The results were undeniable. I grew into a monster. People who hadn't seen me in a while stopped staring at my face and started staring at my silhouette. Girls at the mall would stop me and ask if I was real, or if I was wearing some kind of muscle suit under my clothes.
 
-Life felt good. I had landed a prestigious job as an A&P (Airframe and Powerplant) Mechanic with DYNCorp, a private military corporation. I wasn't fixing regular jets anymore; I was working on the SAM FOX mission at Andrews Air Force Base. These were the VIP aircraft - the ones carrying the First Lady, the Cabinet, and the Vice President. I was literally turning wrenches on Air Force Two.
+Life felt good. I had landed a prestigious job as an A&P (Airframe and Powerplant) Mechanic with DynCorp, a private military corporation. I wasn't fixing regular jets anymore; I was working on the SAM FOX mission at Andrews Air Force Base. These were the VIP aircraft - the ones carrying the First Lady, the Cabinet, and the Vice President. I was literally turning wrenches on Air Force Two.
 
 I was working on the most secure aircraft in the free world by day, and building a comic book physique by night.
 
@@ -1157,11 +1151,11 @@ Contradictory commands. If I moved to get down, they might shoot. If I didn't ge
 
 I stayed cool. They were nervous.
 
-I looked at it from their perspective: They saw a 265-pound giant. They knew from their "investigation" that I was former Air Force Special Operations. They had already raided my house and found passports with stamps from all over the world. They found two Social Security numbers (a long story I’ll explain later). They found my DD-214 and saw the Armed Forces Expeditionary Medals from my desert deployments. I don\'t know if they checked my federal security clearance - I doubt they were that smart. They claimed they had been watching me for months. I doubt that, too.
+I looked at it from their perspective: They saw a 265-pound giant. They knew from their "investigation" that I was former Air Force Special Operations. They had already raided my house and found passports with stamps from all over the world. They found two Social Security numbers. They found my DD-214 and saw the Armed Forces Expeditionary Medals from my desert deployments. I don't know if they checked my federal security clearance - I doubt they were that smart. They claimed they had been watching me for months. I doubt that, too.
 
-In typical BCPD fashion, they had half the story but got it all wrong. Yeah, I was in AFSOC, but I fixed planes. I wasn\'t a fucking commando. Unfortunately, there was no time to clear this up. They came at me hard.
+In typical BCPD fashion, they had half the story but got it all wrong. Yeah, I was in AFSOC, but I fixed planes. I wasn't a fucking commando. Unfortunately, there was no time to clear this up. They came at me hard.
 
-To the Baltimore City Police Department, I wasn\'t just a guy who sold some juice. I was Jason fucking Bourne. They were terrified I was going to snap the handcuffs and start snapping necks.
+To the Baltimore City Police Department, I wasn't just a guy who sold some juice. I was Jason fucking Bourne. They were terrified I was going to snap the handcuffs and start snapping necks.
 
 They flex-cuffed me and dragged me back to my house. It was destroyed. The door was kicked in, the couch was torn apart, holes punched in the sheetrock. Typical.
 
@@ -1201,13 +1195,13 @@ He drew his gun again. He was furious.
 
 He didn't like that answer. He called for backup, and they restrained me more to their liking before walking me inside and cuffing me to a radiator.
 
-The booking officer, a woman who barely spoke English, asked for my information. I gave her my ID. She looked at it and wrote the name down wrong.
+The booking officer, a woman who barely spoke English, asked for my information. I gave her my driver's license. She misread it and wrote my name down as Mitchell.
 
-That dumb fucking bitch. BCPD is Baltimore\'s finest, but that ain\'t saying much. She was probably crooked as hell, too. Dumb as a box of rocks, so fat her rolls were spilling out of her shitty uniform.
+That dumb fucking bitch. BCPD is Baltimore's finest, but that ain't saying much. She was probably crooked as hell, too. Dumb as a box of rocks, so fat her rolls were spilling out of her shitty uniform.
 
-Just like that, I caught another charge: *Using an Alias.* I didn't use an alias. She just didn't know how to read. Welcome to the system.
+Just like that, they tried to give me another charge for that as well: *Using an Alias.* I didn't use an alias. The intake officer just misread my license. Welcome to the system.
 
-They led me into the holding cell. At Central Booking, everyone waits in the tank. When they process your paperwork, they slide the charge sheet under the door. Every time a paper slides under, everyone gathers around to see what you’re in for. It\'s the only entertainment in the room. It also lets everyone know who\'s who in the zoo.
+They led me into the holding cell. At Central Booking, everyone waits in the tank. When they process your paperwork, they slide the charge sheet under the door. Every time a paper slides under, everyone gathers around to see what you’re in for. It's the only entertainment in the room. It also lets everyone know who's who in the zoo.
 
 While I was waiting, a guy walked up to me. He looked me up and down.
 
@@ -1241,14 +1235,13 @@ But here I sat.
 
 <div style="page-break-after: always;"></div>
 
-
 # Chapter 17: Castle Grayskull
 
 ---
 
 They strip you down when you go into BCDC. They don't call it Baltimore City Detention Center on the inside; everyone just calls it Castle Grayskull. 
 
-I was standing there stripped bare for intake, and I remember the intake officer - a different obese, bald-headed Black woman - went and got her friend. They stood there and ogled me together. At six-foot-three and two hundred and sixty-five pounds of pure pharmaceutical muscle, I was an anomaly in their world. 
+I was standing there stripped bare for intake, and I remember the intake officer - a different obese, bald-headed Black woman - went and got her friend. They stood there and ogled me together. At my size, all pharmaceutical muscle, I was an anomaly in their world. 
 
 They kept me locked up in solitary in the beginning. They said I was a "threat to myself and others." Because of my charges, they figured I was going to roid rage and do some crazy shit. 
 
@@ -1300,6 +1293,10 @@ Killer K was located in the annex, and it was an open barracks style. While I wa
 
 I was an airplane mechanic who got some free steroids for mailing USPS boxes. But to the court, I was Jason Bourne. And to the guys sitting next to me in the courtroom lockup, I was Rambo. Once again, every head in the room turned and looked at me with this collective expression of: *Who the fuck is this guy?*
 
+---
+
+<div style="page-break-after: always;"></div>
+
 # Chapter 18: The Plea Deal
 
 ---
@@ -1308,7 +1305,7 @@ When the federal government kicks down your door, you assume you are going to fe
 
 But as the dust settled on my arrest in 2003, a different reality started to emerge. The feds looked at the case the local police had built. They looked at the evidence handling. They looked at the procedures. What they saw was classic Baltimore: sloppy and corrupt.
 
-The feds realized the local case wouldn\'t hold up under the microscopic scrutiny of a federal courtroom. So, they quietly backed out and deferred the entire mess over to the State of Maryland. Ultimately, my charges were not federal charges; they were state charges.
+The feds realized the local case wouldn't hold up under the microscopic scrutiny of a federal courtroom. So, they quietly backed out and deferred the entire mess over to the State of Maryland. Ultimately, my charges were not federal charges; they were state charges.
 
 The State of Maryland has significantly lower standards.
 
@@ -1316,7 +1313,7 @@ I spent four months locked inside - from April through July - just trying to get
 
 I finally made bail in July, getting out of Castle Grayskull to fight the case from the outside. Eventually, the case slowly ground its way through the judicial system and the state prosecutors came to the table.
 
-Eventually, the state prosecutors came to the table. They knew their case was built on a shaky, corrupt foundation, but they also knew they had the leverage of the system behind them. They gave me an ultimatum.
+They knew their case was built on a shaky, corrupt foundation, but they also knew they had the leverage of the system behind them. They gave me an ultimatum.
 
 "If you fight this in court," they told me, "and you lose, we will stack the charges. We will make sure you never see the outside again."
 
@@ -1363,9 +1360,9 @@ It was heavy, but it wasn't a coffin. The final tally was a five-year sentence w
 > **Sentence:** Jail Term: 5 Yrs. Suspended Term: 3 Yrs 6 Mos.
 > **Probation Supervised:** 3 Yrs.
 
+Yes, it says Mitchell. That's the name the intake officer got from misreading my driver's license at Central Booking, and it stuck to the paperwork.
+
 I took the deal. I walked out of that courtroom in August or September of 2003 with a state felony record and an ankle monitor strapped to my leg. I was legally confined to my house. I couldn't leave without permission. The government was tracking my every movement. I had lost my freedom, my money, and my reputation.
-
-
 
 I was on house arrest, but I wasn't dead. The state thought they had permanently sidelined me, turning me into a statistic—another kid from Baltimore who got caught up and ruined his life. They thought the ankle monitor was the end of the story.
 
@@ -1585,7 +1582,7 @@ I was trying to extract from these women the motherly love I never received, whi
 
 It was a mechanical failure I couldn't diagnose, because the broken component was me.
 
-By the time the ankle monitor came off, I was deep in one of my most toxic entanglements. I knew I needed to get out of it. I knew I needed something different. But I was working nights, which meant there was no opportunity to go out and meet people through normal channels. My social life was the inside of a calibration lab and the fluorescent glow of a late-shift break room.
+By 2007, a couple of years after the ankle monitor came off, I was deep in one of my most toxic entanglements. I knew I needed to get out of it. I knew I needed something different. But I was working nights, which meant there was no opportunity to go out and meet people through normal channels. My social life was the inside of a calibration lab and the fluorescent glow of a late-shift break room. <!-- NEED: in 2007, was the night job at FMC (as later in this chapter) or still calibration work at Northrop Grumman? -->
 
 So I did what any engineer does when the conventional approach fails: I looked for an alternative input.
 
@@ -1607,7 +1604,7 @@ But Cindy marked a profound shift in my timeline. She marked the "time to grow u
 
 I didn't tell her everything that night. You don't drop "I was a drug distribution node" on a first date at the Cheesecake Factory. But I was honest about who I was in the present tense: a guy working nights at FMC, rebuilding his life, trying to figure out the next move.
 
-That was around 2007. I was wrapping up my time at FMC, and my career was about to launch into the stratosphere. But more importantly, I had finally found the one person who would stand next to me through everything that came after - the nuclear plants, the Koch boardrooms, the miserable CETO job in Houston, the cancer, the surgeries, and the cross-country road trip where a time bomb was riding in the passenger seat.
+That was 2007. I was wrapping up my time at FMC, and my career was about to launch into the stratosphere. But more importantly, I had finally found the one person who would stand next to me through everything that came after - the nuclear plants, the Koch boardrooms, the miserable CETO job in Houston, the cancer, the surgeries, and the cross-country road trip where a time bomb was riding in the front seat.
 
 Cindy didn't fix me. I want to be clear about that. The damage from my mother, the toxic patterns, the emotional walls - those didn't disappear because I met a woman over cheesecake. I had to do that work myself, and I'm still doing it.
 
@@ -1725,7 +1722,9 @@ I was sleeping four hours a night, waking up at 5:00 AM for Spring Gardens, and 
 
 This time, the intelligence and guile were 100% legal. The State of Maryland had labeled me a felony drug kingpin and tried to sideline me for life. Instead, I was a founder running a seven-figure engineering company.
 
-Then Koch Industries called with a $1.7 billion project, and it was time to make an even bigger jump.
+But Spartan didn't last. I wound up dissolving Spartan Technology. Johnny, my crazy ass partner, got too fucking crazy, and we had to part ways.
+
+Then I got the chance to work for Dr. Angela Summers, and it was time to make an even bigger jump. <!-- NEED: years for TAI, BGE/Exelon, Spartan Technology, SIS-TECH, Koch, CETO, Capgemini, MITRE, ABS, Walmart -->
 
 ---
 
@@ -1735,11 +1734,11 @@ Then Koch Industries called with a $1.7 billion project, and it was time to make
 
 ---
 
-Before Koch, I went down to Houston to work for Dr. Angela Summers at SIS-TECH.
+Before Koch, I went down to Houston to work for Dr. Angela Summers at SIS-TECH. She is the mother of functional safety engineering.
 
 Angela lived up to every bit of her legend. In the world of Functional Safety, she was the oracle. Under her mentorship, I completely relearned the philosophy of engineering. Up to that point, I thought engineering was about making systems run. Angela taught me that safety-critical engineering is about mathematically proving *how* and *when* they will fail — and building the logic that keeps a refinery from turning into a smoking crater.
 
-I studied under her, absorbed the IEC 61511 process safety standards, and earned my **TÜV Rheinland Functional Safety Engineer** certification. In the industrial world, that stamp is the gold standard.
+She trained me personally. I studied under her, absorbed the IEC 61511 process safety standards, and earned my **TÜV Rheinland Functional Safety Engineer** certification. In the industrial world, that stamp is the gold standard.
 
 I was at the top of my technical game, solving problems that stumped entire corporate engineering departments.
 
@@ -1759,6 +1758,8 @@ It worked on the first run.
 
 I had the certification, the money, and the respect of the toughest minds in the industry. I felt untouchable.
 
+Then Koch Industries called with a $1.7 billion project.
+
 ---
 
 <div style="page-break-after: always;"></div>
@@ -1771,7 +1772,7 @@ Leaving Dr. Angela Summers wasn't just a resignation; it was a divorce.
 
 **Koch Industries** came calling. They wanted me to help lead a massive modernization effort across their fertilizer plants under **Koch Ag & Energy** — a **$1.7 billion** capital project.
 
-I walked into Angela's office in Houston to break the news. She was pissed. Big-time pissed. She had trained me, stamped me with a TÜV certification, and now I was walking out the door.
+I walked into Angela's office in Houston to break the news. She was pissed. Extremely pissed. She had trained me, stamped me with a TÜV certification, and now I was walking out the door.
 
 But business isn't personal; it's arithmetic.
 
@@ -1860,9 +1861,9 @@ Meanwhile, something much darker was happening in the background.
 
 Back in Wichita, right before the move to Houston, I had felt a tiny lump on my left testicle — about the size of a pencil tip. I did the smart thing and went to a local doctor in Wichita.
 
-He examined me for thirty seconds and waved it off. "I can't feel anything," he said. "It's normal. You're fine."
+The first doctor couldn't even feel it. She was unfamiliar with the equipment. She examined me for thirty seconds and waved it off. "I can't feel anything," she said. "It's normal. You're fine."
 
-He sent me home without an ultrasound. And because I was busy and wanted to believe him, I listened.
+She sent me home without an ultrasound. <!-- NEED: what equipment the first doctor was unfamiliar with (ultrasound?), and whether any scan was attempted --> And because I was busy and wanted to believe him, I listened.
 
 All through that miserable year in Houston, the lump kept growing.
 
@@ -1870,7 +1871,7 @@ When I finally walked out of the CETO job on day 365, I needed to wash the corpo
 
 It was four months of pure freedom with my wife and kids.
 
-But the whole time we were driving across the most beautiful landscapes in America, an uninvited passenger was riding in the front seat with us. That "normal" pencil-tip lump from Wichita had grown into a heavy, undeniable mass. The time bomb was ticking.
+But the whole time we were driving across the most beautiful landscapes in America, an uninvited passenger was riding in the front seat with us. That "normal" lump from Wichita was still there. It was still tiny, about the size of a pencil tip, but the time bomb was ticking.
 
 ---
 
@@ -2040,6 +2041,6 @@ Throughout his career, Michael has held key leadership positions at Koch Industr
 
 He holds a Master of Science in Systems Engineering from Johns Hopkins University and a Bachelor of Science in Information Systems Science from the University of Maryland. He holds several advanced certifications, including ISA Certified Automation Professional, TÜV Functional Safety Engineer, Six Sigma Master Black Belt, and an FAA Airframe and Powerplant License.
 
-A convicted felon and former drug kingpin, Michael has rebuilt his life through intellect, resilience, and a systems-engineering mindset, proving that no starting point is too broken to engineer a masterpiece.
+A convicted felon once labeled a "Kingpin," Michael has rebuilt his life through intellect, resilience, and a systems-engineering mindset, proving that no starting point is too broken to engineer a masterpiece.
 
 **ORCID:** [0000-0002-0836-244X](https://orcid.org/0000-0002-0836-244X)

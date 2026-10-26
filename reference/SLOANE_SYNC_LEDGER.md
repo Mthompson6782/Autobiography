@@ -68,3 +68,18 @@ Confirmed by Michael on Oct 25, 2026, and worked into the master:
 6. JFK: the insider who was in on the take got popped, the master carton was opened, and that set things in motion. (Fills the Ch. 15 placeholder; timing and how he found out are still open.)
 7. Spartak: his own gear became free as the operation grew; at the peak Spartak gave him a lot of free stuff; that's when he started selling it on the side. No "half price."
 8. Ed = Big Head = Big Ed (same person). The hockey-stick story is told once, in Ch. 5; removed the duplicate from Ch. 9.
+
+## Grok Bot Sloane, Oct 25 (later): continuity answers
+
+Michael's answers to the Oct 25 continuity check. All are now worked into the master:
+1. Boot camp: "I definitely went to boot camp on Jan 3 1995 maybe feb is tech school." The Jan 3, 1995 ship date stays. UNRESOLVED: my DD-214 summary said BMT Feb 1995. Michael's recollection takes priority; Feb may be the tech-school start.
+2. He signed up at 17, before his Aug 13 birthday, through the Delayed Enlistment Program. (Ch. 12 "eighteen, about to turn nineteen" works if he reached Kadena before Aug 13, 1995.)
+3. Jesse Wright = neighborhood friend (Ch. 5). Jesse Davis = the guy he stabbed at the KFC (Ch. 7).
+4. Cancer: the lump was pencil-tip size. The first doctor (a woman) couldn't even feel it and was unfamiliar with the equipment. That explains the delay before surgery.
+5. He worked for Dr. Angela Summers ("the mother of functional safety engineering") at SIS-TECH before Koch. She personally trained him; he got his TÜV FSE there. She was extremely pissed when he left for Koch. He dissolved Spartan Technology after Johnny "got too fucking crazy" and they parted ways.
+6. Met Cindy in 2007.
+7. No one pulled a machete on him (the Ch. 11 line was a mistake).
+8. Grandfather Jim served in the Army Air Forces in WWII.
+9. Two SSNs: his parents were on again, off again, and both filed the paperwork; computers were new in '76. Docket "MITCHELL THOMPSON": the intake officer misread his driver's license, and they tried to charge him for it too ("Using an Alias").
+10. Duplications removed (Ch. 14 free-gear beat, the Ch. 16 retelling, the repeated 6'3"/265 lines, the Ch. 18 repeated sentence).
+Still open: Greenmount vs North Avenue usage; job years; the Ch. 14/15 NEEDs; the night job in 2007 (FMC vs Northrop).
