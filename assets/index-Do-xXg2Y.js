@@ -1727,7 +1727,7 @@ But Johnny and I stayed in touch. We were cut from the same Baltimore cloth — 
 
 Over a couple of beers, we hatched a plan to start our own industrial consulting and instrumentation firm: Spartan Technology.
 
-By then, I had moved from TAI over to BGE/Exelon. I was stationed down at Spring Gardens on the Patapsco River, re-engineering the natural gas distribution system for Baltimore City and working on the plant's Liquefied Natural Gas (LNG) control systems. It was serious, high-consequence work — the kind where a bad calibration doesn't just cost money, it levels a city block. That's also when I started at The Johns Hopkins University Whiting School of Engineering, way back in Baltimore, and I kept chipping away at it from there.
+By then, I had moved from TAI over to BGE/Exelon. I was stationed down at Spring Gardens on the Patapsco River, re-engineering the natural gas distribution system for Baltimore City and working on the plant's Liquefied Natural Gas (LNG) control systems. It was serious, high-consequence work — the kind where a bad calibration doesn't just cost money, it levels a city block. That's also when I started at The Johns Hopkins University Whiting School of Engineering, way back in Baltimore, and I kept chipping away at it from there until I graduated in 2015.
 
 I wasn't content with just one job. The same restless drive that had gotten me in trouble with the Happy Birthday cans was still running at full speed, only now it was pointed in a legal direction.
 
@@ -2062,7 +2062,7 @@ Michael Thompson is an engineering and cybersecurity executive with over 25 year
 
 Throughout his career, Michael has held key leadership positions at Koch Industries, Capgemini, AWC, Inc., and Exelon, designing resilient control architectures and robust risk management programs for nuclear, chemical, and industrial manufacturing operations. His expertise bridges the gap between functional safety, advanced process control, and cybersecurity, grounded in extensive real-world experience.
 
-He holds a Master of Science in Systems Engineering from Johns Hopkins University and a Bachelor of Science in Information Systems Science from the University of Maryland. He holds several advanced certifications, including ISA Certified Automation Professional, TÜV Functional Safety Engineer, Six Sigma Master Black Belt, and an FAA Airframe and Powerplant License.
+He holds a Master of Science in Systems Engineering (2015) from The Johns Hopkins University and a Bachelor of Science in Information Systems Science from the University of Maryland. He holds several advanced certifications, including ISA Certified Automation Professional, TÜV Functional Safety Engineer, Six Sigma Master Black Belt, and an FAA Airframe and Powerplant License.
 
 A convicted felon once labeled a "Kingpin," Michael has rebuilt his life through intellect, resilience, and a systems-engineering mindset, proving that no starting point is too broken to engineer a masterpiece.
 
