@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import Markdown from 'react-markdown'
-import { Moon, Sun, Menu, X, BookOpen, Printer, Edit3, Save } from 'lucide-react'
+import { Moon, Sun, X, BookOpen, Printer } from 'lucide-react'
 // We append ?raw to get it as a string from Vite
 import initialManuscript from '../../Am_I_The_Bad_Guy_Master_Draft.md?raw'
 
@@ -9,11 +9,6 @@ function App() {
   const [activeChapter, setActiveChapter] = useState(0)
   const [theme, setTheme] = useState('dark')
   const [sidebarOpen, setSidebarOpen] = useState(false)
-  
-  // Editing states
-  const [isEditing, setIsEditing] = useState(false)
-  const [editContent, setEditContent] = useState('')
-  const [isSaving, setIsSaving] = useState(false)
 
   // Split on every top-level heading so chapter order matches the master draft,
   // including the title page, Epilogue, and About the Author.
@@ -40,48 +35,11 @@ function App() {
   const handleChapterClick = (index) => {
     setActiveChapter(index)
     setSidebarOpen(false)
-    setIsEditing(false)
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   const handlePrint = () => {
     window.print()
-  }
-
-  const handleEditToggle = () => {
-    if (!isEditing) {
-      setEditContent(chapters[activeChapter].content)
-      setIsEditing(true)
-    } else {
-      setIsEditing(false)
-    }
-  }
-
-  const handleSave = async () => {
-    setIsSaving(true)
-    // Update local state first
-    const updatedChapters = [...chapters]
-    updatedChapters[activeChapter].content = editContent
-    setChapters(updatedChapters)
-
-    // Reconstruct the full manuscript
-    const fullManuscript = updatedChapters.map(c => c.content).join('')
-
-    // Send to our custom Vite plugin API to save to disk
-    try {
-      const response = await fetch('/api/save', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ content: fullManuscript })
-      })
-      if (!response.ok) throw new Error('Network response was not ok')
-      setIsEditing(false)
-    } catch (error) {
-      console.error("Failed to save:", error)
-      alert("Failed to save to disk. Check console.")
-    } finally {
-      setIsSaving(false)
-    }
   }
 
   return (
@@ -124,40 +82,16 @@ function App() {
             {/* Toolbar */}
             <div className="content-toolbar hide-on-print">
               <div className="toolbar-actions">
-                {isEditing ? (
-                  <button className="btn btn-save" onClick={handleSave} disabled={isSaving}>
-                    <Save size={18} /> {isSaving ? 'Saving...' : 'Save Changes'}
-                  </button>
-                ) : (
-                  <>
-                    <button className="btn btn-edit" onClick={handleEditToggle}>
-                      <Edit3 size={18} /> Edit
-                    </button>
-                    <button className="btn btn-print" onClick={handlePrint}>
-                      <Printer size={18} /> Print Chapter
-                    </button>
-                  </>
-                )}
-                {isEditing && (
-                  <button className="btn btn-cancel" onClick={() => setIsEditing(false)}>
-                    Cancel
-                  </button>
-                )}
+                <button className="btn btn-print" onClick={handlePrint}>
+                  <Printer size={18} /> Print Chapter
+                </button>
               </div>
             </div>
 
-            {/* Editor or Markdown View */}
-            {isEditing ? (
-              <textarea 
-                className="markdown-editor" 
-                value={editContent} 
-                onChange={(e) => setEditContent(e.target.value)}
-              />
-            ) : (
-              <div className="markdown-body">
-                <Markdown>{chapters[activeChapter].content}</Markdown>
-              </div>
-            )}
+            {/* Chapter text */}
+            <div className="markdown-body">
+              <Markdown>{chapters[activeChapter].content}</Markdown>
+            </div>
             
           </div>
         )}
